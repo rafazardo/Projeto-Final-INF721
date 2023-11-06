@@ -1,0 +1,3682 @@
+Dialogue
+Script: The Millennial Fair
+ Spoiler Warning: this page contains detailed plot
+information 
+Chrono Trigger Script
+~ The Millennial Fair ~
+Cronos house
+Gina
+"Crono� Crono! Good morning, Crono! Come on, sleepy head! Get up! Ah,"
+Leenes Bell makes such beautiful music! You were so excited about the
+"Millennial Fair that you didnt sleep well, did you�? I want you"
+"to behave yourself today! (pause) Lets get moving, now!"
+(Crono goes downstairs)
+"Finally! By the way, that inventor friend of yours� Uh, you know�!"
+"Oh, dear, Ive forgotten her name!"
+(input Lucca's name)
+"Thats right, Lucca! Dont forget that she invited you to see her"
+new invention!
+"Run along now, and be back before dinner."
+(Crono talks to her again)
+"Oh, I almost forgot! Heres your allowance, dear! Have fun at the fair!"
+*Received 200G!*
+Truce Inn
+maid
+Come on in! Take your bloody time�! Id rather serve you than
+"go to the fair, anyway"
+pianist
+Are you buying?
+ Sure. » Thanks! Ill play
+"you a song. (plays ""Green Memories"")"
+ Sorry. » (nothing happens)
+man at desk
+Been to the fair yet?
+ Yes. » Wasnt that a trip?!
+"I spent all my Silver Points at the ""Tent of Horrors!"""
+" No. » Well get going , then!!"
+Youll have to wait a thousand years for another Millennial Fair!
+clerk
+Lodging is 10 G.
+ Check in? » (Crono
+sleeps)
+" No, thanks. » See ya around."
+man upstairs
+Remember that earthquake we just had?
+ Yes. » Weve been having
+"too many. Somethings wrong� Hope the ""Big One"" isnt"
+coming!
+" No. » No? Airhead, huh? Well,"
+never mind.
+Truce Market
+poyozo
+Visit our stall in Leene Square!
+Truce Residence
+man
+"That brat, Lucca, says shes made the discovery of a lifetime."
+woman
+Im so happy I could scream!
+Truce Residence
+woman
+"Hard to believe Guardia is now 1000 years old, and our King is the XXXIII"
+descendent to the throne!
+But how can he rule a kingdom when he cant even control his own daughter?!
+Truce Ticket Office
+man
+Sometimes a mysterious whirlpool appears in the ocean near here. What
+could cause that?
+Elaine
+If only Fritz would return. Id ask for nothing more!
+(after a few moments)
+I guess he's forgotten me.
+clerk
+Its 10 G to Porre. Hop aboard?
+ Yes. » (Crono rides the
+ferry)
+ No. » (nothing happens)
+Luccas house
+Lara
+"Oh, hi Crono. Luccas off at Leene Square with her father, Taban,"
+unveiling her new invention.
+Guardia Castle
+solider
+(if Crono arrives alone)
+Whos there! Cant let you through. Go check out the festival!
+(if Marle is present)
+Who's there!
+Marle
+"Cmon, lets check out the fair!"
+Zenan Bridge
+clerk
+Im opening a stall at the fairgrounds. Why dont you drop
+by!?
+man
+Going to the fair!
+little girl
+Yea! A festival! Lets get crazy!
+old man
+Always wanted to go to a 1000th Anniversary!
+man
+"All right, everyone! Lets have some fun!"
+Porre Inn
+clerk
+20G in advance� Well?
+ Yes » Very well! (Crono
+rests)
+ No » Come again soon.
+Snail Stop
+woman
+Some monsters coexist with humans. Like that piano player.
+man at bar
+400 years ago a woman named Fiona died trying to save the great forest
+that once flourished
+to the north. How sad
+bartender
+"Ive got the best Jerky in town, but Im saving it. I might"
+"let some go for, say, 9900G."
+How about it?
+ Yes. » Not enough cash.
+ No. » Didnt think so
+patron
+Everyones over at the festival. What fools!
+kilwala
+Im the piano man
+"Play a sad one, Joe! » (plays ""In"
+"the Depths of the Night"")"
+"Something upbeat, please! » (plays"
+"""Bike Chase"")"
+Porre Residence
+woman
+"I wanna go to the festival, too!"
+man
+Grandpa & Grandma went to the 1000th Anniversary in Truce. Were
+keeping an eye on things here!
+Porre Mayors Manor
+woman
+The children are slipping away from us. Its so sad
+daughter
+"The person I hate most? My dad, of course."
+son
+Dad loves money more than he loves me...
+daughter
+"Everyone says Daddys greedy. Theyre lying, right?"
+Elder
+Ha! I run this town! And Im so rich I dont know what to do
+with it all!! Give you 10G if you act like a chicken!
+ Yes. » (Crono does)
+"HAAAHAHA! Here ya go, 10G!"
+ No. » Bo-oring!
+Porre Ticket Office
+boy
+Nothing like a ferry ride!
+woman
+I take the ferry every chance I get!
+clerk
+A one-way ticket is 10G. Want one?
+ Yes. » Here you go. Have a nice
+day!
+ No. » But youd love the
+trip! I guarantee it!
+Leene Square (south)
+old man
+Welcome to the Millennial Fair! Have fun!
+little girl
+"Those runners are busy racing, so they wont talk to you."
+old woman
+"The Kingdoms been through a lot, like the war against Magus, 400"
+years ago.
+Thank goodness things are so peaceful now.
+old man
+(will say one of the following)
+I knew it! Its the Green Amber!
+"Catalack, youre a sure bet!"
+Cant anyone beat G.I. Jogger?
+The Steel Runner might try something.
+woman
+"I heard this guy pays big bucks for charms, weapons, pendants, and other"
+rarities. (referring to Melchior)
+tent attendant
+"This is the renowned ""Tent of Horrors!"" Spend your __ Silver Points here!"
+Parental discretion advised.
+boy
+Whats the big deal? So what if we won a war against a Wizard hundreds
+of years ago!
+Melchior
+"Buy something from Melchior, the swordsmith?"
+ Sure. » (after sale)
+I live on the continent to the east. Come see me sometime
+ No thanks. » (nothing
+happens)
+(if Marle is present he continues�)
+By the way� Could you talk that young lady into selling her pendant?
+" Ill try. » Oh, my!"
+"Its�the pendant�! Er, sorry, but I cant buy that!"
+Its�far too special! Keep it safe!
+ No. » (nothing happens)
+woman
+I heard Lucca and her dad have made another crazy invention. Hope it
+doesnt blow up like all the others!
+(if Marle is present she continues�)
+They ought to be ready now. Make for the far side of the Square.
+Marle
+"This is going to be fun! Come on, Crono!"
+little girl
+This is Leene Square. They say people who hear Leenes Bell ring
+will have interesting and happy lives!
+Marle
+Crono� Im having a great time!
+little girl
+Luccas device is all set up. Shes at the north end of the
+Square.
+Leene Square (middle)
+Marle
+(Crono bumps into her)
+"Hey!! Ouch, that hurt!"
+(Leenes Bell chimes)
+"Im so sorry! Are you okay? Uh oh� My pendant! Oh, no! Dont"
+tell me I lost it!
+(Crono retrieves pendant)
+"Oh, thank goodness! My pendant! It has a lot of sentimental value! May I"
+have it back?
+ Yes. » I came to see the Festival!
+"You�live in this town, dont you?! I feel a little out of place"
+here.
+Would you mind if I walked around with you for a while?
+" Sure. » Youre a true gentlemen! Oh,"
+"by the way� My name is, er"
+(input Marles name)
+"um, Marle! And"
+"youre? Crono? What a nice name! Pleased to meet you! Now, lead on!"
+" Sorry. » Oh, come on! I dont know"
+anyone around here! Please! (choice repeats)
+ No. » (nothing
+happens)
+clerk
+You have __ Silver Points. Want to exchange 10 Silver Points for 50 G?
+ Yes. » Come again.
+(or) Not enough Silver Points.
+ No. » (nothing happens)
+man
+Theyre still setting up. Why dont you come back in a while?
+candy seller
+"I hate fairs! Say, do you know the latest gossip?"
+ Yes. » Then scram!
+" No. » Just between us, I heard"
+the King is distressed over his tomboy of a daughter!
+Just
+"once, I would like to see how wild she really is!"
+man
+Keep going if you want to demo Luccas robot battle trainer! Collect
+Silver Points if you win!
+little girl
+Wahhh! Wheres my cat?!!
+(Crono returns the cat)
+You brought back my cat! Thank you!
+Marle
+(giggles)
+"Youre so sweet, Crono!"
+soda
+enthusiast
+Its a soda guzzling contest! Press the A button as fast as you can!
+Ready? Set? Go!
+(if Crono drinks all eight)
+Not bad! Ill put 5 Silver Points on your card.
+(if Crono drinks seven or less cans)
+Only __ cans? Is that the best you can do?!
+Marle
+(giggles)
+"Youre awfully competitive, arent you Crono?"
+old man
+No time to talk. Im just sitting down for my lunch.
+Marle
+(if Crono eats the lunch)
+(giggles)
+"Youre such a pig, Crono!"
+Gato
+They call me Gato
+I have metal joints
+Beat me up
+And earn 15 Silver Points
+(if defeated)
+I lost You won
+Heres 15 Points
+Now wasnt that fun!?
+(if victorious)
+You're so weak
+And I'm so strong
+I punched your lights out
+Now run along
+little boy
+"Catchy rhythm! Use the X, Y, L, and R buttons to dance!"
+young girl
+Ladeedadeeda! Got some spending money from the Elder!
+woman
+A prehistoric dance. How enchanting!
+young girl
+"After pressing the B button and dashing here and there, Im pooped!"
+But this dance has rejuvenated me!
+performers
+Jurassic
+rhythm
+Leene Square (approaching north exit)
+Marle
+Hold your horses! I want to get some candy.
+(if interrupted)
+Give me just a second!
+(if interrupted again)
+Theres no need to drag me by the arm like some kidnapper!
+(pause while she decides)
+Hi! Id like some of this.
+candy seller
+"Sure, young lady."
+Marle
+(giggling)
+Thanks for waiting!
+Leene Squae (north)
+Taban
+"Step right on up, any of you who have the time and the courage!"
+"Our ""Super Dimension Warp"" is the invention of the century!"
+"To use it, jump up here� (stands before left pod) �and"
+youll get teleported here! (moves to right pod)
+"Its the masterwork of my beautiful daughter, Lucca."
+woman
+Luccas inventions never work right.
+boy
+Check out that girls glasses!
+old man
+She could probably see the back side of the moon with those.
+Taban
+"Give it a try, kid? �Oh, its you, Crono!"
+Lucca
+Crono! Where have you been!? No one wants to try the Telepod! How about
+you?
+Marle
+It looks like fun! Ill watch while you try it out!
+Lucca
+Just hop onto the left pod!
+Taban
+"Dont worry, we tried it on our pets! Theres no reason why"
+it shouldnt work as well on humans!
+"So, step right up!"
+(Crono steps onto the left pod)
+All systems on!
+Lucca
+Begin energy transfer!
+crowd
+(Crono teleports to right pod)
+Oh wow. That was GREAT!
+woman
+"I guess even HER inventions have to work, sometimes."
+old man
+Wow!
+Lucca
+So how was it? Want to try it again?
+Taban
+"It�WORKED?! I CANT BELIEVE IT! Uh, er, a thrilling display"
+"of science at its best, ladies and gentlemen!"
+Marle
+"What a kick! I want to try it, too!"
+Lucca
+"Huh? Hey Crono, how did you pick up a cutie like her?"
+Marle
+"Hang on, Crono! Ill be right there!"
+Taban
+"Behold, ladies and gentlemen, as this vision of loveliness steps aboard"
+the machine!
+Marle
+Dont go away. Ill be right back!
+Taban
+Youre sure about this�? Theres still time to change
+your mind!
+Marle
+No way! Throw the switch!
+Taban
+"Okay, everyone, lets give her a great big hand when she reappears!"
+All systems on!
+Lucca
+Begin energy transfer!
+Marle
+(pendant begins to sparkle)
+Whats happening? My pendant�its
+Lucca
+(sparks fly between pods)
+Huh?
+Taban
+(Marle disappears into gate)
+"Lucca! Where is she?! Shows over, folks! Lets head along now!"
+Whats going on Lucca? WHERE IS SHE?
+Lucca
+The way she disappeared� It couldnt have been the Telepod!
+The warp field seemed to be affected by her pendant
+Taban
+What are we going to do now?
+Lucca
+Shes so familiar! I KNOW Ive seen her somewhere
+(Crono gets on left pod)
+Crono!
+Taban
+Youre actually going to do it?! What a fine lad!
+Lucca
+"Listen! I dont know where this machine is going to send you, but"
+we havent any other choice.
+Taban
+Wont they both be lost?
+Lucca
+"This is our only hope! That pendant seems to be the key, so hang on to"
+"it Crono, and brace yourself!"
+Taban
+All systems on!
+Lucca
+Begin energy transfer! Power to full!
+Taban
+Roger!
+Lucca
+More! Give me more power!
+Taban
+Roger!
+Lucca
+(sparks fly between pods)
+There! We did it!
+(Crono disappears into gate)
+"Ill follow you after I know what went wrong. Good luck, Crono!"
+Script: The Queen Returns
+ Spoiler Warning: this page contains detailed plot
+information 
+Chrono Trigger Script
+~ The Queen Returns ~
+Truce Inn
+clerk
+Thatll be 10 G. Register?
+ Yes. » (Crono sleeps)
+ No. » (nothing happens)
+soldier
+"""Where am I?"" Are you stupid? THIS is the kingdom of Guardia! Were"
+battling Maguss army.
+"You DID know that, right?"
+ Of course. » Then shut your
+pie hole!
+ No. » Lovely� We NEED more
+ignorant strangers around here
+patron
+Millennial Fair? What? Are you crazy?! What nonsense!
+soldiers
+at bar
+#1: What a relief! They finally found Queen Leene wandering up
+in the mountains! She must be glad to be home!
+The Queen has been through a lot! Shes babbling
+about the oddest thing.
+#2: Everyone was worried! The King freaked when the Queen took off.
+We all thought Magus had grabbed her.
+Thank goodness shes safe!
+Toma
+"Are you a stranger here, too? Im Toma, the explorer. If youre"
+"buying, Ill tell you a story. How about it?"
+ Sure. » Cider please! Thanks!
+Its about the missing Queen. She disappeared while visiting that cathedral
+"to the west, and� Beg your"
+pardon? WHAT?! They FOUND her? Never mind
+(if Crono talks to him again)
+I was sure there was something fishy about that cathedral
+" No. » So, you think Im"
+"a beggar, huh?! Well, scram!"
+man
+"The Maguss Army destroyed Zenan Bridge, so the south continent"
+is inaccessible.
+Residence
+Banta
+"Im Banta, the blacksmith. Im forging a bell for the King"
+to present to his beloved Queen Leene! I lost it when the Queen disappeared.
+I just couldnt keep working on the bell. But now its back to
+business as usual!
+Banta's wife
+My husband wants a daughter who is as intelligent as she is beautiful.
+Market
+knight
+Youre going to fight Maguss army? Wonderful! But remember
+to equip yourself with the weapons you buy!
+clerk
+No window shoppers! Whaddaya want? (after sale) Thanks.
+See ya.
+Residence
+woman
+A Millennial Fair? Here? What ARE you talking about? Its the year
+"600, and the 21st King of Guardia reigns."
+man
+Weve been at war for years. When will it end?
+Zenan Bridge
+soldier
+This bridge is being fixed because Maguss Army trashed it.
+"But until Sir Cyrus returns, well fight Maguss Army, tooth and"
+nail!
+Guardia Castle
+soldiers
+at entrance
+"Halt! Who goes there! Check out that hair! Wherere you from, son? Are"
+you one of Maguss troopers? Hardly! This kid never would have made
+"the cut! Show us your stamp collection, son! Har, har! Now beat it, shrimp!"
+Queen
+Stop that at once!
+soldier
+Queen Leene!
+Queen
+Show your manners! This is a friend of mine!
+soldier
+But theres something odd about him!
+Queen
+You refuse to obey my orders?!
+soldier
+"Forgive me, my lady! Please enter, Sir!"
+Queen
+Giggle
+soldiers
+at entrance
+#1: Please pardon us! We revere our Queens guests!
+"#2: I envy you, whom the Queen calls friend!"
+soldiers
+#1: King Guardia the XXI is in the throne room.
+#2: Mind your manners!
+Chancellor
+Hmmm� (leaves)
+King Guardia XXI
+"Sir! I understand that you are the one who saved my dear wife, the Queen!"
+But can you tell me what happened? Leenes acting rather odd. And she
+"seems to have lost her coral pin, which is something she guarded with her"
+life� Forgive me! You must be tired. We can talk about this later. Please
+"rest in the Knights quarters, downstairs, to the left."
+knights
+#1: The Queen seems to be waiting for you upstairs in her room.
+#2: The Kings room is upstairs. The Knights quarters are
+"downstairs, to the left."
+King's Chambers
+Chancellor
+Hmmm� What do you want? Get out of my face!
+knights
+"#1: Just between us, the Chancellors been acting VERY strange"
+lately. Hes been sneakin out at night
+"#2: Speaking of nut cases, I havent seen the Queens guard,"
+"that frog-thing, recently. Heard a spell turned him"
+into a frog. Do you believe that? I think hes
+a spy!
+attendant
+"People say the Chancellors gone crazy, but I wont believe"
+it. The Chancellors a decent man.
+"Why, he goes to the cathedral everyday."
+Queen's Chambers
+knight
+The Queen awaits.
+attendant
+The Queen married into the family 10 years ago. She still looks so youthful!
+"In fact, she looks even younger now than on her wedding day"
+attendant
+YOU saved our Queen? You dont look that tough.
+Queen
+Ah! There you are. Please leave us. I need to talk to this individual.
+attendants
+"Certainly, your Highness."
+Marle
+"Come nearer, Sir."
+(Crono steps forward)
+"Giggle� Fooled you, didnt I, Crono? Its me! But everyone"
+"calls me, Leene! Im so relieved youre here! We barely know each"
+"other, but somehow I knew youd come for me� Thank you, Crono!"
+(room is enveloped by green light)
+"S, somethings wrong!!! W, whats happening?! It feels"
+"like�Im being torn apart! Help me, Crono! Im scared!!!"
+"Please�Crono �h, help me!"
+(Marle disappears)
+attendant
+"Has she dismissed you already? You were polite, of course? You didnt"
+"do anything�funny, did you?"
+ Of course not! » Are you sure?
+ Well�yes. » Oooh! We
+cant let this juicy tidbit out of the castle!
+attendant
+Did you notice anything odd about the Queen?
+ Yes. » Just as I thought! She
+claims shes not Leene! Theres something�different about
+her.
+Dont mention this to anyone!
+" No. » Okay, if you say so."
+knight
+I grow so tired of the gossip around here!
+Leaving the Queen's Chambers
+Lucca
+"Crono! Huff, puff�youre okay! Did you find the girl?"
+(pause) GONE?! Whaddya mean shes gone?!
+Hmm�its just as I thought. I knew I recognized her! And this looks
+identical to the castle in OUR time! Ill bet they mistook that girl
+"for her ancestor� You see, shes a member of the royal family in"
+OUR time! Shes Princess Nadia!
+"Marle, that is, Princess Nadia, is a descendent of Queen Leene! Queen Leene"
+"has been kidnapped. As I recall, someone was supposed to have saved her."
+"But history has been changed! Marle looks so much like Leene, that they probably"
+called off their searches when she appeared here. But if the real Queen is
+killed� � Marle will simply disappear. There might still be time!
+"If we can save Leene, history as we know it should remain unchanged! Something"
+"must have happened to the Queen in this era. As a result, Princess Nadia"
+ceases to exist! Hurry! We have to find the real Queen!
+Knight's Quarters
+soldiers upstairs
+#1: Go downstairs if you want to rest.
+#2: The Knights quarters is downstairs.
+soldier downstairs
+Maguss troops are strangely quiet� Somethings about
+to happen.
+seated soldiers
+"#1: Oh! If only Sir Cyrus were here! Youve heard of him,"
+havent you?
+" Yes. » If HE were here, this"
+whole mess with the Queen would never have happened
+ No. » You dont know of
+Sir Cyrus?! From which land do you come? Or are you simply a fool?
+"#2: Long ago, a beast called Yakra lurked in the western forest. But"
+"after the cathedral was built, Yakra"
+disappeared. Were thankful for that.
+#3: Sir Cyrus was the Commander of the Knights. His mission was to
+protect the King and Queen. He and
+a friend left on a journey 10 years ago. No one has heard from them
+since.
+"#4: What a relief, the Queens been found. Now we can concentrate"
+on the war!
+Knight Captain
+Zenan Bridge is our last line defense! We MUST guard it with our lives!
+So youre the one who helped the Queen. Talk to the maid if you need
+to rest.
+maid
+Take a snooze?
+ Yes. » (Crono rests)
+ No. » (nothing happens)
+Dining Hall
+soldiers upstairs
+#1: The dining rooms below.
+"#2: The chefs got a nasty temper, so dont get in his way!"
+soldiers
+at table
+#1: This dining room is for us soldiers. Feel free to grab a bite.
+#2: Maguss troops had better watch out for us!
+#3: The chefs food is great. I give it 3 stars.
+hungry soldier
+I� Im hungry
+waitress
+Heres your food!
+hungry soldier
+All right! (eats) This is great!
+Knight Captain
+(as Crono exits Captain enters)
+Wheres supper?
+waitress
+"Oh, Captain! Im sorry"
+Knight Captain
+Were fighting a war out there! Cant you even keep us fed?
+chef
+What are you fussing about? Youre not the only one whos fighting
+out there!
+Knight Captain
+"Hey, I dont have time for this. Just feed my men, okay?"
+(leaves)
+chef
+"Shut your trap! Ill decide whos going to get fed, and when!!"
+knight
+"The Knight Captain is trying hard to fill the shoes of his predecessor,"
+"Sir Cyrus, Commander of the Knights."
+knight
+The Knight Captain is normally very kind. The chef just rubs him the
+wrong way.
+waitress
+So! YOU saved Queen Leene!
+(following line added after Captain's visit)
+"The chefs stubborn, but hes a good man"
+assistant
+This place is a mini war zone!
+(following line added after Captain's visit)
+My husband chose this life because hes a pacifist.
+chef
+This is no place for kids! Wait! Maybe youd know! Whats this
+"""Eyes Cream"" stuff that Queen Leene wants so badly?"
+(following line added after Captain's visit)
+That fool�he thinks HES the boss!
+waitress
+Hungry? Sit down at the upper left corner of the left table. (Crono
+does)
+What will you have?
+ Refresh Salad (recovers MP)
+ Power Stew (recovers HP)
+ Hyper Kabob (recovers HP/MP)
+"Just a sec, okay? (gets food) Here you go!"
+(following line added after Captain's visit)
+"Those two are brothers. Youve heard the expression, ""sibling rivalry,"""
+right?
+Script: The Queen is Gone
+ Spoiler Warning: this page contains detailed plot
+information 
+Chrono Trigger Script
+~ The Queen is Gone ~
+Manoria Cathedral
+nuns
+"#1: We want nothing but world peace� Or a piece of the world,"
+"tee, hee"
+#2: You might like to stick around for the organ recital. Its
+a real killer!
+#3: People wouldnt know what to do with themselves in a truly
+"peaceful world! My, what delicious, er"
+"I mean, delightful looking humans!"
+#4: Oh dear! It looks like you could use some food and a place
+to�rest!
+Lucca
+(Crono investigates object on ground)
+What did you find?
+(picks it up)
+A hair pin. Thats Guardias royal crest!
+(nuns transform into Naga-ettes and attack)
+Phew! That was close!
+(another Naga-ette appears and hits Lucca)
+Aack!
+Frog
+(appears and vanquishes enemy)
+Lower thine guard and thourt allowing the enemy in. Thourt
+here to save the Queen? The lair is deep within.
+Will thee accompany me?
+Lucca
+"A�a frog!? Crono, its a talk FROG! I hate frogs!"
+Frog
+"My guise doth not incur thy trust� Very well, do as thee please."
+But I shall save the Queen.
+Lucca
+"W,wait! You dont seem like a bad� �uh,"
+person-frog-thing� I mean� Crono! What should we do?
+ Go with the frog. » Ill
+just have to handle it! I mean�deal with�him!
+ Refuse. » It may be risky going
+alone� (choice repeats)
+Whats your name?
+(input Frogs name)
+Frog
+Frog will do.
+Lucca
+All right� Nice to meet you Frog.
+Frog
+Mayhap a hidden door lurks nigh? Let us search the environs.
+Cathedral (room 1)
+Diablos
+Buurp! Hey whats with the disguise? No need for them here! Its
+almost my shift. I hate pretending to be human� its so repulsive.
+Naga-ette
+Burrp! The ones we ate recently werent SO bad. And those 2 soldiers
+we caught look rather plump and juicy
+Hench
+Yakras so smart! His plan to capture the Chancellor and take his
+"place worked perfectly! Now the Queens captive, and the castles"
+in an uproar. This is rich!
+Diablos
+Ill look in on Maguss statue before my shift.
+(leaves)
+Cathedral (room 2)
+faux-soldier
+"A�are you here to save Queen Leene?! Oh, what a relief!"
+faux-king
+How nice of you to come. Im sure Yakra will be just as pleased.
+Why not rest in here until hes available?
+faux-Leene
+"There was no need for you to come rescue me! The master, Yakra is very"
+kind! Ive decided to stay here. Now why dont you make yourselves
+"at home, too!"
+(upon Crono's trying to leave)
+"Dont be in such a hurry� Enjoy yourselves, first�Hee hee."
+(transform into Gnashers)
+Cathedral (statue room)
+chorus
+Oh�dearest Magus
+Your flashing eyes�like stars
+And flowing hair
+Like waves atop the sea
+No sad sunny day nor any frightful
+bright place can get us down
+as long as youre near
+Theres nothing to fear
+"Magus, oh Magus"
+"Our Hero, Magus"
+(upon being interrupted)
+Come join us in singing your funeral dirge! Gyah hah ha!
+Cathedral (room 3)
+Hench
+(Crono finds the secret Naga-ette Bromide; Henches
+enter)
+Hey everyone! Humans! Theyre after the Bromide! Get them!
+Cathedral (prisoner room)
+soldier
+"Y,youre humans? Theyre hiding the Queen in the back. Please"
+rescue her!
+soldier
+"Inside this building, theres a room dedicated to Magus� Heard"
+something about a treasure there.
+Cathedral (room 4)
+Hench
+"Snooore�szzzzzz� Nooo, stop it! I SAID that you cant"
+(wakes up)
+Huh?! Ill say this! You know what youre doing!
+Cathedral (innermost room)
+Chancellor
+"Prepare yourself, Queen Leene."
+(Crono approaches)
+YOU! How did you get in here?
+Leene
+Frog!
+Frog
+"Majesty, stand back and allow us the honor!"
+Leene
+Be careful!
+Chancellor
+"Gyah, ha, ha� Its useless to fight! No one will leave here"
+alive! Stupid frog! Its time you jumped off this mortal coil!
+True-form�CHANGE!
+*Reverts to Yakra!!*
+Leene
+(after Yakra's defeat)
+You came to rescue me! Thank you Frog.
+Frog
+"The King awaits. Let us return to the castle. I thank thee Crono, and"
+Lucca.
+Leene
+"Yes, thank you so much. Please join us."
+Real Chancellor
+(rescued from within a chest when Crono
+opens it)
+"Phew, thank you! That monster stuffed me in there. Oh! Your Highness! As"
+"you can see, I am undamaged!"
+Leene
+Lets return to the castle!
+Real Chancellor
+(if not already resuced)
+"W, wait!! What about me?"
+Guardia Castle
+King Guardia
+"You had me worried, Leene."
+Chancellor
+That no good Yakra! Impersonating me and kidnapping the Queen! We MUST
+create a criminal justice system in this Kingdom to do away with such fiends.
+Frog
+I failed to protect Queen Leene. I hath disgraced thee.
+Leene
+Frog!
+(Frog bows and exits)
+(speaking to Crono)
+Your timing was perfect. Who knows what would have happened had you not saved
+"me! By the way, where is the girl who was mistaken for me?"
+Lucca
+"Oh, yeah! I forgot all about Princess Nadia! Crono! Where did Princess"
+Nadia disappear? She may still be there!
+King Guardia
+"Thank you, Crono. But�who was that girl we found in the canyon?"
+knights
+#1: So� she wasnt Leene after all.
+#2: The King and Queen make such a great couple!
+Queen's Chambers
+Marle
+(reappears)
+Huh? What happened?
+Lucca
+Princess Nadia!
+Marle
+Crono! It was awful� I cant recall it all� I was somewhere
+"cold, dark�and lonely. Is that what its like to�die?"
+Lucca
+"Welcome back, Princess Nadia!"
+Marle
+"You risked your life to help me, too?! ""Princess�Nadia�?!"" Uh oh"
+"I guess you guys figured it out, huh? Sorry, Crono. I didnt mean to"
+deceive you. Im Princess Nadia. My fathers King Guardia the XXXIII.
+I really enjoyed being with you at the fair. But if you had known my
+"identity� Crono, you wouldnt have shown me around the fair,"
+right!
+ Right. » See? I like Marle better
+"than ""Princess,"" anyway!"
+" Wrong! » Oh, Crono! Thats"
+why I like you!
+"The real Queens safe, right? So lets go home, Crono!"
+attendant
+But youre a dead ringer for her.
+(following line added after recovering Marle)
+"You guys leaving? Wherever youre heading, be careful!"
+attendant
+Which means the real Leene was somewhere else. Its exactly as I
+thought.
+Castle Throne Room
+Marle
+"Youre the real Queen Leene, huh?!"
+Leene
+You really could be my twin.
+Marle
+"Well, you two better get along� or Ill be in big trouble."
+Ill keep my fingers crossed!
+Leene
+Excuse me?
+Marle
+Um...never mind! I guess its time to go!
+Leene
+"You seem like one of the family, now!"
+King Guardia
+"Thank goodness, youre safe!! You may resemble Leene, but you sure"
+"dont act like her! Anyway, youve really helped me. Let me know"
+how I can repay you.
+Chancellor
+"Wow, you could be Leenes twin!"
+Castle Entrance
+Frog
+"Twas a fault of mine, which endangered the Queen. I shall depart"
+for good.
+Marle
+Eeeek!
+Frog
+"Indeed, your resemblance to the Queen is uncanny. Crono, you hath potential"
+to be a good swordsman! (leaves)
+Lucca
+"Froggy, you werent such a bad guy either."
+soldiers
+#1: This ought to relieve the King.
+#2: Leenes presence always brightens things up.
+#3: You can come and go as you please from now on.
+"#4: You sure were lucky, defeating Yakra and all."
+King's Chambers
+knights
+#1: Didnt know that a frog could be so brave.
+#2: Hmm. I still think theres a conspiracy going on here!
+attendant
+"A beast was posing as the Chancellor? Well, the fake one had much better"
+taste.
+Knight's Quarters
+soldier downstairs
+I guess Maguss troops kidnapped Leene.
+seated soldiers
+#1: We must crush Maguss troops!
+#2: Heard that Maguss troops put Yakra up to it all.
+#3: (same statement as previous chapter)
+#4: Cant believe the cathedral was their hideout.
+Knight Captain
+So! That cathedral was at the heart of it all. That Frogs done
+"a fine job. But since Maguss troops failed to kidnap Leene, theyll"
+probably be back soon. If only Cyrus were here!
+Dining Hall
+knight
+Now the Knight Captain can concentrate on battling Maguss troops.
+knight
+Hard to believe she wasnt Leene
+waitresses
+"#1: Well, Leene would never snack before meals like that other"
+girl did!
+#2: I THOUGHT she ate too much to be our Queen.
+assistant
+The REAL Leene? Wonderful! Lets prepare a feast!
+chef
+What?! That wasnt Queen Leene?! And I wasted my time whipping up
+"a batch of that ""Eyes Cream"" dish she wanted so badly! Yuck!"
+Zenan Bridge
+soldier
+That frog made it across by swimming to the other side.
+Truce Canyon
+Marle
+How do we get home?
+Lucca
+"Your Highness, er, Princess�we"
+Marle
+Please call me Marle!
+Lucca
+"Well then, Marle� Observe!"
+(opens Gate)
+Marle
+Wow! Lucca! Youre amazing!
+Lucca
+"Aint it the truth! Oh, um�I mean"
+Marle
+Enough with the false modesty! You have a real gift! I would trade my
+royal ancestry for your genius in a heartbeat!
+Lucca
+"Well, if you say so� Anyway, I call this thing a ""Gate."" Its a"
+"kind of portal, that takes you to the same location in a different era. Gates"
+"are very unstable, so I used the principle behind my Telepod device"
+"to create a ""Gate Key."" Now we can use them as we please."
+Marle
+But why did this Gate suddenly appear?
+Lucca
+"Either the Telepod had something to do with it, or�something else"
+made it.
+Marle
+This is getting pretty weird. Lets at least head back to our own
+time!
+Lucca
+"All right! Coming, Crono?"
+(everyone enters the Gate)
+Script: We're Back!
+ Spoiler Warning: this page contains detailed plot
+information 
+Chrono Trigger Script
+~ We're Back! ~
+Leene Square
+Marle
+"Phew! Were back! Crono, Lucca, why dont you come home with"
+me to the castle?
+Id like you to come over for dinner!
+Lucca
+"Sorry for putting you through all that, Marle."
+Marle
+Are you joking? Thats the most fun Ive had in months! And
+"I have some new friends, too!"
+Lucca
+"Crono, be a gentleman and take her home. Ive got some work to do."
+Marle
+"See you soon, Lucca! Will you escort me home, Crono?"
+merchant
+The merchants went back to their warehouse to stock up on more goods.
+woman
+I heard the Princess ran away from home again!
+Crono's house
+Gina
+"My, how nice! Ive only seen you with Lucca! Whos your pretty"
+new friend?
+Marle
+"Hi, Im Marle!"
+Gina
+"Eh?! Marle? �? Im sure Ive seen you before, dear! Now,"
+where was that�?
+Lucca's house
+Lucca
+"Hmmm, two-legged, walking humanoid robots are virtually impossible to"
+create. Oh! Crono! Hurry up and escort the Princess to the castle!
+Taban
+Heres what we earned today!
+Lara
+Youre so thoughtful.
+(to Crono)
+Lucca and Taban only care about their silly toys!
+Taban
+Youre Luccas friend right?
+Truce Residence
+woman
+There used to be a cathedral in the woods to the west. I wonder what
+became of it?
+Truce Residence
+man
+"Heh, heh�youre never too old to collect Silver Points!"
+Truce Market
+clerk
+Elaines down at the pier again? That Fritz! Where could he be?
+(notices Crono)
+Oh! Hello! What can I do for you?
+(after sale)
+Thank you very much.
+Script: The Trial
+ Spoiler Warning: this page contains detailed plot
+information 
+Chrono Trigger Script
+~ The Trial ~
+Guardia Castle
+Chancellor
+Princess Nadia! Are you all right? Where have you been?! I heard you
+were abducted!
+We had soldiers searching for you!
+(notices Crono)
+"Scoundrel! Youre the one, huh? Kidnapping Princess Nadia!"
+Marle
+No! Cronos
+Chancellor
+Admit it! You confused her and tried to take over the throne! Terrorist!!
+Marle
+"S,stop it!"
+(soldiers surround Crono)
+Stop this at once!!
+(soldiers stop)
+Chancellor
+What are you doing!
+soldier
+But Princess Nadia said to
+Chancellor
+Idiots! Detain him!!
+(soldiers grab Crono)
+Marle
+Crono!!
+Courtroom
+Chancellor
+"Im the Chancellor, the prosecutor!"
+Pierre
+"Im the lawyer, Pierre."
+Chancellor
+"Members of the court. We now bring forth the defendant, Crono, who is"
+charged with abducting Princess Nadia.
+(brings Crono into room)
+"What shall we do with him? Fire, perhaps? Hang him upside down for a few"
+"years? Or�shall we employ the guillotine? You, the jury, shall decide"
+"his fate. Now, let us begin."
+Judge
+"Crono, you are hereby ordered to tell the truth!"
+Pierre
+"Crono is charged with ""Premeditated Abduction of Royalty."" The question is,"
+"did he kidnap Princess Nadia? The answer? No, he did not. In fact, no ""abduction"""
+"took place! The two met completely by accident. In fact, the Princess ASKED"
+Crono if SHE could join HIM!
+Chancellor
+Is this true? Who actually started this whole mess?
+ I did. » Just as I suspected!
+The defendant deliberately tried to get near the Princess!
+ Marle did. » Are you sure? We
+have witnesses wholl say YOU were the one that bumped into
+the princess.
+(flashback to Crono bumping into Marle)
+The Princess then innocently followed you to Luccas little sideshow.
+"Whereupon you both disappeared! If that wasnt criminal abduction, I"
+dont know WHAT is! And I have facts that throw the defendants
+character into question!
+Pierre
+Objection! This cant have any relevance whatsoever to this case!
+Judge
+"Care to respond, Chancellor?"
+Chancellor
+Cronos character is at the very core of this case!
+Pierre
+We have nothing to hide.
+"(following said only if Crono found the cat. If not,"
+trial will jump to Chancellor's
+thievery question if Crono ate the lunch
+"or, if not, Pierre's regarding motive)"
+We have a witness. A little girl who will vouch for the character of the
+defendant.
+little girl
+This nice man� He brought me my kitty. Thank you for being so kind!
+Pierre
+How about that? Doesnt this young man deserve a medal?
+(whispers to Crono)
+Whew� Looks like theyre buying it.
+Chancellor
+(following said only if Crono ate the man's lunch.
+"If not, trial will skip to Pierre's comments"
+on motive)
+Have you ever stolen anything?
+ Well�yes. » See! He lacks
+morals! This should be on the record! Hes crying out for help!
+ No! Ive never been a thief. »
+DO NOT feign ignorance! We have a witness.
+old man
+Him! He ate my lunch right off the table!
+(flashback to Crono eating the lunch)
+Chancellor
+"Let the record show that he stole from a poor, helpless man!"
+Pierre
+The issue here is MOTIVE. Was there any motive for this fine citizen
+to kidnap Princess Nadia? No! There was none.
+Chancellor
+"What about ransom? Crono, her fortune DID tempt you, did it not?"
+ No. » Are you sure? You really
+werent tempted?
+ Not at all. » Thats enough. I
+have no more questions. (skip to Judge's comments)
+(or)
+Please keep in mind that he just said he had NO interest in
+her fortune.
+Witness please! (girl enters; said only if Crono
+behaved poorly)
+ Just a bit. » Nothing more your honor.
+The prosecution rests.
+" Yes. » So, you admit it! Nothing"
+more your honor. The prosecution rests.
+woman
+(only enters if Crono twice denied being tempted
+and did perform the following acts)
+"He cant fool me, I saw him with my own eyes! Dear me! Im so nervous!"
+That man grabbed the
+pendant even before he checked to see if the Princess was okay!
+(flashback to Crono picking up the pendant)
+"He didnt seem to want to return it, either."
+"(flashback: Marle: ""Its a family"
+"heirloom. May I please have it back?"""
+Crono: *shakes head*)
+"He tried to sell it to the merchant, Melchior."
+(flashback of Crono speaking with Melchior)
+Chancellor
+And this persons final bit of testimony will prove our case!
+woman
+I heard it clearly. I heard her cry out with my own ears!
+(flashback to Crono interrupting Marle while
+shopping)
+Is that it? Can I go?!
+Chancellor
+Nothing more your honor. The prosecution rests.
+Pierre
+(following said only if Crono did not perform
+"aforementioned acts and answered ""no"" twice to"
+being tempted by wealth)
+"It is evident that my client is a fine, noble young man! Your honor, the"
+defense rests.
+Judge
+"Members of the jury� If he is guilty, stand to the left. If innocent,"
+stand to the right.
+(seven jury members report)
+Order in the court! A verdict has been reached! The verdict is
+" guilty! The sentence? Solitary confinement, pending"
+execution in 3 days!
+ not guilty! But the fact remains that even if
+"he did not kidnap her, he ran off with her. 3 days solitary"
+confinement as punishment.
+Chancellor
+Take him away!
+Marle
+(enters courtroom)
+Now just a darn minute
+Chancellor
+Princess!
+King Guardia XXXIII
+(enters courtroom)
+"Thats enough, my dear!"
+Marle
+But Father�!
+King Guardia XXXIII
+All I asked was for you to behave like a princess. Even royalty must
+obey rules. Leave the rest up to the Chancellor and forget about the events
+in town. Were leaving!
+Marle
+(Crono is taken away)
+Crono!!!
+Guardia Prison
+Chancellor
+This terrorist has tried to overthrow our kingdom! He has been found
+"guilty, and you must now carry out his sentence."
+supervisor
+So THIS is the monster who kidnapped the princess!
+Chancellor
+The execution is 3 days away. Do NOT let him out of your sight!
+supervisor
+(following line said only if Crono was found
+guilty)
+Yes Sir! Guards! Take the prisoner away!
+(if Crono was found not guilty conversation
+continues)
+"Execution?! Strange, but I dont seem to recall hearing anything about"
+an execution.
+Chancellor
+WHAT!!! How DARE you question ME! The paperworks probably just
+been held up in the system!
+supervisor
+"Understood, Sir! Guards! Take the prisoner away!"
+Guardia Prison (text accompanying Crono's solitary escape)
+Guards
+(Crono rattles cell bars)
+#1: Pipe down!
+(Crono does it again)
+#1: Pipe down!
+(Crono does it again)
+#1: Knock it off! Ooh! Ill show him. Open it up!
+(knocks Crono down)
+#1: Thats what you get for misbehaving.
+(Crono gets up and dashes out
+of cell)
+#2: Where do you think youre going?!
+supervisor
+H�Help!!!
+(runs outside to bridge only to be knocked
+down)
+Lucca
+(enters)
+Crono! Ive come to save you!
+"Gee, it looks like you didnt need my help, after all! Lets blow"
+this joint!
+Guardia Prison (text accompanying escape
+with Lucca's aid)
+Guard
+(if Crono was found not guilty
+he receives a package)
+"Some sympathizers brought that stuff for you, you lousy felon."
+soldier
+Were here to take you to your place of execution. Come along.
+(leads Crono to execution room)
+Weve sharpened up the guillotine� Any last words?
+Lucca
+(enters)
+Crono! Ive come to save you!
+soldier
+Who the heck are YOU?
+Lucca
+"Get outta my way!! Take 5, you mugs!"
+(shoots guards)
+"So, what do you think of my Zonker-38? Pretty cool, huh? Lets blow"
+this joint!
+Fritz
+"H,Help me!"
+Save him?
+ Yes. » Youre a life saver!
+Im Fritz. My dad runs a store in Truce village. Stop by if youre
+in the area.
+ No. » (nothing happens)
+Omnicrone
+So YOURE the escaped con!
+(after being defeated)
+They dont pay me enough for this!
+Lucca
+(upon checking on passed out supervisor)
+This is what happens to fools who challenge the mighty Lucca! Ha-hahaha!
+note
+A top secret document has been left behind the floor� Care to read
+it?
+ Yes. » To the Prison
+Supervisor
+"""Dragon Tank Owners Manual"""
+The
+Tank Head repairs body damage. It contains a shield that prevents damage
+by Lightning
+and
+"Fire. Unless the head can be defeated, the Tank is unbeatable. Guardia R"
+& D
+ No. » (nothing happens)
+Bridge
+Lucca
+(mechanical noises are heard)
+What was that?
+Chancellor
+"Forward, Dragon Tank! Crush those rebels!"
+(Crono thrusts sword into tank)
+They got the Dragon Tank!! Fix it! Quickly!
+(tank falls through bridge)
+Dont fool yourselves into thinking youve gotten away with this!
+Castle Entrance
+soldier
+Theyre escaping!
+Lucca
+We have no choice but to break through!
+soldier
+Theyre escaping!
+Marle
+Stop!
+soldier
+Princess Nadia!
+Marle
+This is my friend! Show him your respect!
+soldier
+"B, but"
+Marle
+Cant you take orders?
+soldier
+Of course!
+Chancellor
+Hold it right there! Do as King Guardia XXXIII says!
+Marle
+Father
+King Guardia
+"Silence, Princess Nadia! The throne comes before your personal wishes!"
+Marle
+What!? Just because I have a title doesnt mean Im not a person!
+King Guardia
+You pick up strange ideas venturing outside!
+Marle
+"I didnt ""pick up"" anything! Its called ""common sense!"""
+King Guardia
+Princess Nadia!
+Marle
+I despise you! Im leaving!
+Chancellor
+Princess Nadia!
+Marle
+"Come on, Crono!!"
+Chancellor
+Dont just stand there! After them!
+King Guardia
+Princess Nadia
+Guardia Forest
+soldier
+There they are! Dont lose em!! Theres no escape! Silence!
+Marle
+Looks like a dead end!
+Lucca
+A Gate!
+Marle
+Come on!
+Lucca
+But we dont know where itll take us!
+Marle
+"Who cares?! This place stinks, anyway!"
+Chancellor
+Princess Nadia!
+Lucca
+This is completely irrational.
+Marle
+"Hurry, Crono!"
+Chancellor
+"Princess, move away from that hoodlum!"
+(Crono and friends enter Gate)
+They�disappeared!!
+Script: Beyond the Ruins
+ Spoiler Warning: this page contains detailed plot
+information 
+Chrono Trigger Script
+~ Beyond the Ruins ~
+Bangor Dome
+Marle
+Eeeek!
+Lucca
+Yeoouch�!
+Marle
+"Theres no way the Chancellor can reach us here. But, where are"
+we�?
+Lucca
+The civilization here seems so�advanced
+Marle
+Like were in another world.
+Trann Dome
+man
+Got any cash?
+ Yes. » You call this money?
+"Oh well, I have some good stuff."
+(after sale)
+Save money. Itll do ya good. Thats my motto.
+ No. » Got nothing for you fools.
+men
+#1: Youll find some food at Arris Dome to the northeast. But
+only if you get past Lab 16...
+"The beasts there dont react to weapons,"
+like guns and swords.
+#2: Truce Dome? Never heard of it. This is Trann Dome.
+"#3: If youre looking for food, you lose!"
+woman
+Kingdom�? Whaddaya talking about�?
+man
+"This is an Enertron. You get a full nights sleep in a few seconds,"
+but it still leaves you hungry.
+Arris Dome Entrance
+Doan
+"You there, wherere you from?"
+Lucca
+We came from the laboratories to the west.
+Doan
+"W, what?! Hey, weve got people who cross the ruins!"
+girl
+Say again!?
+man
+Youre joking!?
+Doan
+So there ARE people who can beat up those freaky mutants
+girl
+Daddys gonna bring us some food!
+man
+Theres an old factory site called Proto Dome to the east. Cant
+get near it cause theres a bunch of lunatic
+robots in the area.
+girl
+Who are you?
+woman
+My husband went down to the food storage area below. I havent seen
+him since
+man
+Did you really come from the dome to the west?
+ Yes. » see� Not that
+I really care
+ No. » A time portal? What in
+"the�? Well, guess we can get our own information using our computer!"
+woman
+"You can reach the continent to the south through the Sewer Access, but"
+"stay off of ""Death Peak."""
+man
+"Theres an old man living in a dome near ""Death Peak."" Talk about"
+crackpots!
+man
+The door with the crest? Dynamite wont budge it.
+girl
+Have any money?
+ Yes. » You sure this money�?
+"Oh, well, I have to lighten my inventory anyway."
+(after sale)
+"Save money, itll do you good. Its what that guy who walked to"
+the other dome used to say.
+ No. » I hate wise guys!
+Doan
+Pardon me. Im Doan. Im the descendant of the Director of
+"this Info center. In the basement, theres a huge computer and a storage"
+center for food. But we cant get through cause of the robot guards.
+Its a pity.
+(upon Crono's going down the ladder)
+Are you going down below?
+Marle
+Of course!
+Doan
+But no ones ever returned from there.
+Lucca
+"Gotta try, right?"
+Doan
+Its nice to see such spirited young people for a change.
+"Careful, now. And come back alive."
+Approaching Stock Room
+Lucca
+This console controls the passageway. We need a password to get through.
+rat's note
+Looks like a statue. A memo is attached to it.
+Warning. Anyone within the vicinity of the stock room will be attacked!
+Guardian
+Executing program
+Marle
+Crono! Whats going on?!
+Lucca
+Marle! Lets go!
+Stock Room
+Marle
+Phew! Something reeks!
+Lucca
+Everythings completely rotten. The refrigeration must have
+failed
+Marle
+"Crono, look!! � (notices man) � Passed away"
+"long ago, I suppose"
+Hes holding something. What do you suppose this is?
+Lucca
+It looks like some kind of seed.
+Marle
+A seed? Do you suppose it could grow in a place like this?
+man's note
+The following is written on a soiled sheet of paper
+The rat is more than just a statue! It knows the secret of this dome. Catch
+it!
+Outside Stock Room
+Marle
+There! There it is!
+Lucca
+Shhh! It might run away.
+(chases rat)
+Got it!
+rat
+"Squeek!! I give up. Ill tell you everything, squeek. Press and"
+hold the L&R buttons and then press the A button to access the secret
+"passage, squeek. Dont make any mistakes, or youll be sorry!"
+Info Center
+Lucca
+So this is the info center! Good! The computers still operational!
+"If we run a search on time warps, we might"
+find our Gate!
+(pushes buttons)
+"Here! Got it! East of Arris Dome� That would be Proto Dome, I believe."
+Marle
+Leave it to Lucca! Im beginning to think you could find anything
+"with this device! Say, what does this button do?"
+Lucca
+1999 A.D.? Visual record of The Day of Lavos
+Marle
+"Wh, what�IS that?"
+Lucca
+Lavos?� Is that whats destroying our world?!
+Marle
+We must truly be in the future� No! NO WAY! I refuse to believe
+it!!
+This� �this cant be the way the world ends
+Lucca
+Marle
+Crono� Theres only one thing we can do! We must change history!
+"Just like Crono did when he saved me! Okay, Lucca? Okay, Crono?!!"
+Lucca
+I�guess so� It was a stroke of luck that we were sent here
+"through that Gate. Crono, lets go!"
+ Okay! » (skip to Marles
+next line)
+ No� » �� Come
+on! Show Marle what youre made of!
+Marle
+Crono! Lucca! Together we can do this!
+Lucca
+Lets take a second and do some more research on Lavos activities
+back in our time period!
+"Next stop, Proto Dome!"
+Arris Dome Entrance
+Doan
+"Youre back! Well, what did you discover?"
+Marle
+This is�our future!
+Doan
+???
+man
+"Who cares, wheres the food?!"
+Marle
+This is all we could get
+Doan
+Seeds�?
+Lucca
+You dont know how long the Enertronll hold out. Those seeds
+might be your only hope.
+Marle
+You have to stay alive! And so do we!
+Doan
+Huh� Youre strange� Youre different from us
+Marle
+I think its because were healthy!
+Doan
+Heal-thy? Got a nice ring to it! Well try growing the seeds
+girl
+Whatre those?
+Doan
+They just might be our future� Heading for Proto Dome? Go by way of
+"Laboratory 32, and take this with ya. Its a key to the Jet Bike in"
+lab 32. I used to ride it when I was young. Hope it still works
+"Theyve got more powerful robots over there. Take care, and"
+stay�healthy!
+girl
+Daddys sure taking his time.
+woman
+My husband�hes�hes�gone� But he left
+me precious gifts! The seeds�and our child.
+man
+Thanks a lot� Youve given me hope.
+Sewer Access
+Guard
+Bandits! Must report to Sir Krawlie!
+underling
+"There was a bridge here! I SAW it, rrrribit!"
+boss
+Fool! Grribbit! Theres nothing here!
+underling
+"B�but its true, ribbit"
+boss
+"Someones coming! Lets scram, grribbit! (both frogs"
+leave)
+Marle
+This is a tad on the spooky side
+Lucca
+This is an eerie place. Ive got a bad feeling about this
+note
+Theres a diary. Heres the last page. Its all over.
+The fishmen attack if I make even the slightest noise. Id rather have
+my gums scraped than have to fight these fiends.
+underling
+"Press the switch, and the bridge opens, ribbit!"
+boss
+"So, switch on, gribbit!"
+underling
+"Riiiiiiiiibit! Its out of reach, ribbit!"
+boss
+"And you call yourself a frog, ribbit, GRIBBIT! Someones coming!"
+"Lets scram, grribbit!"
+Guard
+The 3 of them are almost here!
+Sir Krawlie
+Coming through the sewer like they own it! They must have a death wish!
+We shall teach them a lesson!
+Guard
+Lets show em. HEE HEE!
+Sir Krawlie
+Just let them come through here! Theyll be chopped liver! Hahahahahaha!
+Guard
+Heeheeheeheehee!
+Sir Krawlie
+Harharharhar!
+Guard
+HAHAHAHAHA!
+Sir Krawlie
+HEEEEHEEEEEHEEE!
+Guard
+! (flies away)
+Sir Krawlie
+Huh?
+Keeper's Dome
+Belthasar
+Schala�Ive missed you so
+"NO! You MUST NOT climb Death Peak! Wouldnt make it very far, anyway!"
+It has to be the right time� �and�THEY�have to show you
+the way!
+Say! Did you see my masterpieces? The Ocean Palace and the Blackbird? I designed
+and built them both.
+strange creature
+"I am pleased you think me worthy, O wise one! I await your final program"
+code!
+Belthasar
+"Now, dont go getting all emotional on me, critter! Back to work,"
+now!
+Lab 32
+Johnny
+Hold it right there!
+robots
+Hey its�! �the MAN!
+Johnny
+"Like, thanks for the intro, babe!"
+robots
+the MAN!
+Johnny
+You lowlifes can call me Johnny. Now listen up. Part of an old highway
+leads through these ruins. Think you can beat me in a bike race? Use that
+"""Jet Bike"" and� dont chicken out, babe! Do you know how to ride?"
+ Yes. » (nothing
+happens)
+" No. » All right, listen up."
+"The gas is on auto, so theres only one speed�FAST! Use the control"
+pad
+"to steer. Press the B Button for a Turbo Boost. Ill give you 3 of them,"
+but it takes a moment to
+recharge between boosts! Check your position at the bottom of the screen.
+Now show me what
+"you got, babe!"
+(after finding Race Log)
+Hey! Looks like you have a neat gadget there! Ask Rx-xR how to use it.
+Rx-xR
+"Greetings, lifeforms! I am Rx-xR, the Log Keeper. Ill record your"
+3 fastest times. There are two ways to race Johnny. Which do you prefer?
+Mode 1 with Turbo boost.
+Mode 2 without boost.
+L & R change perspective.
+robots
+#1: Winning does that to Johnnys hair.
+#2: The Man rides like a roller coaster!
+Johnny
+(if defeated in the race)
+YOU beat me? I dont get it! You can challenge me anytime. Well
+"ride the wind, babe!"
+(if victorious in the race)
+Give it up! Go home! Ha! What losers! You CAN walk your way across but
+thats monster city!
+"Ride again if you think you can handle it, chump."
+robots
+(said only if Crono loses the race)
+Youre worthless!
+Script: The Factory Ruins
+ Spoiler Warning: this page contains detailed plot
+information 
+Chrono Trigger Script
+~ The Factory Ruins ~
+Proto Dome
+Marle
+"Wh, whats this?"
+Lucca
+Its in bad shape� �but it appears to be a humanoid robot!
+Incredible! � I think I can fix it.
+Marle
+What?! It might attack us!
+Lucca
+Ill make sure it wont. Machines arent capable of
+evil� �humans make them that way.
+Marle
+"Lucca, you�pity them dont you?"
+Lucca
+"Let me get to work now, okay?"
+Marle
+(said later as Lucca works)
+The door wont budge.
+Lucca
+(later after repairs are complete)
+"Right, that does it! Im going to give it some juice!"
+robot
+Marle
+Good morning!
+robot
+"Mo�� Good morning, mistress. What is your command?"
+Marle
+"Im not your ""mistress."" Im Marle! �and this is Crono"
+"and Lucca, here, fixed you!"
+robot
+Understood. Madam Lucca fixed me.
+Lucca
+Just Lucca will do.
+robot
+Impossible. That would be rude.
+Lucca
+"Look, I hate formal titles! Dont you, Marle?"
+Marle
+Hate em!
+robot
+"I understand, Lucca."
+Lucca
+All right! Now whats your name?
+robot
+"Name? Ah, my serial number. It is R-66Y."
+Lucca
+R-66Y? Cool!
+Marle
+"No! That wont do at all! Cmon Crono, lets give him"
+a better name!
+(input Robos name)
+"Robo� Robo�thats perfect! Your new name is Robo, okay?"
+Robo
+I am� Robo. Data storage complete.
+Lucca
+"Hey Robo, why arent there any people here?"
+Robo
+What� What has happened here? There WERE many humans
+and others of my kind in this dome.
+Lucca
+I think something awful happened here
+Robo
+It would appear so� But how is it that you survived?
+Lucca
+We came through a time warp from the year 1000.
+Marle
+While exploring Arris Dome we learned there was a Gate here.
+Lucca
+We found you when we came looking for the Gate!
+Marle
+"But the door to the inner chambers is locked, so were out of"
+luck
+Robo
+"The power is off. If we go to the factory up north, I can pass through"
+security and activate this domes generator.
+Marle
+Youd do that for us?
+Robo
+You repaired me. Now its my turn to help you. But the generator
+"wont run for long, so someone must stay behind to open the door while"
+the powers on.
+Lucca
+Then Marle or I will stay. Who will stay behind?
+ Marle » (skip to Marles
+line)
+ Lucca » Right! Ill handle
+things here!
+(if spoken to again)
+Looks like you need my genius after all!
+ Yes. » (joins Crono)
+" No. » Oh, all right"
+Marle
+"Okay. Please be careful, Crono!"
+(if spoken to again)
+Hi! I was getting SO bored. May I take Luccas place?
+ Yes. » (joins Crono)
+" No. » Okay, Ill wait here."
+The Factory's Entrance
+Robo
+(after activating computer)
+Override Security System 00.
+sign
+Left - Lab area
+Right - Factory area
+Caution! Do not turn off the conveyor
+belt in the factory.
+The security system will activate
+and youll be in danger.
+Factory Area
+computer
+#1: Crane control code:
+Code 00... �X A
+Code 01... �B B
+"#2: Last defense lock code named ""ZABIE."" Translation�XABY."
+Thats X A B Y.
+Lab Area
+Robo
+(after activating computer)
+All systems down. Defense lasers are off.
+computer
+"Door lock system ""Zabie"" operational. Enter password."
+Robo
+(after turning on power)
+Emergency! Security system has gone haywire. Must escape immediately!
+(as he holds door open)
+Hurry! Now!!!
+elevator
+#1: Emergency elevator shut off.
+#2: Emergency! Elevators disabled.
+Robo
+(R-Series enter)
+"Th�these are my friends! R-64Y, R-67Y, and R-69Y! Good to see you!"
+(is punched)
+"Wh, what are you doing?!"
+R-64Y
+You are defective.
+R-67Y
+You have been tainted.
+Robo
+Pardon? Im�malfunctioning?
+R-64Y
+Affirmative.
+Robo
+A defect�Im a defect
+R-69Y
+Have you forgotten our mission? All intruders must be eliminated!
+Robo
+THAT was my purpose?
+R-64Y
+You shame us! You must be destroyed.
+(R-Series attack Robo)
+Robo
+(said if Crono interferes)
+"No, stop! These are my brothers!"
+Marle
+"Robo! Crono, Robos getting whipped!"
+Lucca
+"Wh, what are you doing!"
+Robo
+(attack pauses)
+Please stop. Pl�ease
+(attack resumes)
+Marle
+Youll break down!
+(after Robo is discarded)
+Robo!
+Lucca
+But theyll destroy you!
+(after Robo is discarded)
+Robo!
+R-64Y
+Now to take care of the intruders
+Marle
+You cocky boxes of bolts!
+Youll never get away with this!
+(after battle)
+Robo! They trashed him! Wahh�! What should we do?! Robo just got creamed!
+"Crono, lets take him back to Lucca!"
+Lucca
+No! Lets take care of YOU!
+(after battle)
+Robo! They trashed him! Hes in bad shape�Im not sure I can
+fix him. Lets get him back to Proto Dome for now
+Proto Dome
+Robo
+C�can you r�repair�me?
+Lucca
+"Shh, dont talk."
+Robo
+You�are trying to save our world?
+Lucca
+"I dont know how far well get, but thats the plan. Anyway"
+"Robo, what are you going to do when youre repaired?"
+Robo
+What am I�going to do?
+Lucca
+"Yeah. I mean, what plans do you have for the future?"
+Robo
+"Lucca, no one has ever asked me that before!"
+Proto Dome (next day)
+Robo
+Good morning.
+Marle
+"Robo! Youre all right!! Lucca, youre incredible!"
+Lucca
+I hope I never have to do that again
+Robo
+"Lucca, I have made up my mind. I want to go with you"
+Marle
+Pardon?
+Robo
+"There is nothing left for me here. Together, maybe we can give this planet"
+of ours a chance.
+Lucca
+Then lets go! The Gates up ahead!!
+(approaches Gate)
+Hang on to your shorts!
+(all disappear into Gate)
+Script: The End of Time
+ Spoiler Warning: this page contains detailed plot
+information 
+Chrono Trigger Script
+~ The End of Time ~
+The End of Time
+Robo
+Where are we?
+Old Man
+"Ah, more guests�!"
+Lucca
+"What do you mean, ""guest""�? And, WHERE are we?"
+Old Man
+"Why, this is ""The End of Time,"" of course! All lost travelers"
+"in time wind up here! Now, where are you from?"
+Lucca
+"Were from Guardia Kingdom, circa 1000 A.D."
+Robo
+I come from 2300 A.D
+Old Man
+"When 4 or more beings step into a time warp, the Conservation of Time theorem"
+states that they will turn up� �at the space-time coordinates of
+least resistance. Here. Disturbances in the space-time continuum have increased
+recently. Far too many folks are just popping in here� I fear something
+is having a powerful effect on the very fabric of time
+Lucca
+Which means one of us has to remain here.
+Marle
+Stay HERE? ALONE?
+Old Man
+It is pretty bleak here� But not to worry. All time periods
+connect here� You can visit your friends whenever you wish! But you
+can never travel in groups greater than 3...
+Robo
+"So, one of us must stay."
+Lucca
+"Wholl it be, Crono?"
+(following said by member left
+behind)
+Marle
+(on the PS version)
+See you around.
+(or on the Nintendo)
+"Decide, Crono!"
+Lucca
+Now dont you go
+"getting any ideas, mister!"
+Robo
+Please come for me
+whenever you need me.
+Old Man
+So there you have it. Dont forget. Press the Y
+Button to switch party members.
+Marle
+How do we get back to our time?
+Old Man
+You see those lovely pillars of light? Those hook you up to different eras.
+"Once youve been through a Gate, you can always use it to come here."
+"To use a Gate from here, step into the light and press the A Button. But"
+beware the Gate which leads from that bucket
+(if Crono heads toward light pillars)
+"Hey. Dont be in such a rush! Before you go, take a peek inside the"
+room behind me!
+Spekkio's Room
+Spekkio
+Whatre you lookin at? Im Spekkio. The Master of War! Ive
+seen all kinds of battles from here.
+How do I look to you guys?
+ Strong! » I see. Lets
+"put it this way. If youre strong, I look strong. If youre weak,"
+I look weak.
+ Weak! » (same answer)
+You are strong of will�! Thats why the Old One let you through.
+Long before you were born� �there was a kingdom where magic flourished.
+"Everyone there could use it! But in time, people began to abuse their powers."
+It got so bad that no one was allowed to use magic except wizards. But you
+"have it�determination, I mean! Magic needs power of the heart. It needs"
+"inner strength. Magic is divided into 4 types: Lightning, Fire, Water, &"
+Shadow.
+(to Crono)
+"You, with the punk hairdo! Youre ""Lightning."""
+(to Marle)
+"The one with the ponytail is ""Water."""
+(to Lucca)
+"The one with the goofy glasses is ""Fire."""
+(to Robo)
+"Thats the biggest toy Ive ever seen� Hey, youre not"
+"alive, are you?! Youve got great strength, however, since I cant"
+"measure your inner character, I cant give any magic to you. But your"
+"laser weapons will suffice. They can inflict ""Shadow"" type damage."
+"Not just magic, but EVERYHTING is based on the balance of these 4 powers."
+"Think ""MAGIC,"" and, starting from the door, walk clockwise along the walls"
+"of my room 3 times. Dont lose track, now."
+(if unsuccessful)
+"No cheating! Im watching! Do it over! From the door, clockwise along"
+"the wall, 3 times!"
+(if successful)
+"Very good! Ipso facto, meeny moe� MAGICO!"
+(Crono/Marle/Lucca learns to use magic!)
+(Robo cant use magic!)
+So! Fortified with magic! Wanna try it out?
+ Yes. » All right! (battle
+begins)
+(if victorious)
+HEHEHEHE!! I WIN!
+(if defeated)
+GRRRR� That was most embarrassing! Harrumph� Dont make
+a habit of this.
+"Here, this is for you. (gets Spekkio special refresher set)"
+I
+AM the Master of War! Whew! Sometimes I scare myself!
+ No. » (skip to following
+line)
+You guys are too much! Bring newcomers to meet me!
+(if approached again)
+Hi! Looking for some practice?
+ Yes. » All right!
+(battle)
+" No. » Any time, friends. Remember,"
+IM the Master of War!
+End of Time
+Old Man
+"Hey. Well, well! People who lived long ago ALL enjoyed such powers"
+"Now, I know you are itching to go ripping back and forth through time, but"
+first you need to return to your own era. And you must hurry. The longer
+"you remain here, the harder it will be to change that which must be"
+changed� Stop by whenever youre in the area!
+(if Crono tries to use the bucket)
+"That Gate leads to 1999 A.D� It leads to the ""Day of Lavos""� Go"
+there only if youre looking to achieve a shorter life span� Lavos
+will help you leave this mortal coil
+Meeting Site
+Kino
+Where you from? Why you here? Kino no like you!
+men
+"#1: Strong one become chief. Man, woman, child, no matter. Chief"
+"of Ioka, big muscles!"
+"#2: Laruba clan hide in north woods. Always hide, run from Reptites."
+Weaklings!
+#3: We fight Reptites. Laruba clan no fight Reptites.
+women
+"#1: Laruba clan call Dactyl. Fly in sky! We no can call Dactyl, no"
+can fly.
+#2: You came from mountain? Many strange things happen there. Thats
+why name Mystic Mountain.
+(after talking to Kino)
+Find baby Kino crying on mountain too. Chief raise
+Kino. Now chiefs right arm.
+Script: The Village of Magic
+ Spoiler Warning: this page contains detailed plot
+information 
+Chrono Trigger Script
+~ The Village of Magic ~
+Medina Residence
+imp
+Hey! Did you people just come out of the closet? Get outta
+here! You can use magic?!
+Magic-using humans supposedly perished long ago.
+imp
+Who do you think you are? Coming and going out of our closet
+at all hours. Scram!
+imp
+(when Crono leaves)
+Wait a sec.
+imp
+"Medina village was founded by the ancestors of the Mystics,"
+who lost a war to human beings.
+Most Mystics hold a grudge against humans. Be careful
+imp
+Theres an odd man who lives near the cave in the mountains
+to the west. You might enjoy a chat with him.
+(following said by 2nd party member)
+Marle
+Thanks! Why are you being so nice? Mystics arent supposed to get along
+with humans.
+Lucca
+Thanks a lot! Say. We were told that Mystics hate humans. Why are you being
+so kind?
+Robo
+Thank you for your help. But why are you being so kind? The Mystics supposedly
+despise humans.
+imp
+"Humans fought the Mystics over 400 years ago. My motto is ""forgive"
+"and forget"" but not many seem to agree with me."
+Medina Market
+Omnicrone
+No humans gonna talk to ME!
+Hench
+Nothing here to sell to humans! Get out of here!
+ Give up. » (nothing
+happens)
+ Plead. » You know-it-all humans!
+"Teach em a lesson, boss!"
+(after the battle)
+They got the boss?! Beasts! All right. Ill sell something to you.
+(after sale)
+Hah! You think Im gonna cut my prices for a HUMAN?!
+Medina Inn
+Diablos
+#1: Youre spoilin my meal! Scram!
+#2: Hah! I hope those humans get what they deserve from Heckran! Ha
+ha ha.
+Hench
+No room here for humans. Scat!
+ Give up and walk away. »
+(nothing happens)
+ Plead with them. » Awww! Pipe
+"down, okay!! Get em!"
+(after battle)
+Shriek!!! Help!
+200G per night. Wouldnt you like to rest?
+ Yes. » (Crono sleeps)
+ No. » (nothing happens)
+Medina Elder's House
+imp
+OzzieVIII uses his ancestors fame to boss us around!
+imp
+This work is brutal.
+Ozzie VIII
+"Im Ozzie VIII, Medina villages leader! My ancestors served"
+the great Magus.
+"Oh, great Magus�why didnt you simply exterminate the human race"
+400 years ago?
+imp
+A beast lives in a cave on the mountain to the west. Only magic attacks
+can harm it. Those who do not possess magic will find it difficult to sneak
+"by. Well, I better get back to work and tidy up before Ozzie VIII finds me."
+Medina Square
+(following said by 2nd party member)
+Marle
+"Crono, whats that weird chanting?"
+Lucca
+That chantings pretty creepy! What do you make of it?
+Robo
+From where does this eerie chanting originate?
+imps
+Hut! Sir Magus
+Mystics
+"#1: 400 years have passed since Magus commanded the Mystics,"
+and waged war against the humans.
+"When Lavos is awakened, all humans are DOOMED!"
+Mwa ha!
+"#2: As soon as Maguss creation, the mighty Lavos, awakens from"
+"his long sleep, the human race is doomed."
+"#3: Long ago, the all mighty Magus brought forth the all-powerful Lavos."
+Melchior's Hut
+Melchior
+"Ah, hello! Could I interest you in a weapon?"
+" Yes, Id like to buy one. »"
+(after sale) Weapons� If there werent evil
+"in this world, there would"
+be no need for weapons. What a sad state of
+affairs
+" No, Im not interested. »"
+"Really? Well, you know where to find me should the need arise."
+(after examining sword on wall)
+That sword is an invention of mine. Its lightweight and handles superbly.
+(upon Crono's departure)
+"Should you desire to return to Truce village, use the shortcut through the"
+cave in the mountains to the north.
+Heckran Cave
+Hench
+Death to the Mystics enemies!
+Heckran
+Death to the Mystics enemies!
+(after battle)
+"If only the great Magus who brought forth Lavos 400 years ago, had destroyed"
+the human race!
+The world wouldve belonged to us Mystics! GRRRRRR!
+Lucca
+"In the Middle Ages, Magus created Lavos, the destroyer of this planets"
+future!
+Marle
+"In the Middle Ages, Magus created Lavos, who is responsible for destroying"
+this planets future.
+Marle
+"If we go to the Middle Ages and take out Magus, can we change history?"
+Robo
+"If we go to the Middle Ages and destroy Magus, can we change history?"
+Lucca
+We could use the Gate at the Fairgrounds!
+Marle
+"Hey, Crono, we could use the Gate at the Fairgrounds!"
+Lucca's house
+Taban
+(if Lucca is not present)
+"You're Lucca's friend right? If you see Lucca, tell her to drop"
+by!
+Id like to see more of her. Ive been making items shed
+like.
+(if Lucca is in the party he will instead say the
+following)
+Oh youre just in time.
+(receives Taban Vest)
+"Its my finest work! The ultimate in defense for my, daughter!"
+"Hey, Lucca! Id like to see more of her. Ive been making items"
+shed like.
+Crono's house
+Gina
+"Crono! Crono you had me so worried! I heard you were to be executed,"
+dear. Stop scaring me like that!
+Lucca
+Hi!
+Gina
+Lucca! We hardly see you these days!
+Lucca
+Ive been kinda busy
+Gina
+"Dont let life pass you buy, dear! And say ""Hi"" to your parents!"
+(upon seeing Robo)
+"Goodness�! Lucca, is THIS one of your inventions?"
+Robo
+Greetings. I am Robo. Crono is my friend.
+Gina
+"My, how polite! Strange looking, but well behaved! Crono, you could learn"
+a thing or two.
+"Stay out of trouble, now!"
+Truce Market
+Fritz
+"Come on in!! Crono!! I owe you one! You saved my skin back there. Man, was"
+"I up the creek! I went off on a buying trip, and ended up getting jailed"
+with a bunch of thieves! The officials planned to execute me without a trial!
+What has gotten into them?
+Elaine
+"Were forever in your debt! Thank you, again!"
+Fritz
+Hope my Dad never hears about this. (receives 10 Mid Ethers)
+Fritz's dad
+"Huh, hey!"
+Fritz
+"D, dad!"
+Fritz's dad
+Working hard?
+Fritz
+"But, of course! R, right?"
+Elaine
+"Y, yes."
+Fritz's dad
+"Well, all right� Crono� Im in your debt."
+Fritz
+"Now Crono, down to business. Please, buy whatever you like!"
+(after sale) Thanks!
+(if spoken to again)
+"Welcome, Crono! (after sale) Thanks!"
+Guardia Castle
+soldier
+Princess Nadia!
+soldier
+"!! T, terrorists!!"
+Marle
+"Come on, Crono! I dont"
+wanna see that bullheaded fool!
+Lucca
+This is NOT good.
+soldier
+Princess Nadia!
+Robo
+What is going on?!
+Affiliation
+Script: The Hero Appears
+ Spoiler Warning: this page contains detailed plot
+information 
+Chrono Trigger Script
+~ The Hero Appears ~
+Truce Inn
+patron
+Have you heard?! The legendary Hero has appeared! He went to see the
+King. Now Maguss army hasnt a chance!
+men
+#1: They say the King has been wounded! Is this the end?
+"#2: No, the Hero has appeared! Hell save us!"
+man
+Is it true? I heard Maguss army has taken the bridge!
+Truce Residence
+Banta
+I had almost completed the bell when Maguss army wounded our King.
+Ive lost the will to work.
+Banta's wife
+I hope this bell will ring in a new world of peace.
+Truce Residence
+woman
+I heard Maguss army is at the bridge. Were in trouble now!
+man
+"Wearing the ""Hero Medal,"" the chosen one has appeared! Were saved!"
+Zenan Bridge
+Knight Captain
+Our rations have run out! Have the supplies from Guardia Castle arrived
+yet?!
+knights
+#1: Our food supplies have run out.
+#2: We cannot defeat Maguss army by ourselves. Our only hope
+is the Hero.
+#3: I never believed those stories about the Hero and his legendary
+medal
+Now it turns out hes our only hope.
+"#4: Forming a protective ring around the Hero, the best knights of"
+the Kingdom kicked off the offensive.
+#5: Does the Hero alone have the power to take on Maguss army?
+"#6: It appears our knights and Maguss troops are locked in battle,"
+at the center of the bridge.
+May we emerge victorious!
+Guardia Castle
+soldiers
+"#1: Halt! Who goes there! Oh, its you again. Maguss"
+troops had us cornered but the appearance of
+"the Hero, saved us."
+#2: Hero? He just went to see the King a moment ago.
+Chancellor
+Sir Crono! The legendary Hero has finally appeared! He just arrived a
+"moment ago, to meet the King."
+knights
+"#1: The King was injured, and is recuperating in bed."
+#2: Queen Leene has been at his side all night.
+King's Chambers
+knights
+#1: The King fought bravely against Maguss troops. Had he
+"not heard of the arrival of the Hero, he might have"
+fought to the death!
+"#2: Im so ashamed� I treated him badly, thinking he was"
+"just some brat. Luckily, he forgave me. A hero, HE IS."
+attendant
+"At this rate, Queen Leene will also succumb."
+Leene
+Cyrus must have sent the boy to us.
+King Guardia
+"Oh, Crono� Ive let down my kingdom. Since we cannot locate"
+"Cyrus, our sole hope rests on the boy who has the hero medal� He searches"
+"the southern continent, for the sword that can defeat Magus."
+Knights Quarters
+soldier
+upstairs
+The Knight Captain has gone to Zenan Bridge. Many of the wounded from
+"there, are resting below."
+soldiers
+#1: Magus has already defeated 3 fierce warriors.
+#2: Theres a food shortage on the front lines.
+#3: Heard something bout a hero showing up.
+maid
+"Im sorry, the beds are all taken."
+attendant
+"The Kings trying his best, too. So snap out of it!"
+wounded
+soldiers
+#1: Argh
+#2: Even the Knight Captain went to the front lines
+Dining Hall
+soldier
+upstairs
+"The chefs in a snit, trying to get food to the front lines while"
+keeping the King healthy.
+assistant
+"Hey you, is this food good enough for the King?"
+waitresses
+#1: Weve got to nurse the King back to good health!
+"#2: Chef, hurry with the food that goes to Zenan Bridge!"
+chef
+(said only after visiting Zenan Bridge)
+What? My brother?! Hes� Thats what you get for thinkin
+that youre the only ones fighting for your country!
+assistant
+Hey! Stop bickering! Grow up!
+chef
+Pipe down! What do you know?!
+assistant
+Men are such fools!
+chef
+"Hey, hey, come on now!!"
+waitresses
+"#1: He acts that way, but the chef always worries about the Knight"
+Captain.
+#2: Those two are really looking for a way to make up.
+chef
+(at entrance as Crono leaves)
+Wait! � Take this with you!
+(receives jerky)
+"And, this is for you guys. Take it, will ya. And tell that fool� He"
+had better come back alive!
+Zenan Bridge
+knights
+#1: Mere mortals can never expect to beat Maguss
+troops.
+#2: Aaagh!
+"#3: The Hero has made it across the bridge somehow, but our troops"
+have suffered heavy losses.
+Knight Captain
+Sir Crono! Is that for us?
+ Yes. » Food rations! The
+"cook�he has saved us all! Sir Crono, if I do not make it back"
+give
+my brother my thanks
+ No. » Maguss army has
+the advantage now. Keep back!
+(fighting is heard)
+WHAT is going on here?!
+knight
+Maguss troops have launched an attack! Theyre breaking
+through our defenses!!!
+Knight Captain
+Stop sniveling! It shames the Knights of the Square Table!
+We shall DESTROY Maguss troops and bring honor to our King!
+knight
+"But, we are far outnumbered!"
+Knight Captain
+This is our last line of defense. We must let no one through!
+knight
+Understood!
+knight
+#1: Maguss army is awfully well trained!
+Knight Captain
+"Our troops are suffering greatly. Sir Crono, will you assist"
+us?
+ Yes. » We are eternally in your
+debt! You will find Maguss troops across the bridge! Take this with
+you!
+(receives Gold Helm)
+Maguss troops are highly trained. Please be on your
+guard.
+ No. » I see� We Knights
+of the Square Table cannot surrender.
+We
+shall hold this position to the last man!
+Ozzie
+"Im Ozzie, Maguss top general! Those who dare defy"
+Magus have to answer to me!
+Yes my children� Give em a taste of doom!
+(after battle)
+Those wimpsre stronger than I thought.
+(following said by 2nd party member)
+Marle
+"Wait up, already!"
+Lucca
+Hes pretty swift when it comes to running away.
+Robo
+Weve got him.
+Ozzie
+Seems I misjudged you. But I wont do that twice! Grrrr! Youre
+through!
+(after battle)
+Drat! Thats IT! Now youre finished!
+(following said by 2nd party member)
+Marle
+"Dont mess with Crono, or youll really be sorry!"
+Lucca
+"Poor sport, huh?"
+Robo
+You cannot win. You had best surrender.
+Ozzie
+Go Zombor! Crush Sir Maguss enemies!
+knight
+(after battle)
+We held Zenan Bridge with Sir Cronos help.
+Knight Captain
+"Thanks to Sir Crono, we held the bridge! But, unless we defeat"
+"Magus, this is an empty victory."
+San Dorino Market
+woman
+The Hero has appeared? That means the epic battle will begin!
+clerk
+"Welcome, what can I do for you?"
+(after sale)
+Thanks a lot!
+San Dorino Residence
+boy
+Mom said I cant play outside cause of the monsters. Im
+so bored!
+woman
+Oh! Where could Sir Cyrus be? Surely he hasnt deserted the kingdom?
+old woman
+I heard Magus knows arcane magic which the monsters cant match.
+old man
+"Is it true that the King was injured? Whats going to happen to us,"
+and to our country�?
+(upon Cronos departure if in possession of
+the bromide)
+Hey! Is that a Naga-ette Bromide youve got there?! Ill trade
+you something good for it. How about it?
+" Lets trade! » Really,"
+you mean it? Yahoo! Now just hold your horses and Ill be back in a
+jiffy!
+Its unlocked so youre free
+to take it. And Ill be taking this. Hee hee
+"Dont tell Grannie. Hee, hee, my"
+very own Naga-ette pet.
+ I dont want the geezers loot.
+"» Hmph! Fine then, suit yourself."
+San Dorino Elder's House
+Elder
+"I want you to find the mythical ""Rainbow Shell."" Heres some front"
+money. Were counting on you Toma!
+Toma
+"Hey, no problem! cause, like, Im the mythical explorer. Good"
+"match, eh chief."
+Elder
+Hmm� Ill be waiting for good news.
+Toma
+"With that settled, Ill grab a bite before I go."
+(if spoken to)
+Im busy right now. Lets talk later.
+Elder
+"We can use the ""Rainbow Shell"" to make some reflective armor. Itll"
+be strong against magic!
+But that guys a little flakey� Was it a mistake to trust him?
+old woman
+The chief of Sandorino Village lives here. Are you foreigners? Did you
+flee from Maguss troops?
+woman
+"Magus has 3 fearsome henchmen, Ozzie, Flea, and Slash. Theyre"
+"tone-deaf, evil fiends!"
+man
+Maguss lair is on an island to the east. Sheer cliffs make it
+inaccessible.
+woman
+"Only the ancient sword, ""Masamune,"" can defeat him. And only the Hero"
+can wield it!
+girl
+The Hero has come! Hes strong and hes gonna thrash those
+monsters!
+San Dorino Inn
+woman
+"Are Maguss armies really closing in? Well, the mythical Hero has"
+appeared so well be all right!
+man
+Want to hear my tale?
+" Yes. » Goblins with huge hammers,"
+roams the Denadoro Mountains to the east.
+"But burn their weapons, and theyre pussycats."
+ No. » Well�Ill tell
+someone else
+man
+Did you know? They say the mythical Masamune lies deep within the Denadoro
+mountains.
+But its guarded by terrible beasts.
+nun
+"Clear your conscience, the end of the world is coming."
+old man
+"Many people go to the inn. If you seek someone, ask there. By the way,"
+"Energy Whirls will dissipate if you use your ""Slash"" attack. Theres"
+balance in nature.
+man
+"Magus is trying to bring forth an immense evil� If he succeeds,"
+there will be nowhere to run. Well all perish!
+Thats why Im living it up now!
+Toma
+"Hey, how have you been? You pay my tab and Ill let you in on some"
+stuff. How about it?
+" Sure. » Thanks a bunch! Hey,"
+"one more, please! Some creepy, dangerous frogs have taken over"
+the southern woods.
+" No way. » Fine! Go away, I"
+"dont have time for you. Now for that ""Rainbow Shell"""
+I guess Porre would be the first place to look.
+owner
+"Youre looking for the Hero? Go south, to the village of Porre,"
+where they say hes from.
+woman
+Have you met the Hero already?
+ Yes. » Wow! I wish I could just
+get a glimpse of him� Ive got butterflies!
+ No. » I havent met him
+either. I wonder what the champion of the world looks like? Im so excited!
+maid
+"A sword called the ""something-or-other mune"" was made hundreds of years"
+ago.
+No one has the skill to make a sword like that anymore.
+employee
+Helloooo there! This is the R & R hotel. Itll cost you 50 G!
+Well? Will you stay?
+ Yes. » Oh yes! Well then rest
+and relax!
+ No. » What a shame! Ill
+wait for you to come back
+Fiona's Villa
+Fiona
+My husband Marco hasnt returned from the war. But these woods mean
+"a lot to us, so Ill guard them until he returns."
+Porre Inn
+clerk
+20G in advance� Well?
+ Yes » Very well!
+ No » Come again soon.
+Porre Market
+soldier
+Im gonna put on this armor and fight that stupid Magus! Yeeeoooww!
+Its heavy!
+girl
+Dont overdo it!
+Porre Café
+old man
+"A strange monster came by the other day, mumbling about Queen Leene and"
+the Masamune
+That shore were an ugly frog! Hardy har!
+man
+I cant believe the legendary Hero was a boy from this village!
+Did you hear the latest?
+ Yes. » Everyones talking
+about him! I bet his old man is proud!
+" No. » Well, remember that the"
+legendary Hero is from this village then!
+mistress
+Little Tata must be away� We havent seen him in awhile. But
+things are a lot quieter without that brat around.
+woman
+"I cant believe the legendary Hero is that naughty runt, Tata!"
+man
+Have you heard about the magical cave? The one east of the Denadoro
+"Mountains? I saw a rock wall there pop open, and a gaggle of ghouls just"
+"walked right in! Best to leave Magus and his cronies alone, though!"
+Toma
+"Hey, you again! How bout buying me a soda?"
+ Sure. » Thanks! Ill wish
+you a safe journey. I tracked down the Rainbow Shell that the chief
+wanted.
+Its on some small island� Only thing is�I dont
+know WHICH island. And the money he
+gave me is gone. What should I do?
+ No way. » What a miser! I
+dont even have enough for grub!
+Tata's House
+Tata's father
+My sons the legendary Hero! It must have been all that oatmeal!
+And to think that Im his father�!
+Tata's
+grandfather
+My grandsons a brave Hero! Thats from my side of the family!
+Heeheehee
+Porre Elder's House
+woman
+If only I had some Jerky� What a great meal I could make
+girl
+Im gonna marry Tata!
+man
+"Next to the bed is a treasure box. Open it, and the contents are yours."
+Elder
+"The ""Magic Cave"" lies under a mountain east of Denadoro."
+woman
+Tata received the Hero Medal! At first I thought it was fake! He must
+have done something very brave!
+"Hes probably up north, looking for the legendary sword."
+Cursed Woods
+Frog
+"Whos there!? Tis thee, Crono! Thou art here to practice thy"
+skill in swordplay? What?! The King hast been injured? �� I see
+"Tis nary a thing I canst do� Please be on thy way. The Hero, I"
+am not. I can do naught.
+Script: Tata and the Frog
+ Spoiler Warning: this page contains detailed plot
+information 
+Chrono Trigger Script
+~ Tata and the Frog ~
+Denadoro Mountains
+Tata
+"Aaagh! Th, this is a terrible place! Y, youd best run away while"
+you can!
+Kilwala
+Mountainsre nice. Thiss the life. Mountainsre nice.
+"Man, youre nosy. Here, take this."
+Denadoro Mountains (cave)
+Mune
+Im the wind! Whoosh!
+(after approaching Masamune)
+Stop! Are you here for the Masamune?
+ Yes » Thought so� Wait
+"a second, okay? Oh big broooother� Where are you, Masa?!"
+ No » Youre not? Then you
+should leave quickly.
+Masa
+"What is it, Mune? Not again!? So! You want to get a name for"
+yourself by grabbing the Masamune?
+What a buffoon!
+Mune
+Humans are so�silly! Its how you USE the sword
+thats important�not who owns it!
+Masa
+You cant even understand something as simple as that.
+Thats why youre human.
+Mune
+What should we do?
+Masa
+The usual�test them. You can entertain us for awhile.
+Mune
+All right! Here we go!!! Whooosh!
+Mune
+(after battle)
+Hey theyre pretty tough.
+Masa
+Only Cyrus made it this far.
+Mune
+What should we do?
+Masa
+This time its for real!
+Mune
+"All right, this is it"
+Masa
+Yeah. We mean business! With Masas bravery and
+Mune
+Munes knowledge! Two become one!!
+Mune
+(after battle)
+"They beat us, big brother"
+Masa
+That was fun!
+Mune
+Will they fix us? Will they find us an owner?
+Masa
+"Yeah, itll be all right."
+Lucca
+So this is the Masamune
+But it looks like its been broken for ages.
+Robo
+So! The Masamune is not just a myth
+But it has long been broken.
+Masa
+Allow me! Well ride the wind to the base of the mountain!
+Mune
+Good luck to you.
+Melchior's Hut
+Lucca
+"Say, wheres Melchior? Theres a note? What does it say?"
+Marle
+"Hey, looks like Mr. Melchior isnt home! I wonder what this is?"
+Lets see here
+note
+"Sorry, but Im out on the road peddling my wares. Please"
+come back some other time. Melchior
+Lucca
+What!! The geezers gone when we need him the most!
+Marle
+Hes gone when we need him the most!
+San Dorino Inn
+owner
+"Last I heard, the Hero went to the Denadoro Mountains to find a sword."
+I hope hes okay!
+Tata's House
+Tata
+I�Im sorry everyone. Some frog guy dropped this in a cafe. I thought
+"Id sell it, but then everyone started calling me a ""Hero."" I couldnt"
+bear to get rid of it! I just cant fake it any longer. Im no
+Hero�! Im so ashamed! Here. Please take this!
+Tata's father
+Scoundrel! I knew this was all a sham!
+Tata
+Listen to YOU! Who was going around telling everyone that you raised
+"a Hero, huh?!"
+Tata's father
+"How could I have fallen for that? For my dear departed wifes sake,"
+I vow to keep my feet on the ground!
+Tata's grandfather
+"Oh, my grandson! He secretly told me, ""My next goal is to command the"
+"Super Legendary Space Ship, XR-RX!"" Hahahahaha!!"
+Porre Café
+mistress
+I guess Tatas home now. It was so quiet without him� But Im
+glad hes back.
+It was a bit TOO quiet around here
+woman
+So Tata was a fake after all! Then wheres the real Hero?
+man
+And I thought the Hero was from here. What a let down
+Porre Elder's House
+woman
+"Oh, that Tata! Hes just too loveable."
+Cursed Woods
+Frog
+"Thee hath returned? Th, the Hero Medal! Aye� Then thou"
+hast seen the lad. Yet theres nary a thing I canst do
+against Magus. The legendary Masamune is required to fight Magus. And Ive
+no right to wield it. Please leave now
+Lucca
+A broken sword� Its part of the Masamune! Its engraved with
+archaic letters. I think I can read it. Um�mm
+M�e�l�c�h�i�o�r!
+Robo
+A broken sword� A part of the Masamune! Something is written in archaic
+script. I will translate
+R�o�i�h�c�l�e�m? Roihclem? System error!
+"I reversed it! It says ""Melchior!"""
+Marle
+"Melchior? That guy in Medina Village? What does this mean, Crono?"
+Lucca
+"""Melchior?!"" That guy in Medina Village?"
+Frog
+Nary a soul remains to mendeth the Masamune.
+Melchior's Hut
+Melchior
+"Youre back again? Come to see my collection? Th, this"
+sword�its the Masamune! How did you get it?
+Lucca
+Why would your name be engraved on the sword?
+Marle
+Why would YOUR name be on that sword?
+Melchior
+Its a�long story. You do want to hear this
+"story, right?"
+Lucca
+Of course! Tell us about the Masamune! Is it possible to reforge it?
+Marle
+Yes! Tell us about the Masamune! Can you fix it somehow?
+Melchior
+Hmmmm� It might be possible if we could get our hands
+"on some Dreamstone, which the sword is made of."
+Marle
+Dreamstone? Where can we get that?
+Robo
+Dreamstone�? No data in my memory banks of such a rock.
+Melchior
+You cant find it anymore. It was a red stone that was once used as
+"money. Unfortunately, it hasnt been available for a very long time."
+"I doubt that youll ever find the red stone, but if you bring some to"
+"me, I will fix the Masamune. Keep the sword with you until then. Would you"
+like to buy something?
+End of Time
+Old Man
+"Dreamstone?� Ive heard of it, of course. Its a prehistoric"
+mineral
+You might find it way back in the prehistoric era.
+Script: The Rare Red Rock
+ Spoiler Warning: this page contains detailed plot
+information 
+Chrono Trigger Script
+~ The Rare Red Rock ~
+Mystic Mountains
+Marle
+Wh�what are those?
+Lucca
+Theyre all green and scaly!
+Robo
+"Half human, half dinosaur� An unlikely life form."
+(Reptites attack)
+Marle
+"What should we do, Crono?!"
+Lucca
+Were outnumbered!
+(Ayla chases away Reptites)
+Marle
+Goodness! She is tough!
+Lucca
+Who IS that woman?!
+Robo
+Her fighting capabilities far exceed those of humans!
+(Reptites attack)
+Marle
+Uh oh�theyre coming our way!
+Robo
+Now theyre after us!
+(Ayla reappears after battle)
+Marle
+Wh�what do you want? Ack! Crono!
+Lucca
+What the�! Were not looking for a fight! Crono!
+Robo
+Do not upset her. Shes rather agitated right now.
+Ayla
+"You strong. What name? Crono, huh? Good name. Me? Me"
+(input Aylas name)
+Me Ayla. Ayla like strong people. So Ayla like Crono!
+Marle
+"Get away from her, Crono!"
+Lucca
+"I think she likes you, Crono"
+Ayla
+You strong too. Ayla respect strong people. Men and women.
+Marle
+"Oh, brother"
+Lucca
+Where have they been keeping her?
+Robo
+"Y, yes?"
+Ayla
+"You different, but strong too."
+Robo
+Its because Im a robot.
+Ayla
+"""Rawboot?"" What that? Ayla dont know."
+Robo
+Its a machine that looks like a man.
+Ayla
+"What you say?! No rubbish or Ayla, head go boom!"
+"Crono, where from?"
+Marle
+"Uh, how can we explain? Were from many days ahead of tomorrow."
+Lucca
+Were from way after the day after tomorrow.
+Robo
+It is beyond her grasp.
+Ayla
+"Ha ha, you funny. Ayla like funny people."
+Lucca
+Its no use
+Ayla
+Come to village! We talk and eat. Dance! Eat! Fun!!
+Marle
+Thank you but we cant. Were looking for a Dreamstone.
+Lucca
+"Wed love to go, but weve got to look for the Dreamstone now."
+Ayla
+"Stone? Plenty stones! Here, there, at village. You take plenty."
+"Crono come, Ioka village this way."
+"Crono too slow! Crono come, Ioka village this way."
+Ioka Hut 1
+child
+You wear odd skins.
+woman
+"Chiefs hut, north of village."
+man
+You want to see pretty red stone? Chief has.
+Ioka Hut 2
+man
+You one of Reptites? I beat you up!
+women
+"#1: Reptites have scales, cold blood. Hard to beat."
+#2: Drink Sweet Water? Grow strong when drink.
+ Yes. »
+(recovers HP/MP)
+ No. »
+(nothing happens)
+Ioka Trading House
+trader
+"You strange! Have good stuff? Chief no okay, no can trade!"
+men
+#1: This trading house. Many things for trade.
+#2: Trade your shiny stone?!
+women
+#1: Thunder stun all dinosaur! You know?
+"#2: Find ""Petal,"" ""Fang,"" ""Horn,"" and ""Feather,"" in hunting range!"
+"When rain, rare monster appear!"
+Meeting Site
+man
+Not ready yet. Wait.
+Chief's Hut
+Ayla
+"Good, Crono come. Night soon and ready for party. Come Crono!"
+Meeting Site
+Ayla
+Listen all! New friends here! Strong man. Crono! Friends of
+"Crono. Marle, Lucca! (mentions Robo if in party)"
+villagers
+Unngaaa!
+Ayla
+"Now, we dance! Crono, eat, sing, dance!"
+Marle
+"Cmon Crono, lets party!"
+Lucca
+Theyre twisting my arm!
+Robo
+This is no time to celebrate!
+Ayla
+Crono you try?! Special Jurassic pork soup! Good stuff!! Ayla fight Reptites.
+"Their leader Azala. Very smart. All in Ioka village fight. No fight, go to"
+Laruba village. Dont know where village is. Always hide. Azala want
+"to destroy Ioka AND Laruba. But Ayla no lose. Only when Ayla dead, give up!"
+"Enough. Meet Crono today. Good day! Eat, party, sing, dance!"
+Lucca
+Bur�rrp! Yumm. Crono youve got to try some poi!
+ Spoon it up! » Are you a man
+or a mouse?! Do it in one gulp!
+(Crono
+drinks)
+Gyah ha ha! Buurp!
+" No, thanks. » Hey? Youre"
+"not a wimp, are you?! Cmon eat up!"
+
+Ok. » Are you a man or a mouse?! Do it in one gulp!
+(Crono
+drinks)
+Gyah ha ha! Buurp!
+
+No. » (question repeats)
+Robo
+What an unpleasant substance. And so many bugs in it!
+Marle
+"This is fantastic! I want to dance, too! This is great! Cmon"
+Crono. Lets dance!
+ Sure. » (Crono
+dances)
+ Nah. » (nothing happens)
+Kino
+You outsiders� But Ayla give party. Why?
+musicians
+Good music! We pass down to many generations�!
+dancers
+"Oohga, bunga"
+"Munga, meeple"
+Dance with wind people
+"Oohga, bunga"
+"Munga, meeple"
+Dance with mountain people
+"Oohga, bunga"
+"Munga, might"
+Sing and dance all night
+Ayla
+"Crono, you look for red rock? Rare, red rock sign of power. Ayla strongest"
+in Ioka village. So Aylas rock!
+"You want, you challenge Ayla! You win, then Ayla give to you. Challenge"
+Ayla?
+ Yes. » Bring plenty soup! Party
+"now, so eat! Crono and Ayla have soup race! (contest begins)"
+ No. » Crono scared?! Crono strong.
+Ayla strong! We battle! (choice repeats)
+We start now. Push A Button much times!
+(if victorious)
+"Burp! Stop already? You strong, but no can eat much. What?! Crono give up?"
+ Yes. » Crono scared?! Crono
+strong. Ayla strong! We battle! (choice repeats)
+ No way! » (contest
+restarts)
+(if defeated)
+"Burp! Enough, Crono. You win, I give you rock! Crono eat plenty."
+"Eat last bowl for health! Ok, eat. Maybe eat too much!"
+Script: Footsteps! Follow!
+ Spoiler Warning: this page contains detailed plot
+information 
+Chrono Trigger Script
+~ Footsteps! Follow! ~
+Meeting Site
+Robo
+G�good morning. That soup seems to affect humans.
+Marle
+Morning Crono!
+Wasnt that fun last night?!
+Lucca
+Phew� What? Liar! I was a perfect lady last night! But why does my tummy
+hurt so�?
+Marle
+Wh�who made these footprints?!
+"It, its gone! Oh no! The Gate Key is gone!"
+Lucca
+Hey! Who made these footprints?! Its gone! The Gate Keys been
+"taken! These prints were left by the thief! Without it, were stuck"
+here forever! This isnt funny! Lets go see Ayla!
+Robo
+Whomever left these prints took the Gate Key! Its too risky to use
+the Gate without it.
+Marle
+Crono! Lets go find Ayla!
+Chief's Hut
+Ayla
+Snort�zzzz�zzzz
+(wakes up)
+"Huh� Crono, you up already? Yaaawn� Too much soup! Sleep like stone."
+Burrp
+Lucca
+"Sorry to wake you, but weve been robbed!"
+Marle
+"Wed let you sleep, but a valuable"
+item has been stolen.
+Ayla
+"Wh, what? Must be Reptites! Crono come with Ayla! We settle"
+with Reptites! Who else come?
+Someone from village see. We go ask. Crono come!
+Ioka Hut 1
+child
+Me saw Reptites. Came from meeting site. Went south to Forest Maze.
+woman
+"Forest Maze, scary place. Many monsters, and paths to get lost on. Chief!"
+Be careful.
+man
+Where Kino? Gone all morning.
+Ioka Hut 2
+man
+"Reptites strong. Chief, take this."
+(receive tonic)
+"They leave footprint when run. Follow print, find lair!"
+Ioka Trading House
+trader
+Well come. What you have?
+"""Fang,"" ""Petal,"" ""Horn,"" ""Feather""... Bring 3 each of any 2 items, I give"
+you 1 weapon or 1 item! What you give me?
+(after chosing items)
+Trade for ___?
+ Yes. » (receive item)
+ No. » Still want trade?
+(if two of same item are chosen)
+"Same, no good! Choose 2 different ones!"
+(if without items to trade)
+"You have nothing, so no trade!"
+man
+This trading house. Many things for trade. Want to know items?
+" Yes. » ""Petal"" and ""Fang"" ="
+Ruby Gun
+"""Petal"" and ""Horn"" = Sage Bow"
+"""Petal"" and ""Feather"" = Stone Arm"
+"""Fang"" and ""Horn"" = Flint Edge"
+"""Fang"" and ""Feather"" = Ruby Vest"
+"""Horn"" and ""Feather"" = Rock Helm for trade."
+"I tell you something good. ""Ruby Vest"" strong against fire. Not too hot when"
+wear.
+ No. » (nothing happens)
+Forest Maze
+Ayla
+Kino! What you do?! Say NOW!
+Kino
+Ayla� Kino take Crono stuff.
+Ayla
+Why take?!
+Kino
+"Kino like Ayla best. Ayla like Crono, but Kino not like"
+(is hit by Ayla)
+Marle
+Ayla! Mellow out!
+Lucca
+"Wow, talk about strict!"
+Robo
+"Miss Ayla, please do not"
+promote violence.
+Ayla
+Kino! You know why I punish?
+Kino
+Ayla no like Kino
+Ayla
+"No! Ayla like Kino BEST! No more do bad stuff, okay?! That"
+wrong!
+Kino
+Ayla� Sorry Ayla! Sorry Crono!
+Ayla
+Give back stuff to Crono!
+Kino
+No have� Reptites take!
+Ayla
+Reptites!! Where they go?!
+Kino
+Run into trees�there!
+Ayla
+Ayla go too. Kino go back village. Kino protect village when
+Ayla not there.
+Kino
+"Okay, Ayla!"
+Ayla
+"Kino is man� so if Ayla die, Kino chief then."
+Marle
+Ayla
+Lucca
+Aylas one tough cookie.
+Robo
+"Ayla, you are gentle at heart."
+Ayla
+Chase Reptites! Get back Crono stuff!!
+Reptite Lair
+Azala
+Whats this?! Could those apes have made something THIS
+advanced?
+Ayla
+Azala!!
+Azala
+"Ah, the apes have arrived! Hmm. Youre nothing like"
+"Ayla� Tell me what this is, at once!"
+(if Crono tells Azala)
+Liars! No one would talk that easily. This should loosen your tongues.
+(if Crono does not tell Azala)
+I guess you need some� motivation.
+"Come, Nizbel!"
+(after the battle)
+Th�the apes beat Nizbel!
+Ayla
+Give thing back to Crono. NOW!
+Azala
+"But remember, WE Reptites will rule the world! Your days are"
+numbered!
+Marle
+Is the Gate Key okay? Thank goodness! It looks all right.
+Lucca
+Is the Gate Key okay? No problem!
+Robo
+I do not detect any damage.
+Ayla
+"I fight anytime, Azala! Ayla no lose! Bbburp!"
+Chief's Hut
+Ayla
+"You leave, Crono? No fun for Ayla!"
+Marle
+Ill never forget you! Thanks!
+Lucca
+Thanks Ayla. I learned a lot from you.
+Kino
+"Sorry, Crono. I try be strong now. Just like Crono!"
+Ayla
+"Come again, Crono! Party! Eat! Dance! Fight! Fun!"
+(upon Crono's leaving)
+"Come again, Crono! Marle and Lucca too! (mentions Robo instead if"
+he is in the party)
+Ioka Hut 1
+child
+You brave!
+woman
+Reptites no come around lately.
+man
+Chief strong! You strong too!
+Ioka Hut 2
+man
+Where Azala run?
+woman
+Admire Crono! Strong!
+Script: The Masamune!
+ Spoiler Warning: this page contains detailed plot
+information 
+Chrono Trigger Script
+~ The Masamune! ~
+End of Time
+Old Man
+You found a Dreamstone! Id forgotten how beautiful they are.
+Youll need to find someone that can process that mineral. Youll
+"probably find him in Medina, a village near the Mystic Mountains."
+Melchior's Hut
+Melchior
+You found some Dreamstone?! Then Ill repair the Masamune!
+HOW on earth did you get the Masamune
+"and the Dreamstone? No, dont tell me. I dont think my heart"
+could take it. Itll take a little while to fix this
+Lucca
+Ill lend a hand!!
+Robo
+I shall help also.
+(following line said only if Crono
+tries to leave)
+Marle
+Crono! Where are you going?
+The Masamune isnt fixed yet!
+Robo
+"Mr. Crono, the Masamune"
+has not been fully repaired.
+Melchior
+"All right, then! Dont interrupt me while Im conducting"
+"research! At any rate, leave this to me!"
+Lucca
+How are you gonna fix it?
+Robo
+These repairs seem quite difficult.
+Melchior
+"To repair the Masamune, we must process the Dreamstone, and"
+activate the sword.
+"You work on the Dreamstone, and Ill work on the sword."
+Lucca
+OK! Leave it to Lucca the Great!
+Gonna be mighty busy!
+Robo
+"Understood. First, the tools"
+Melchior
+"To energize the sword, we must first rejuvenate the broken"
+sword
+The spell to energize the sword takes immense concentration. Could you leave
+us alone for awhile?
+Lucca
+"Thiss pretty complicated� Youre breaking my concentration,"
+so would you find somewhere else to go for awhile?
+Robo
+"Without the proper facilities, refining the Dreamstone could take some"
+time.
+Melchior
+"All right, its done! Now, bring me the Dreamstone."
+Lucca
+Im done here too.
+Robo
+Understood.
+Melchior
+"All right, lets get started."
+(some time later)
+Melchior
+Sorry to keep you waiting. Take a good look! THIS is the Masamune!
+Marle
+Awesome! What a weapon!
+Robo
+How strange. My sensors are picking up�spiritual energy emanating from
+the Masamune.
+Melchior
+"Well, I think thats everything."
+Marle
+"Okay Crono, lets take the Masamune to Frog."
+Robo
+"Crono, let us take the Masamune to Frog."
+Melchior
+This weapon represents considerable power� Your actions
+may either save or destroy life.
+Wield your sword with full knowledge of the consequences!
+End of Time
+Old Man
+"What luster! The Masa�Mune, correct? A�person in the Middle"
+Ages wants to take down Magus with that.
+Cursed Woods
+Frog
+Tis thee again. This sword� Tis the Masamune? I must
+ponder this turn of events. Remaineth here the night.
+Frog's Flashback - Guardia Castle
+Leene
+Cyrus! Are you leaving?
+Cyrus
+"Yes, its time we took back the Medal from the Frog King. And Id"
+like to see that mythical sword for myself.
+King Guardia
+"But Cyrus, the kingdom needs you! And Leene and I need you. You must"
+return to us!
+Cyrus
+"As long as there is life in these bones, I shall return! By your leave"
+soldiers
+"Sir Cyrus!! We, the Knights of the Square Table, wish you a safe journey!"
+Cyrus
+"Listen well, my friends� I now entrust the safety of the kingdom to"
+you!
+(to Glenn)
+Pardon the delay. Shall we be off?
+Leene
+"Glenn, you be careful too!"
+Glenn
+"Be of sound health, your Majesty!"
+Frog's Flashback - forest
+Frog King
+"So! You want the Badge of Courage, dear knight of the kingdom? Well come"
+and take it�if you can!!! Grribit
+Cyrus
+"Prepare yourself, polywog! En guarde! Nirvana Strike!"
+Frog King
+GRAAAACK�! How dare you pick on a helpless amphibian! Filthy medal!
+I wont forget this!
+Frog's Flashback - Denadoro Mountains
+Glenn
+Aaah!
+Cyrus
+Beware Glenn!!
+Glenn
+Cyrus! The sword� The Masamune!
+Ozzie
+"Gyah ha ha� Is THAT the best you can do?! Without your sword,"
+youre nothing!
+Cyrus
+Arrgh! You havent beaten me yet!
+Glenn
+"C, Cyrus� Im a g�goner."
+Cyrus
+"Glenn, escape while I keep them at bay."
+Glenn
+"B, but�!"
+Cyrus
+"If you stay, theyll get us both. Go on, Glenn!"
+Magus
+"Youd better worry more about yourself, Cyrus!"
+Cyrus
+"Come on, Glenn! GO!! Aaahhh�! (charges Magus)"
+Glenn
+"C, Cyrus!"
+Cyrus
+R�run�Glenn� The Queen. Take care�of�Leene
+Glenn
+"C, Cyrus!? Cyruuus!!"
+Magus
+Harumph! Whats the matter? Arent you going to try your luck?
+Glenn
+Err�!
+Ozzie
+"Gyah, ha ha� Cat got your tongue kid? How about it, Magus? Cant"
+you give him a more fitting form?
+Magus
+"All right, why not? Theres always time for a little fun."
+Glenn
+!! A�augh!! Aaaaack! (falls off cliff)
+Ozzie
+Gyah ha ha�! You spineless wimp!
+Cursed Woods
+Frog
+10 years hath passed� Can I do it? Ive changed so
+"much. Alas, poor Cyrus�!"
+(later)
+"Awaketh, Crono! Though we may fail� �let us go to Maguss"
+lair. Thou knowest his power?
+Lucca
+Nothing can beat science!
+Marle
+We wont be beaten by a bad guy!
+Robo
+We must do it to save our future!
+Porre Café
+old man
+"A strange monster came by the other day, mumbling about Queen Leene and"
+the Masamune
+"Yeah, he sure was weird. Ahem� Oh, I meant, such a magnificent frog!"
+Hell be a hero or a chancellor�!
+Frog's Flashback - forest
+Glenn
+Aaahhhh!
+Cyrus
+Hey you!
+kids
+Its Cyrus! Run for your lives!
+Glenn
+"Sniffle�thanks, Cyrus�Hic�!"
+Cyrus
+"Glenn, therere times when people simply have to grit their teeth!"
+Glenn
+But�it hurts when I get hit. They
+Cyrus
+"Youre a marshmallow, Glenn"
+Frog's Flashback - Zenan Bridge
+Cyrus
+Hey Glenn� Ive been thinking about becoming a Knight
+Glenn
+I knew you were going to enlist! Youll make a great warrior!
+Cyrus
+"Why dont you join, too?"
+Glenn
+I�dont think Id make the cut.
+Cyrus
+"But, why? Youre better with a sword than I am!"
+Glenn
+I dont know� I think Id really lose it if I had to hurt
+someone.
+Frog's Flashback - Denadoro Mountains
+Glenn
+!! A�augh!!
+(later)
+Glenn
+The�Medal. �The Heros�Medal
+Magic Cave (exterior)
+Frog
+Handeth over the Masamune!
+Mine name is Glenn! Cyruss hopes and dreams� And now the
+Masamune
+Forthwith I shall slay Magus and restore honor!
+Magic Cave (interior)
+Frog
+Be that magic you use? I hath heard only magicians wield it now.
+Robo
+"Travel to the End of Time, and you may gain the use of magic."
+soldier's note
+A note written in blood!
+"""The Juggler in Maguss castle� strengthens his guard when attacked."
+"Beware!"""
+End of Time
+Old Man
+What a strange new guest! Are YOU from the Middle Ages?
+Spekkio
+"What a weird fellow. Being a frog, lets give him ""Water!"" Ipso"
+"facto, meeny moe� MAGICO!"
+(Frog learned to use magic!)
+Crono's House
+Gina
+Dear me�! Crono! How many times have I told you to keep your pets
+outside!!
+Frog
+"M, madam�! I am NOT a pet! Though I am�odd of figure, I am"
+a master swordsman!
+Gina
+"It TALKS�! Er�I just thought, I mean� Im terribly"
+"sorry, uh, Mr. Toad!"
+Frog
+NO! Mine name is
+Gina
+"Yes, dear?"
+Frog
+"""Toad"" will do for now"
+Script: Magus' Castle
+ Spoiler Warning: this page contains detailed plot
+information 
+Chrono Trigger Script
+~ Magus' Castle ~
+Exterior
+Frog
+This can only be�Maguss castle�!
+Entrance
+Frog
+Ozzie!
+Ozzie
+"Welcome, Glenn! Or should I say, Sir Froggy! Mwa, ha! Say, looks like you"
+got some replacements for Cyrus! Magus is a tad busy right now. Youll
+"have to take up your business with me� �the swordsman, Slash, and"
+"Flea, the magician�And�! Youll have to defeat all 100 of"
+the beasts in Magus castle�!
+Left Hall
+Decedents
+"#1: Please, put a stop to this�!"
+#2: Oh
+#3: Put me out of my misery
+#4: Please let me go
+Omnicrone
+"#1: Dance, DANCE!! For tonight our leader is to be born! Ah! Here"
+comes the sacrifice!
+#2: Only a moron would try to kill something thats already dead!
+H�humans!
+Decedent
+Please help� Relieve us of this misery!
+Slash
+Hmmm� How did you get past my�cadaver pals?
+Frog
+"Its been ages, Sir Slush!"
+Slash
+"Thats SLASH, you slimy dolt! Still playing the comedian, eh Glenn?"
+Youd be singing a different tune if Cyrus hadnt been there with
+you last time! Youd have fit right in with those boney fellows you
+just busted up!
+(after first phase of the battle)
+Slash
+"Now, lets get to business. This is going to do me a world of good!"
+"And with no Cyrus to protect you, youre mine! You dare to oppose me?!"
+(after second battle)
+Unbelievable�! But falling in the line of duty for Magus� �leaves
+me with few regrets�!
+Right Hall
+faux-kid
+Do you want our treasure�?
+" Yes. » In that case, will you"
+Play with us! Please! Pretty please!
+ No. » Its good stuff
+faux-Guardia
+Princess Nadia� I was wrong! Please return to the castle� �as
+"road kill, my dear�!"
+faux-Leene
+"Frog, youre safe! I guess wed better do something about that!"
+faux-Gina
+Crono! So THIS is where youve been since the Festival! You had
+me worried sick!
+Children THIS naughty� �deserve to be punished!
+faux-Lucca
+"Robo, dont waste your strength! No matter what you do, Ill"
+break you!
+faux-Taban
+"Well, if it isnt Lucca! Youre STILL alive, my dear?!"
+Flea's Room
+Frog
+"The magician, Flea, I presume?"
+(after defeating Juggler)
+Wait! That isnt Flea� Wheres the REAL Flea?!
+Flea
+"Mwa ha� Here, over here� Giving up, little tadpole?!"
+Marle
+Who IS this person?
+Lucca
+Hey! Who ARE you?!
+Robo
+Who is this fiend?
+Frog
+"Keep your guard up! This is no ordinary woman! Meet Flea, the"
+magician!
+Flea
+"What the�?! Hey, Im a GUY!"
+Marle
+THAT is a GUY?!
+Lucca
+Say what?! Thats a guy?!
+Robo
+But its exterior is that of a female
+Flea
+"Male�female��whats the difference? Power is beautiful,"
+and Ive got the power! Poor little Froggie! You must be lonely now
+that Cyrus is gone. And to be turned into something so hideous! Dreadful!
+But since youve brought your new friends over to play
+Ill show you all a good time!
+(after battle)
+Flea
+How can this be� Sir Magus
+Main Hall
+Ozzie
+I grow tired of this! Slash!! Flea!
+Frog
+"Sorry, Ozzie, but they cant help you now"
+Ozzie
+"You fly eating, tongue flicking�! Oz�Ozzies in�a"
+jam!!
+Frog
+Thou canst not run!
+Guillotine Room
+Ozzie
+"Welcome�! Mwa, ha� Hows this?"
+(Crono makes it through)
+Urghhhhhh� What the�?! Impossible�!
+Long Hall
+Ozzie
+What the�?! Impossible�! Urghhhhhh� Grr�This takes
+the cake!
+Throne Room
+Ozzie
+Urghhhhhh
+Frog
+"Thy time hath cometh, Ozzie."
+Ozzie
+Harharhar� Im sure Sir Magus has already called
+for reinforcements�! Wait until Lavos arrives!!
+I shant be defeated! No form of attack will break MY barrier!
+(Crono hits switch)
+Ozzie
+Hahahahahaha!!
+"Watch where youre aiming! Guwa, ha, ha"
+Hahahahahaha!!
+"Mwee, hee, hee� Eh?!"
+Marle
+That was a breeze!
+Lucca
+That guy was totally bent
+Robo
+What was that guys problem?
+That Ozzie
+Frog
+We must hurry to Maguss place!
+Inner Sanctum
+Magus
+"Neuga, ziena, zieber, zom"
+Now the chosen time has come
+Exchange this world for�!
+Frog
+Magus!!
+Magus
+I�its that stupid frog! Kissed any princesses lately?!
+Frog
+I rather enjoy this form. And I oweth it all to you! I have
+something for you!
+Magus
+Ah�! The Masamune!!! I bet youre just dying to use
+it! The black wind begins to blow
+Okay�give me your best shot� If youre prepared for the void!
+(after battle)
+Magus
+W�what have you done to the Masamune�?
+Marle
+What the�?!
+Lucca
+Whats happening!
+Robo
+Its a large-scale energy reaction!
+Frog
+Could it be�Lavos?!
+Magus
+Bad timing�! Dont wake up on me now�!
+Marle
+Wake up? YOURE the one who CREATED him!
+Lucca
+What do you mean?! Didnt you CREATE him?!
+Robo
+"What do you mean? According to my records, Lavos was born here, at THIS precise"
+moment
+Magus
+"You fools! I only ""summoned"" him!"
+"He lives in the inner earth, absorbing the lands power and growing"
+ever stronger!
+Marle
+What?!
+Lucca
+"So, he wasnt born in this period"
+Robo
+Then my data must be incorrect
+Frog
+Whats going on?!
+Marle
+"Th, the Gate?!"
+Lucca
+"A g, Gate?!"
+Its huge�!
+Robo
+Impossible! A Gate this large should not exist!
+Magus
+You! If you hadnt shown up�!
+Marle
+Crono!!
+Lucca
+Were being drawn in!
+Robo
+Its an enormous gravity well!
+Frog
+Whoa�!!
+Affiliation

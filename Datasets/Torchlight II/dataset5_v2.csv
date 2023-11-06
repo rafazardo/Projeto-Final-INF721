@@ -1,0 +1,1278 @@
+text;dialogtype
+You seem weary - perhaps you are in need of a fresh perspective. If you so desire, I can allow you to retrace your steps with all of the knowledge you currently possess. Simply ask, and I can show you the way!;complete
+"BOUNTY!
+The Sturmbeorn raiders are a threat to the Estherian people and to the brave settlers of the Empire. Commander Vale is authorized to pay a reward to anyone who assists the Vanquisher Corps in ridding the Temple Steppes of these savage brutes.
+This bounty shall be paid to anyone who slays 10 or more Sturmbeorn in the Temple Steppes.";intro
+The Sturmbeorn have been conducting raids in northeastern Vilderan for generations. However, their current leader, General Grell, has brought them together in unprecedented numbers. So long as Grell and his Sturmbeorn are able to roam the area freely, the Temple Steppes will not be safe for either the Estherians or the Empire's subjects settling in Vilderan.;return
+The Empire thanks you for your valuable service, and wishes to reward you!;complete
+Kill 10 Sturmbeorn in the Temple Steppes, then return to the Bounty Board in the Estherian Enclave for your reward.;details
+- Kill [DEFEAT1COUNT]/[DEFEATCOUNT] Sturmbeorn in the Temple Steppes;huddetails
+- Return to Bounty Board in Estherian Enclave for reward;huddetails_complete
+"BOUNTY!
+Commander Vale of the Vanquisher Corps is offering a reward to anyone who can help thin out the packs of Warbeasts hampering colonization and defense efforts in Estheria.
+This reward shall be paid to anyone who slays 10 or more Warbeasts in the Temple Steppes.";intro
+Packs of Warbeasts infest certain key areas of the Temple Steppes. The invading Sturmbeorn armies use the Warbeasts as shock troops in their war against the Estherian people, hindering efforts to settle the area. The Empire needs capable adventurers to dispatch these beasts and pave the way for colonization efforts.;return
+The Empire is grateful, and wishes to reward you for your valuable service!;complete
+Kill 10 Warbeasts in the Temple Steppes, then return to the Bounty Board in the Estherian Enclave for your reward.;details
+- Kill [DEFEAT1COUNT]/[DEFEATCOUNT] Warbeasts in the Temple Steppes;huddetails
+- Return to Bounty Board in Estherian Enclave for reward;huddetails_complete
+"Greetings!  I am the great bard Trill.  You've heard of me of course, my talent is known throughout all of Veras.  From Torchlight to Redhaven they sing of my.. songs.
+Torchlight... did something happen there?  I feel a bit...  Ah, nevermind.  I recognize this place!
+The spiders called, the Sisters three, the old trunk yawning wide,
+Through ancient halls, dark ancestry, they met their fates inside.
+An apt verse, you'll agree.  I wrote it myself of course.";intro
+"The spiders called, the Sisters three, the old trunk yawning wide,
+Through ancient halls, dark ancestry, they met their fates inside.
+The rest of the song eludes me... Leniency please!  Of course such a lapse is unforgivable in a great bard such as myself, but I feel a bit.. off.
+Still, even that bare fragment of verse can lead you to glory.  Go forth, brave warrior, and slay the mighty beasts!  Whatever they may be...";return
+"The reconsituted Trillbot has presented you with a fragment of verse:
+The spiders called, the sisters three, the old trunk yawning wide,
+Through ancient halls, dark ancestry, they met their fates inside.
+Perhaps you should investigate a tree trunk in an area full of spiders.";details
+You've slain the three sisters, and you're pretty sure they were evil.  Check back with Trillbot.;details_complete
+"You've slain the vile Sisters?  Excellent!  I shall write a new ending to my song.
+The wicked three, dark powers found, and ruled a twisted land,
+but I could see, one honor bound, and victory was at hand!
+Ah it will be a splendid tale!  Please, accept this token of my undying gratitude.";complete
+Defeat the Three Sisters in the Battlefield.;huddetails
+Return to Trillbot at the Imperial Camp;huddetails_complete
+The legendary Mapworks is operational once more! From the Mapworks, you can navigate to all sorts of wondrous places! Many fine adventures surely await you within.;complete
+You found a strange piece of metal that appears to be some part of a robot. It has '4000' carved into it.  You wonder just how many more pieces there could be.;details
+You appear to have enough pieces to put it together. Now all you need is a scientist who can figure out just how it should be done.;details_complete
+What do we have here?  Wow, this is a 4000 model! These are quite old - this one appears to have had a lot of work done to it. Not sure why it's in pieces - why don't we find out! Let me just put these together for you and we'll see what it has to say for itself.;complete
+- Search for more pieces of the robot.;huddetails
+- Find a scientist who can piece together the robot.;huddetails_complete
+If I'm really lucky, we didn't lose too much hydraulic pressure on the purge line.;passive
+There's a rumor that the Ezrohir have defeated the Guardian of Mana.  Is this true?;passive
+Keep your eyes open for the Manticore, particularly around the Stygian Approach.  It likes to hunt the Wastes from the air.;passive
+Any sign of Ezrohir troop movement out there?  Are they mobilizing yet?;passive
+I'm starting to make evacuation plans ... just in case.;passive
+I will lay down my life for my people ... if only to buy them time to flee.;passive
+If the Guardian of Mana returns here, we might have a chance against the Alchemist.;passive
+You've spoken to the Guardian of Air, about the Ossean Wastes?  You know the risks, then?  Alright.  Good luck out there.;passive
+The Guardian of Air has ordered the gate to the Empty Quarter sealed.  If the Guardian gives you leave, then I can allow you to pass.;passive
+It seems I have not yet earned my eternal rest.  Your part in my story is done, though, and, if my gratitude means anything to you, you have it.;passive
+Just because this mana rift didn't pan out, that doesn't mean there's not another one on my surveys that might work much, much better!  It's just going to take a while to determine which mana rift is the best bet.;passive
+Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from the Undercurrents and return to help defend Zeryphesh.;passive
+You've given us a fighting chance, hero.  Thank you.;passive
+Now that you have defeated the Ezrohir sorcerer in the tower, Zeryphesh is a great deal safer.  We still have to prepare ourselves for the coming siege ... but you've made that task a lot easier!;passive
+We lost serious pressure in the primary Ember feed.  We've got an auxiliary line ... but that's no way to get around!;passive
+Are the crew of the Embercraft safe out there, while they work on their vehicle?;passive
+You're actually going after the Manticore?  Best of luck, my friend.  That beast is said to be indestructible.;passive
+There's definitely Ezrohir activity in both the Forsaken Vaults and the Salt Barrens.;passive
+The Guardian of Air warns us that, should you fail to rescue the Guardian of Mana, we might wish to consider evacuating the city.;passive
+Have you investigated the Cursed Cave of Fear?  The Ezrohir used it as a base of operations during the Ember Wars, and parts of it are still intact.;passive
+The Alchemist's goal all along may have been to capture the Guardian of Mana.  But that does not explain why he has yet to mobilize the Ezrohir against me.;passive
+I heard the Sphinx sent you to kill the Manticore in the Stygian Aerie.  I'm guessing you were successful?;passive
+"The Empty Quarter sealed is still closed off; we're expecting the Ezrohir to attack from that direction.  If the Guardian gives you leave, then I can allow you to pass.";passive
+It seems I have not yet earned my eternal rest.  Your part in my story is done, though, and, if my gratitude means anything to you, you have it.;passive
+Just because this mana rift didn't pan out, that doesn't mean there's not another one on my surveys that might work much, much better!  It's just going to take a while to determine which mana rift is the best bet.;passive
+Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from the Undercurrents and return to help defend Zeryphesh.;passive
+You've given us a fighting chance, hero.  Thank you.;passive
+When the siege begins, will you be here to help defend the city?;passive
+Repairs are going a lot faster now ... but it's still going to take time.;passive
+Is Fazeer Shah insane, or he is deliberately delaying you?  Is this some petty vengeance for Malik Vosh imprisoning him, so long ago?;passive
+The djinn aren't like humans, or Zeraphi, or even the Guardians.  Theirs is an ancient magic, that doesn't follow any understood rules of alchemy or elementalism.;passive
+The Salt Barrens used to be a harbor town, until Fazeer Shah and Ezrek Khan started fighting.  Remember that, if you ever start thinking that either of those djinn are on your side.;passive
+You've been out there.  You've faced the Ezrohir ... seen the strength of their army.  Do you think we have a chance?;passive
+Did you investigate the Ancient Vaults of Chaos?  Did you find anything there that might help you rescue the Guardian ... or help us hold off the Ezrohir?;passive
+If the Alchemist is doing all of the planning for the Ezrohir, he may be stalling until I leave the city ... whereupon he will surely arrange to ambush me.;passive
+"What a strange set of tasks for the djinni to assign you.  He's up to something; he's got ulterior motives in all of this.";passive
+There have been strange lights coming from the direction of the Salt Barrens.  Did the djinni have something to do with that?;passive
+It seems I have not yet earned my eternal rest.  Your part in my story is done, though, and, if my gratitude means anything to you, you have it.;passive
+Just because this mana rift didn't pan out, that doesn't mean there's not another one on my surveys that might work much, much better!  It's just going to take a while to determine which mana rift is the best bet.;passive
+Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from the Undercurrents and return to help defend Zeryphesh.;passive
+You've given us a fighting chance, hero.  Thank you.;passive
+The siege will begin soon.  I hope we're ready for it.;passive
+Now that you have defeated the Ezrohir sorcerer in the tower, Zeryphesh is a great deal safer.  We still have to prepare ourselves for the coming siege ... but you've made that task a lot easier!;passive
+Now that the Crab King is gone, the crabs should disperse, as well.  The Zeraphi will recover the weapons the Crab King gathered, and dispose of them safely.  At the very least, the Ezrohir won't be using them against Zeryphesh.;passive
+I knew that boiler was dodgy!  I can fix it, but it'll take time ...;passive
+I am confident that, should it come to war, the Guardians will be more than able to defend the city.;passive
+I've heard that the Ezrohir are massing by the Forsaken Gate.  I wonder how they got past the Sphinx?;passive
+The Guardian of Air will be able to provide us some support, but only inside the city walls.  If it should fall while flying outside, we won't be able to reach it for a rescue.;passive
+Zeryphesh is my home.  If it's destroyed by the Alchemist and the Ezrohir, I will die with it.;passive
+I'm actually rather surprised the Ezrohir have been able to move about the Ossean Wastes at all, with the Manticore making its lair out there, in the Stygian Aerie.;passive
+Now that you have defeated the Ezrohir sorcerer in the tower, Zeryphesh is a great deal safer.  We still have to prepare ourselves for the coming siege ... but you've made that task a lot easier!;passive
+The Guardian of Air has ordered the gate to the Empty Quarter sealed.  If the Guardian gives you leave, then I can allow you to pass.;passive
+If you haven't yet spoken to the Guardian of Air, I must caution you:  The Ossean Wastes are not safe during this siege.  If you get into trouble, we cannot send a rescue party.;passive
+It seems I have not yet earned my eternal rest.  Your part in my story is done, though, and, if my gratitude means anything to you, you have it.;passive
+Just because this mana rift didn't pan out, that doesn't mean there's not another one on my surveys that might work much, much better!  It's just going to take a while to determine which mana rift is the best bet.;passive
+Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from the Undercurrents and return to help defend Zeryphesh.;passive
+You've given us a fighting chance, hero.  Thank you.;passive
+Do you think there's a connection between that business with the Guardians in Estheria and the Ezrohir suddenly deciding to attack us again?;passive
+I'd heard you were headed down to Zeryphesh, to look for the Alchemist.  What are you doing back here?;passive
+Weren't you going to Zeryphesh?  Is the Alchemist not there?;passive
+I am deeply troubled by those notes you found in the Icedeep Caverns.  I have notified the Enclave that I will remain here, to guard the caves, and prevent any of the Alchemist's notes and paraphernalia from being lost.;passive
+I contacted the Commander, and she's sending a team to secure the caverns until we can do a more thorough sweep of the place.  If we find anything that might help with the Alchemist, we'll send word.;passive
+I can help, but I need more time to finish repairs.  Can you buy me half a day?  Maybe a little more?;passive
+Why can't Fazeer Shah just open a portal into the heart of Riftkeep?  You could rescue the Guardian of Mana and be out before the Ezrohir knew you were there!;passive
+The djinn aren't like humans, or Zeraphi, or even the Guardians.  Theirs is an ancient magic, that doesn't follow any understood rules of alchemy or elementalism.;passive
+The Salt Barrens used to be a harbor town, until Fazeer Shah and Ezrek Khan started fighting.  Remember that, if you ever start thinking that either of those djinn are on your side.;passive
+It's very brave of you to face the challenges of the djinni, on our behalf.;passive
+Did you investigate the Ancient Vaults of Chaos?  Did you find anything there that might help you rescue the Guardian ... or help us hold off the Ezrohir?;passive
+Enslaved to the Ezrohir, the Guardian of Mana is a potent weapon.  We must do whatever it takes to release her from their control.;passive
+Fazeer Shah sent you to wipe out the Tu'tara?  I don't understand.  Why would he do that?;passive
+You were in some sort of Nether-version of the Empty Quarter?  That's … unsettling, because there was a strange, cold wind blowing out of the Empty Quarter while you were gone.;passive
+It seems I have not yet earned my eternal rest.  Your part in my story is done, though, and, if my gratitude means anything to you, you have it.;passive
+Just because this mana rift didn't pan out, that doesn't mean there's not another one on my surveys that might work much, much better!  It's just going to take a while to determine which mana rift is the best bet.;passive
+Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from the Undercurrents and return to help defend Zeryphesh.;passive
+You've given us a fighting chance, hero.  Thank you.;passive
+The siege will begin soon.  I hope we're ready for it.;passive
+Now that you have defeated the Ezrohir sorcerer in the tower, Zeryphesh is a great deal safer.  We still have to prepare ourselves for the coming siege ... but you've made that task a lot easier!;passive
+Now that the Crab King is gone, the crabs should disperse, as well.  The Zeraphi will recover the weapons the Crab King gathered, and dispose of them safely.  At the very least, the Ezrohir won't be using them against Zeryphesh.;passive
+Repairing the boiler's the easy part ... but if any of those valves are damaged, we might be stuck here.;passive
+The story of the Guardian's disappearance is spreading.  Just what did happen out there?;passive
+Keep your eyes open for the Manticore, particularly around the Stygian Approach.  It likes to hunt the Wastes from the air.;passive
+Any sign of Ezrohir troop movement out there?  Are they mobilizing yet?;passive
+Zeryphesh is my home ... and I'm going to fight to keep it that way.;passive
+There's a rumor that the Guardian of Mana has fallen in battle.  Is this true?;passive
+Without the Guardian of Mana, the coming battle will play out very differently.;passive
+We're seeing a few troops coming back in from out of the Ossean Wastes.  They say you're doing good work out there.  Keep it up!;passive
+The Guardian of Air has ordered the gate to the Empty Quarter sealed.  If the Guardian gives you leave, then I can allow you to pass.;passive
+It seems I have not yet earned my eternal rest.  Your part in my story is done, though, and, if my gratitude means anything to you, you have it.;passive
+Just because this mana rift didn't pan out, that doesn't mean there's not another one on my surveys that might work much, much better!  It's just going to take a while to determine which mana rift is the best bet.;passive
+Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from the Undercurrents and return to help defend Zeryphesh.;passive
+You've given us a fighting chance, hero.  Thank you.;passive
+The Ezrohir must be involved somehow in the disappearance of the Guardian.  It's the only explanation that makes sense.;passive
+Now that you have defeated the Ezrohir sorcerer in the tower, Zeryphesh is a great deal safer.  We still have to prepare ourselves for the coming siege ... but you've made that task a lot easier!;passive
+I wish I could help, but this Embercraft is my only real weapon ... and it's not going anywhere, anytime soon.;passive
+Getting into Riftkeep to rescue the Guardian of Mana won't be easy.  You'll almost certainly have to use the Witherways, which means fighting your way through a host of Ezrohir warriors.;passive
+If you can't find anything of value in the shipwrecks of the Sand Shoals, it could be that something else out there has already been there, looting.  The Ezrohir, perhaps?;passive
+How's it look in the Salt Barrens?  Any sign of the Ezrohir advancing toward the city?;passive
+If you defeat the Ezrohir at Riftkeep, and free the Guardian of Mana, this war will basically be over.  Do you think you can do it?;passive
+The Ancient Vaults of Chaos are full of old artifacts ... things we Zeraphi sealed away, lest they fall into the wrong hands.  The Ezrohir are almost certainly there, looting the place, as we speak.;passive
+Without the Artificer, the Ezrohir may have to rely on the Alchemist to do their planning, and he seems like he has an agenda very different from theirs.;passive
+How are things going with Fazeer Shah?;passive
+Is Fazeer Shah as mad as they say?;passive
+It seems I have not yet earned my eternal rest.  Your part in my story is done, though, and, if my gratitude means anything to you, you have it.;passive
+Just because this mana rift didn't pan out, that doesn't mean there's not another one on my surveys that might work much, much better!  It's just going to take a while to determine which mana rift is the best bet.;passive
+Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from the Undercurrents and return to help defend Zeryphesh.;passive
+You've given us a fighting chance, hero.  Thank you.;passive
+The siege will begin soon.  I hope we're ready for it.;passive
+Now that you have defeated the Ezrohir sorcerer in the tower, Zeryphesh is a great deal safer.  We still have to prepare ourselves for the coming siege ... but you've made that task a lot easier!;passive
+Now that the Crab King is gone, the crabs should disperse, as well.  The Zeraphi will recover the weapons the Crab King gathered, and dispose of them safely.  At the very least, the Ezrohir won't be using them against Zeryphesh.;passive
+Of course you have to break down in the desert in the hottest part of the year ...!;passive
+Why have the Ezrohir not attacked yet?;passive
+What if this is another of the djinni's tests?  What if Fazeer Shah wants the Guardian of Mana to die?;passive
+What did you learn from Fazeer Shah?  Can you free the Guardian?;passive
+You've been out there.  You've faced the Ezrohir ... seen the strength of their army.  Do you think we have a chance?;passive
+Did you investigate the Ancient Vaults of Chaos?  Did you find anything there that might help you rescue the Guardian ... or help us hold off the Ezrohir?;passive
+"It cannot be much longer now.  A confrontation of some kind is inevitable; it merely remains to be seen where, exactly.";passive
+I have honored my bargain!  To trouble me further is to invoke my wrath!;passive
+Is that it, then?  No more crazy djinni errands?  Now you can go rescue the Guardian of Mana?;passive
+Sounds like you're in the final stretch.  Good luck.  We know you'll do your best.;passive
+It seems I have not yet earned my eternal rest.  Your part in my story is done, though, and, if my gratitude means anything to you, you have it.;passive
+Just because this mana rift didn't pan out, that doesn't mean there's not another one on my surveys that might work much, much better!  It's just going to take a while to determine which mana rift is the best bet.;passive
+Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from the Undercurrents and return to help defend Zeryphesh.;passive
+You've given us a fighting chance, hero.  Thank you.;passive
+This is the burden of immortality:  You live long enough to see the death of your entire civilization ...;passive
+Now that you have defeated the Ezrohir sorcerer in the tower, Zeryphesh is a great deal safer.  We still have to prepare ourselves for the coming siege ... but you've made that task a lot easier!;passive
+Now that the Crab King is gone, the crabs should disperse, as well.  The Zeraphi will recover the weapons the Crab King gathered, and dispose of them safely.  At the very least, the Ezrohir won't be using them against Zeryphesh.;passive
+I wish I could help, but this Embercraft is my only real weapon ... and it's not going anywhere, anytime soon.;passive
+Have you face Tu'tara before?  They're nasty, savage lizard-men, who attack our caravans and steal our trade goods.;passive
+The Zeraphi and Ezrohir were once one people.  But we differed, ideologically, and sought other means of attaining eternal life ...;passive
+There's been activity in the Salt Barrens ... perhaps the Ezrohir took the Guardian there?;passive
+The timetable for preparing the city's defenses has moved up dramatically in the past few hours.  If you can't actually rescue the Guardian, can you try to buy us some time?;passive
+The Ancient Vaults of Chaos are full of old artifacts ... things we Zeraphi sealed away, lest they fall into the wrong hands.  The Ezrohir are almost certainly there, looting the place, as we speak.;passive
+"Now we know why the Ezrohir haven't moved earlier;  they were waiting for the Artificer to finish forging the Guardian's bonds.";passive
+I hear the Guardian of Air sent you out to the Salt Barrens, to negotiate with the djinni.  I'm glad it's you, and not me.;passive
+I think you've pretty well proven yourself against the Artificer.  Still, an Ezrohir, even one as powerful as the Artificer, is a far cry from a djinni.;passive
+It seems I have not yet earned my eternal rest.  Your part in my story is done, though, and, if my gratitude means anything to you, you have it.;passive
+Just because this mana rift didn't pan out, that doesn't mean there's not another one on my surveys that might work much, much better!  It's just going to take a while to determine which mana rift is the best bet.;passive
+Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from the Undercurrents and return to help defend Zeryphesh.;passive
+You've given us a fighting chance, hero.  Thank you.;passive
+The siege will begin soon.  I hope we're ready for it.;passive
+Now that you have defeated the Ezrohir sorcerer in the tower, Zeryphesh is a great deal safer.  We still have to prepare ourselves for the coming siege ... but you've made that task a lot easier!;passive
+Now that the Crab King is gone, the crabs should disperse, as well.  The Zeraphi will recover the weapons the Crab King gathered, and dispose of them safely.  At the very least, the Ezrohir won't be using them against Zeryphesh.;passive
+I wish I could help, but this Embercraft is my only real weapon ... and it's not going anywhere, anytime soon.;passive
+People are starting to say that the Guardian of Mana wasn't actually captured, but that it's in league with the Ezrohir.;passive
+You'll be passing through the Sand Shoals, once you reach the Salt Barrens.  That entire area was the harbor for our ships, centuries ago.  Keep an eye open:  We didn't salvage everything, and you might find something useful.;passive
+Good luck in the Empty Quarter.  We had to close access to it years ago:  It pretty much belongs to the Tu'tara now ... and a host of Dune Fiends.;passive
+Quite a few Zeraphi soldiers have made it back from the Ossean Wastes, and they've got you to thank for that.;passive
+Have you investigated the Cursed Cave of Fear?  The Ezrohir used it as a base of operations during the Ember Wars, and parts of it are still intact.;passive
+"Now we know why the Ezrohir haven't moved earlier;  they were waiting for the Artificer to finish forging the Guardian's bonds.";passive
+"There's been activity in the Salt Barrens; that must be where the rest of the Ezrohir are massing before the final assault.";passive
+The siege will begin soon.  I hope we're ready for it.;passive
+It seems I have not yet earned my eternal rest.  Your part in my story is done, though, and, if my gratitude means anything to you, you have it.;passive
+Just because this mana rift didn't pan out, that doesn't mean there's not another one on my surveys that might work much, much better!  It's just going to take a while to determine which mana rift is the best bet.;passive
+Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from the Undercurrents and return to help defend Zeryphesh.;passive
+You've given us a fighting chance, hero.  Thank you.;passive
+You killed the Manticore?  You must be more dangerous than you look.;passive
+Now that you have defeated the Ezrohir sorcerer in the tower, Zeryphesh is a great deal safer.  We still have to prepare ourselves for the coming siege ... but you've made that task a lot easier!;passive
+Now that the Crab King is gone, the crabs should disperse, as well.  The Zeraphi will recover the weapons the Crab King gathered, and dispose of them safely.  At the very least, the Ezrohir won't be using them against Zeryphesh.;passive
+The Alchemist just murdered a lot of good people, for no reason at all!  You haven't talked to the Professor, have you?;passive
+We've got a lot of injuries, here ... but it could've been a lot worse.  As powerful as the Alchemist is, we got real lucky.;passive
+Are you sure you want to go out there?  Maybe you should have a word with Professor Stoker, first.;passive
+Unless it's an emergency, I have to keep this gate closed.  If any of the ... things on the other side get in here, they'll finish what the Alchemist started.;passive
+Just because this mana rift didn't pan out, that doesn't mean there's not another one on my surveys that might work much, much better!  It's just going to take a while to determine which mana rift is the best bet.;passive
+Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from the Undercurrents and return to help defend Zeryphesh.;passive
+You've given us a fighting chance, hero.  Thank you.;passive
+The Ezrohir are in flight, and word is getting back from Zeryphesh that their defeat is your doing, and that the Guardian of Mana is safe.  Outstanding work, human!;passive
+Is it true?  The Ezrohir are defeated?;passive
+I appreciate you coming all the way back here, but shouldn't you be going after the Alchemist?;passive
+What in the name of the Guardians are you doing back here?  We've got the Estherian Steppes handled.;passive
+Do not worry about us.  Zeryphesh is safe, now that you have rescued the Guardian of Mana from the Ezrohir.  Find the Alchemist.  Stopping him is the key to saving the world.;passive
+She'll be ready to go when you are ... I promise!;passive
+Why have the Ezrohir not attacked yet?;passive
+What if this is another of the djinni's tests?  What if Fazeer Shah wants the Guardian of Mana to die?;passive
+Do you think you can free the Guardian?  Or will saving the Zeraphi require destroying her?;passive
+You've been out there.  You've faced the Ezrohir ... seen the strength of their army.  Do you think we have a chance?;passive
+We will do whatever it takes to buy you the time you need.;passive
+The time to strike is now!  The Ezrohir will not be expecting an attack inside their own stronghold!;passive
+I have honored my bargain!  To trouble me further is to invoke my wrath!;passive
+Do what you have to do, my friend.  Even if you cannot prevent the Ezrohir from attacking the city, you must save the Guardian of Mana.;passive
+Sounds like you're in the final stretch.  Good luck.  We know you'll do your best.;passive
+It seems I have not yet earned my eternal rest.  Your part in my story is done, though, and, if my gratitude means anything to you, you have it.;passive
+Just because this mana rift didn't pan out, that doesn't mean there's not another one on my surveys that might work much, much better!  It's just going to take a while to determine which mana rift is the best bet.;passive
+Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from the Undercurrents and return to help defend Zeryphesh.;passive
+You've given us a fighting chance, hero.  Thank you.;passive
+Good luck, human.  May your journey be swift, and your heart true.;passive
+Now that you have defeated the Ezrohir sorcerer in the tower, Zeryphesh is a great deal safer.  We still have to prepare ourselves for the coming siege ... but you've made that task a lot easier!;passive
+Now that the Crab King is gone, the crabs should disperse, as well.  The Zeraphi will recover the weapons the Crab King gathered, and dispose of them safely.  At the very least, the Ezrohir won't be using them against Zeryphesh.;passive
+No ... no ... no!  The welds aren't holding!  Come on, you miserable hunk of scrap!;passive
+Zeryphesh is saved!;passive
+You have done well, human.  The Zeraphi owe you a tremendous debt.;passive
+Zeryphesh is saved!;passive
+I am actually quite relieved that I was never called upon to fight ...;passive
+The Alchemist must have fled when he saw that the Ezrohir could not further his goals.  He cannot be far ahead of you, now!;passive
+I have honored my bargain!  To trouble me further is to invoke my wrath!;passive
+My power is drained ... but it is the nature of magic that it will return to me sevenfold.;passive
+Praise the day you came to our city!;passive
+The people of Zeryphesh will long remember what you did here today.;passive
+It seems I have not yet earned my eternal rest.  Your part in my story is done, though, and, if my gratitude means anything to you, you have it.;passive
+Just because this mana rift didn't pan out, that doesn't mean there's not another one on my surveys that might work much, much better!  It's just going to take a while to determine which mana rift is the best bet.;passive
+Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from the Undercurrents and return to help defend Zeryphesh.;passive
+You've given us a fighting chance, hero.  Thank you.;passive
+Well done, human. Well done.;passive
+You have done the Zeraphi an amazing service ... and we will never forget.;passive
+Now that you have defeated the Ezrohir sorcerer in the tower, Zeryphesh is a great deal safer.  We still have to prepare ourselves for the coming siege ... but you've made that task a lot easier!;passive
+Is it true?  The Ezrohir are defeated?;passive
+"It's good to see you again, my friend!  I know that I promised you a greater reward, should you come to visit ... but that was before I returned to the Ossean Wastes and found the Celestial Armory under siege by Ezrohir.
+What if I give you your choice of artifacts from the Armory?  You have but to use the Golden Gear to get inside, then activate the Armory Portal, which will allow us to gather up the weapons and armor safely ... with the Ezrohir none the wiser!";intro
+After the Zeraphi withdrew from the Ember Wars, we placed the vast majority of our weapons in storage, hoping we would never need them again.  Some of the best weapons and armor we had went into the Celestial Armory.  We sealed the Armory shut by means of the Golden Gear, then sent the Gear to the Estherians as a gesture of our peaceful intentions.  Sadly, the day has come when we need to open the Armory once again.  But the door was built to keep us out, at all costs, which is why the Ezrohir cannot get in ... and why the Golden Gear is so vital to us.;return
+"Fantastic!  With access to the Armory again, we can arm ourselves for the impending battle!
+As I told you in the Frosted Hills:  The Zeraphi people owe you a tremendous debt of gratitude, my friend!  Let us begin to repay that debt with this.";complete
+Use the Golden Gear to unlock the Celestial Armory, in the Ossean Wastes.;details
+Activate the Armory Portal in the Celestial Armory, and return to Ambassador Taldimut in Zeryphesh;details_complete
+"- Enter the Tower of the Moon in the Ossean Wastes; eliminate any Ezrohir inside";huddetails
+- Return to Commander Muzaffar in the Ossean Wastes;huddetails_complete
+Find Hareph in the Salt Barrens and convince him to return to Zeryphesh.;details
+Jasha sent you to find me? I am in both of your debts!;complete
+"Have you found Hareph yet? 
+He's my companion - we were made at the same time. Please, I have to know if he's okay!";return
+"If you're heading out into the Salt Barrens, could you find out what happened to my companion Hareph?
+He left with a crew to determine why the Skara have become so aggressive lately, but no one has come back.
+If you travel North to the Swarm Stacks, you should be able to find him - or at least what happened to him.";intro
+- Find Hareph in the Salt Barrens and convince him to return to Zeryphesh.;huddetails
+"Greetings, my friend!  Welcome to Zeryphesh!  I am Malik Vosh.  I speak for the Zeraphi.
+As you know, the Ezrohir are preparing to assault our city.  Our military leader, Commander Muzaffar, has apparently been captured by the Ezrohir, out in the Ossean Wastes.  They'll have sent for inquisitors to take their prisoners back to their stronghold.  Once they get him to Riftkeep, they'll identify him quickly enough, and then they'll interrogate him until they know everything about our defenses.
+I believe you're going out to the Ossean Wastes.  Please, rescue Muzaffar. We need him.";intro
+When we last heard from Muzaffar, he was surveying potential battle sites in the Ossean Wastes.  He believes that we can minimize the damage to the city if we take the fight to the Ezrohir ... but, without a suitable battlefield, we stand a better chance of surviving if we face them here.  We cannot make a final decision, though, until we hear from Muzaffar.;return
+"My thanks, human!  From what these Ezrohir scum said, their torturers were on their way, and I had precious little hope of holding out against their methods ... let alone escaping.
+I need to remain here, to ensure that these other captives make it safely back to Zeryphesh, but I have further need of you, if you have the time.";complete
+Locate Muzaffar in the Ossean Wastes and free him from his Ezrohir captors.;details
+- Locate Muzaffar in the Ossean Wastes;huddetails
+- Free Muzaffar from the Ezrohir;huddetails_complete
+Finally saved! Thank you! You look like a person who likes risk! I'm heading back to town now. Meet me there and see if your luck holds out!;complete
+Defeat Captain Stillheart in Plunder Cove.;details
+"I was a villain, in my time.  I broke into tombs and stole from the dead.  But, one day, I realized how much pain I had caused those still living ... and I swore it would stop.
+My comrades ... my accomplices ... felt differently.  They lured me out into these desolate sands and left me to die.  My spirit has haunted this place ever since, bound here by the weight of my sins, hoping for vengeance.  But they perished elsewhere, beyond my reach, even though they are now spirits as well.";return
+"I am merely spirit, but I mean you no harm.  In life, I was betrayed by comrades I had trusted.  Now I am trapped here, deprived of my rightful rest, for my death has gone unavenged these many years.
+Now my betrayers are themselves dead.  Seek their leader, Captain Stillheart, through this portal, in Plunder Cove, and show him that justice can still find him!";intro
+- Enter Plunder Cove via the portal in the Temple Steppes;huddetails
+- Defeat Captain Stillheart;huddetails_complete
+Use the explosives to blow up the Infected Skara Nests.;details
+Enter the Skaran Hives.;details_complete
+"Hoska is the only one who remains?
+You must help him finish his task!";return
+- Use the explosives to blow up the Infected Skara Nests.;huddetails
+- Enter the |cFFD1FF7ASkaran Hives.;huddetails_complete
+test;complete
+Smash the Eggs in the Skaran Hive and destroy the corrupting influence, whatever it may be.;details
+Return to Zeryphesh.;details_complete
+"You have eliminated the problem! Wonderful!
+If you hadn't been victorious, the blight might have spread to other hives in the barrens.
+I've spoken to Jasha about your deeds, and she would like to invite you into our trading circle. You may now purchase rare items from her - at a discount, of course.
+Thank you, traveler! You have done us a great service.";complete
+- Smash the Eggs in the Skaran Hive and destroy the corrupting influence, whatever it may be.;huddetails
+- Return to Zeryphesh.;huddetails_complete
+Find and aid the missing crew.;details
+You must find my crew!;return
+"I'm so relieved you have arrived! My crew and I journeyed to this outpost to deal with the increasingly aggressive Skara.
+I remained here to fashion additional explosives while my crew investigated the stacks, but they never returned. I have been unable to leave here because of the swarming Skara.
+Please take these explosives with you and journey to Swarm Point, and search for any surviving Zeraphi and help them in any way you can!";intro
+- Find and aid the missing crew.;huddetails
+"Ah, Hareph sent you with some explosives. Finally some good news!
+Don't bother looking for the rest of the crew - I'm the only one that survived. 
+There's something wrong with some of the hives - they seem to be infected. You'll need to locate the rigged hives and detonate them, then descend into the Brood Hive itself and destroy any infected eggs you find. Perhaps you will discover what has been blighting the eggs!
+This is a great task, but it must be done. We will all be in your debt.";complete
+Enter the Eternal Palace in the Salt Barrens and stop the Faceless King from using the Vault of Souls to enslave the Zeraphi and the Ezrohir.;details
+- Locate the the Faceless King in the Eternal Palace;huddetails
+- Stop the Faceless King from using the Vault of Souls;huddetails_complete
+"Your timing is perfect, my friend!  Below us, in the Dead Shoals, the King of the Crabs is negotiating with a representative of the Ezrohir, to provide the Ezrohir with a huge cache of scrap metal they have salvaged.  The Ezrohir will use that scrap to forge more arms to bring against us!  They must be stopped!
+I beg you:  Go down into the Dead Shoals and prevent the Crab King from concluding his negotiations with the Ezrohir!";intro
+The Crabs have been collecting scrap metal from the ancient wrecks in the Salt Barrens for several weeks, and hoarding it here, in their lair in the Dead Shoals.  I was sent to learn why.  When I arrived, I found them in the midst of a negotiation with an Ezrohir Champion ... and they have nearly concluded their bargain.  I was on my way back to Zeryphesh to find someone to disrupt their meeting, when you came along.;return
+"I was watching you from atop the bluff, here!  You were amazing!
+I realize this is not much in the way of a reward, but it is all I can offer.  Please take it, and my thanks.";complete
+Enter the Dead Shoals in the Salt Barrens and defeat the Crab King and Wakeel.  Return to Mashal at the Lighthouse for your reward.;details
+- Defeat the Crab King and Wakeel in the Dead Shoals;huddetails
+- Return to Mashal at the Lighthouse for your reward;huddetails_complete
+Search the Forsaken Vaults, in the Ossean Wastes, for the Cognition Linkage.;details
+Install the Cognition Linkage in Trillbot 4000.;details_complete
+"I am the great bard Trill.  Perhaps you have heard of me?
+You have done well so far, and I am happy to reward you.  Perhaps if you survive longer, you can find more of my missing components ... and I can reward you with the location of another treasure?";complete
+"Replay Mode: It appears you have found my body.  Very good.  This is where my memories are stored … including the locations of multiple caches of treasure.  I could share these with you, if you would help me reacquire the rest of my components.
+We should begin with my Cognition Linkage.  Without that, I won't be able to do much more than repeat this message.  My sensors tell me it is somewhere nearby.  Find it and reinstall it, and I will direct you to one of those treasure troves.";return
+"It appears you have found my body.  Very good.  This is where my memories are stored … including the locations of multiple caches of treasure.  I could share these with you, if you would help me reacquire the rest of my components.
+We should begin with my Cognition Linkage.  Without that, I won't be able to do much more than repeat this message.  My sensors tell me it is somewhere nearby.  Find it and reinstall it, and I will direct you to one of those treasure troves.";intro
+- Locate the Cognition Unit in the Forsaken Vaults;huddetails
+- Install the Cognition Unit in Trillbot 4000.;huddetails_complete
+Oh, and you destroyed so many eggs! Here's a bonus.;complete
+Locate the three Royal Masks in the Salt Barrens.;details
+Return the Royal Masks to the Faceless King.;details_complete
+"Excellent!  You have returned the Royal Masks!
+Soon, the Ezrohir and Zeraphi shall once again bow before me, and I will unite their forces into an unstoppable army that shall sweep into Estheria and lands beyond, and consume every lingering shard of Ember!  We will conquer all of Vilderan, then cross the sea and enslave your primitive human ""empire!""  You will toil in the mines for a thousand generations, and ensure that your master rules for eternity!
+Wait here, human.  And rejoice!  Once I have reclaimed my power from the Vault of Souls, I shall make you the first of a dynasty of slaves.";complete
+"The Zeraphi and Ezrohir were once one people ... and I was their king.  But in our quest for immortality, we fractured: The Ezrohir embraced the faster path of Ember-fueled suits of armor, while the Zeraphi sought a ""safer"" alchemical method.  But the Ezrohir demanded the Zeraphi Ember ... then waged war on the Estherians for theirs ... and, finally, demanded that I grant them access to the Vault of Souls.  I refused, and rather than let them take the Vault, I sank the Eternal Palace itself in the Bay of Stars.  In their fury, they bound me with chains and hurled me in after, to rule the bottom of the sea.  Now the waters have long since receded, and neither Zeraphi or Ezrohir remember the king who can use the power of the Vault of Souls to bring them together again.";return
+"I am called the Faceless King, and I have resided here since the Zeraphi and Ezrohir were one race.  It has been my dream to reunite them by accessing the Vault of Souls, but the Vault will not open without the masks of the royal line, which were stolen from me ages ago.
+If you can locate the Royal Masks and return them to me, I can raise the Eternal Palace, unlock the Vault of Souls, and reunite the Zeraphi and Ezrohir!  Please, my mortal friend ... help me end this war.";intro
+- Retrieve the three Royal Masks from the Salt Barrens;huddetails
+- Return the Royal Masks| to the |cFFFFBA00Faceless King;huddetails_complete
+Locate the Ezrohir Marauder in the Ossean Wastes.  Defeat him, and collect his Body Wrappings.;details
+Bring the Ezrohir Marauder's Body Wrappings back to Umahd in the Ossean Wastes.;details_complete
+"You have done it!  Oh, thank you, my friend!  You cannot imagine how it feels to ... to feel again!
+I can never thank you enough, my friend.  Perhaps this is a start, however ...?";complete
+The Ezrohir Marauder must be somewhere in this area:  The body he has stolen was mine for centuries, and I can not so easily forget it.  It is here!  I can feel it!  I beg you:  Find it for me!;return
+"I am no ghost, only disembodied spirit:  a Zeraphi warrior, torn from his wrappings, but unable to tear himself away from this world.  Umahd is my name.  I was defeated in battle, and my physical form taken from me, and made to serve the Ezrohir.  But the Ezrohir Marauder who wears my wrappings has returned, no doubt thinking me long gone.
+Find that Ezrohir Marauder!  Restore my physical form, and I shall reward you!";intro
+- Defeat Ezrohir Marauder in Ossean Wastes;huddetails
+- Return Body Wrappings back to Umahd in the Ossean Wastes;huddetails_complete
+"My friend, I have a mission for you.  You may have noticed the Ezrohir activity in the Ossean Wastes.  We believe these are scouts operating out of the Forsaken Vaults, but they are appearing so close to the city gates that we think they might have a base much nearer, from which they are spying on us.
+We have narrowed down the possibilities, and I want you to look into the Tower of the Moon, in the Ossean Wastes.  Determine if there are any Ezrohir scouts there ... and if you find any, deal with them.";intro
+Have you been able to ascertain if the Ezrohir are using the Tower of the Moon to spy upon us?;return
+I do not know how they came to install their sorcerer, Juthama Kasam, so close by the city walls without us noticing!  But I thank the Guardians that you were able to defeat him, and put a stop to whatever they were planning!;complete
+Scout the Tower of the Moon in the Ossean Wastes.  Eliminate any Ezrohir spies you find there and report back to Commander Muzaffar in the Ossean Wastes.;details
+"- Enter the Tower of the Moon in the Ossean Wastes; eliminate any Ezrohir inside";huddetails
+- Return to Commander Muzaffar in the Ossean Wastes;huddetails_complete
+Get a [ACQUIRE1] in the Temple Steppes.;intro
+Get a [ACQUIRE1] in the Temple Steppes.;return
+Get a [ACQUIRE1] in the Temple Steppes.;complete
+Get a [ACQUIRE1] in the Temple Steppes.;details
+- Get a [ACQUIRE1] in the Temple Steppes.;huddetails
+Get a [ACQUIRE1] on floor [ACQUIRE1DEPTH] of the Defiled Crypt.  The crypt can be entered via the Path of the Honored Dead.;intro
+Get a [ACQUIRE1] on floor [ACQUIRE1DEPTH] of the Defiled Crypt.  The crypt can be entered via the Path of the Honored Dead.;return
+Get a [ACQUIRE1] on floor [ACQUIRE1DEPTH] of the Defiled Crypt.  The crypt can be entered via the Path of the Honored Dead.;complete
+Get a [ACQUIRE1] on floor [ACQUIRE1DEPTH] of the Corrupted Crypt, in the Path of the Honored Dead.;details
+- Retrieve [ACQUIRE1] from the |cFFD1FF7ACorrupted CryptU;huddetails
+Kill [DEFEAT1] in the Defiled Crypt.  The crypt can be entered via the Path of the Honored Dead.;intro
+Kill [DEFEAT1] in the Defiled Crypt.  The crypt can be entered via the Path of the Honored Dead.;return
+Kill [DEFEAT1] in the Defiled Crypt.  The crypt can be entered via the Path of the Honored Dead.;complete
+Kill [DEFEAT1] in the Corrupted Crypt.  The crypt can be entered via the Path of the Honored Dead.;details
+- Kill [DEFEAT1] in the Defiled Crypt.;huddetails
+Search the Ossean Wastes for the entrance to the Forsaken Vaults, where the Guardian of Mana was taken, and defeat the forces that captured her.;details
+Defeat the Artificer, and inform the Guardian of Air in Zeryphesh.;details_complete
+"- Locate the Forsaken Vaults in the Ossean Wastes
+- Defeat the forces holding the Guardian of Mana";huddetails
+- Return to Guardian of Air in Zeryphesh;huddetails_complete
+"We must act quickly. It appears that the Artificer you defeated in the Vaults has enslaved the Guardian of Mana for the enemy. The most pressing danger is that they will use the enslaved Guardian to corrupt ... and control ... all the world's magic. Our only recourse in that event may be to destroy the Guardian.
+There might still be hope. If we can find a way to free the Guardian from Ezrohir control, we can save Zeryphesh, and thwart the Alchemist's plans.";complete
+"The Ezrohir prepare today for war
+Their legions number in the score.
+Their Alchemy and Artifice suffice
+To capture Mana ... not once but twice.
+Imprisoned in the Vaults Forsaken:
+Subdued, enslaved, her magic taken.
+Forced to lead their troops in battle
+From Guardian ... to so much chattel.";return
+"The Ezrohir have Mana enslaved
+But there's still hope; she might yet be saved.
+The enemy lie in this foul creche.
+Save the Guardian ... save Zeryphesh.";intro
+"Once again, the Sphinx has provided you with a kind of riddle about the fate of the Guardian of Mana:  Apparently, the Ezrohir captured the Guardian and brought her into the Forsaken Vaults, where they have devised some way of forcing her to work for them!
+You have to free her, or Zeryphesh will surely be lost ... and all the world's magic might come under the control of the bellicose Ezrohir!";moredetails
+Speak to the Railmaster in the Enclave to leave the Estherian Steppes and travel to the desert city of Zeryphesh.;details
+When you reach Zeryphesh, speak with the Guardian of Air.;details_complete
+- Speak to Railmaster in Enclave to travel to Zeryphesh;huddetails
+"I'm commandeering a transport to take you to Zeryphesh, in the Ossean Wastes.
+Just speak to the Railmaster, when you're ready to go.";intro
+"Things are pretty rough down in Zeryphesh, too.  That's why the Guardians are there.  The Ezrohir, after something like five hundred years of peace, are making war on the Zeraphi again.  A couple of the Guardians went down there to maintain order as best they can.
+If the Alchemist only needs the energy of two more Guardians, he couldn't have gotten more lucky.  They'll both be right there, in easy reach.  Let's just hope that they're more prepared than the others were.";return
+"The Alchemist must be stopped.  His mad plan to free the Netherim from their ancient prison has now caused the deaths of Syl, Grand Regent Eldrayn, the entire village of Torchlight, and countless Estherians and Vanquishers ... not to mention nearly killing two of the elemental Guardians.
+The power the Alchemist has stolen from the Guardians is vast, but not limitless ... not yet.  But there are two more Guardians not far away, in the Ossean Wastes, and the Guardian of the Wild has asked you to journey there, to help protect them from the Alchemist.";moredetails
+You're the one the Vanquisher-lady told me about, then?  Alright ... whenever you're ready to get rollin', we'll get your gear aboard our Embercraft, and we'll set out.  Shouldn't take us more than a couple of days to get there!;intro
+- Speak to Guardian of Air in Zeryphesh;huddetails
+Survive against the hordes of enemies until you find a way to return to Fazeer Shah.;details
+You have prevailed against the hordes of enemies. Return to Fazeer Shah in the Salt Barrens.;details_complete
+- Survive the Luminous Arena;huddetails
+- Return to Fazeer Shah in the Salt Barrens;huddetails_complete
+"So ... you finally found your way out.  You are the most entertaining diversion I've found in a thousand years!
+Well, I suppose you'll be needing one final task ...";complete
+Go on, then. Glory awaits!;return
+"You survived the Tu'tara more or less in one piece.  Congratulations.  But it occurs to me that you didn't do anything that you wouldn't ordinarily have done.  This second task should prove much more amusing.
+Step through the Portal.  Your second task ... is to survive!";intro
+"Fazeer Shah has promised to help you release the magical bonds placed on the Guardian of Mana by the Artificer, if you'll just perform three tasks for the djinni's amusement.  The first task was easy enough, but the second seems much riskier.
+But, if jumping through the djinni's hoops will free the Guardian of Mana from Ezrohir control, then that's what you'll have to do.";moredetails
+Travel through the Witherways, in the Salt Barrens, to the Ezrohir stronghold of Riftkeep, and free the Guardian of Mana from Ezrohir control.;details
+Speak to the newly freed Guardian of Mana.;details_complete
+- Travel through the Witherways, in the Salt Barrens, to Riftkeep, and defeat the Siege Guardian;huddetails
+- Speak to the Guardian of Mana in Riftkeep;huddetails_complete
+"Stop.  Enough.  You have freed me from my enslavement and I am myself once more!
+We must leave this place.  I will open a portal for you, to Zeryphesh.";complete
+"When the Zeraphi and Ezrohir ""parted ways,"" they designated the nearby fortress of Riftkeep as a neutral ground, where they could meet and talk over their differences.  But it has remained unused for centuries ... until a few weeks ago, when the Ezrohir army seized the fortress.  They have occupied it ever since, and that is surely where they are holding the Guardian of Mana while they marshal their forces.
+The Ezrohir will be expecting the Zeraphi to attack them at Riftkeep, to attempt to rescue the Guardian.  But they know it will take time for the Zeraphi to arrive.  You can get there much more quickly, and fight your way inside before they are prepared to repel you.";return
+"By slaying Ezrek Khan, you broke the enchantment used to enslave the Guardian of Mana.  That means that you can defeat her without destroying her.
+The Ezrohir have moved the Guardian to the fortress of Riftkeep in the Salt Barrens, where they are marshaling their forces for the assault on Zeryphesh.
+Go.  Fight past the Ezrohir and free the Guardian!";intro
+"The time has come to enter Riftkeep and try to rescue the Guardian of Mana.  The djinni, Fazeer Shah, claims that he has broken the Ezrohir's control over the Guardian ... but there still remains the matter of actually freeing her.  Resistance inside Riftkeep will be formidable; the Ezrohir army is already prepared for war, and they are no doubt expecting a rescue attempt.  You will have to act fast, and strike without mercy.";moredetails
+Defeat the Manticore in the Stygian Aerie.;details
+Return to the Sphinx at the CForsaken Gate.;details_complete
+- Defeat the Manticore in the Stygian Aerie;huddetails
+- Return to the Sphinx at the Forsaken Gate;huddetails_complete
+"Your valor proved; the way is clear.
+The forge, the Queen ... the end is near.";complete
+"Forge of darkness, deep below.
+Chains are wrought and bellows blow
+Queen of Mana trapped, restrained
+Magic stolen, power drained.
+Ezrohir make plans for war
+Captured Queen is at the fore.";return
+"My ancient charge, to guard the gate
+The desert sands to contemplate.
+In Stygian realm lurks beast of yore
+Part drake, part lion:  Manticore.
+Lay its skin before my eyes
+And passage through shall be your prize.";intro
+If you understood the enigmatic Sphinx correctly, the Guardian of Mana was captured by the Ezrohir and taken into the Forsaken Vaults for some nefarious purpose.  The Guardian is clearly in danger ... but the Sphinx will not open the Forsaken Gate until you slay her most hated enemy: a Manticore that lurks in a cave in the Ossean Wastes.;moredetails
+Return to Zeryphesh when the Guardian of Mana is free.;details
+- Return to the Guardian of Air in Zeryphesh;huddetails
+"When the Zeraphi and Ezrohir ""parted ways,"" they designated the nearby fortress of Riftkeep as a neutral ground, where they could meet and talk over their differences.  But it has remained unused for centuries ... until a few weeks ago, when the Ezrohir army seized the fortress.  They have occupied it ever since, and that is surely where they are holding the Guardian of Mana while they marshal their forces.
+The Ezrohir will be expecting the Zeraphi to attack them at Riftkeep, to attempt to rescue the Guardian.  But they know it will take time for the Zeraphi to arrive.  You can get there much more quickly, and fight your way inside before they are prepared to repel you.";complete
+Locate the djinni Fazeer Shah in the Salt Barrens.;details
+- Locate the Djinni in Salt Barrens;huddetails
+"Greetings, o insignificant one.
+Ah, yes ... I know of this Artificer.  He came to me, seeking the secret of binding a Guardian ... but I refused his entreaties.  Instead, he turned to my ancient foe, the despicable Ezrek Khan, who was all too eager to teach him such abominable rituals.
+Of course, whatever Ezrek Khan has done, I can undo.";complete
+"Centuries ago, a djinni named Fazeer Shah and a djinni named Ezrek Khan quarreled over some trivial matter, and ultimately went to war.  They caused considerable damage to the cities, and devastated the land, until the Zeraphi sultan had had enough.  He banished them both: one to the desert, and one to ... another place.  A shadow realm, between this world and the endless void where the Netherim dwell.
+If you can reach Fazeer Shah, you might be able to convince him to help us.";return
+"Not far from here, in the Salt Barrens, there abides a djinni named Fazeer Shah.  This djinni has the power to release the Guardian of Mana from Ezrohir control ... but his aid will come with a price.
+You must travel out into the Salt Barrens.  Locate Fazeer Shah, and convince him to help you free the Guardian.";intro
+"Curse that riddle-tongued Sphinx!  The Guardian of Mana had been in the Forsaken Vaults, but the Ezrohir took her away before you even arrived!  Now they are keeping her under guard at Riftkeep, their fortress in the Salt Barrens, until they are ready to launch their attack on Zeryphesh.
+Things are getting desperate, but the Guardian of Air has suggested a way that Mana might still be saved.  The magical bonds placed upon the Guardian of Mana are beyond the abilities of the Guardians to remove, but, out in the Salt Barrens, there abides a powerful djinni named Fazeer Shah.  This djinni can easily undo the Artificer's work, but you have to find him first ... and then convince him to help.";moredetails
+Defeat Ezrek Khan in Jehannum, and retrieve the Lamp of Marvels.;details
+Return to Fazeer Shah after you have defeated Ezrek Khan.;details_complete
+- Defeat Ezrek Khan in Jehannum;huddetails
+- Give the Lamp of Marvels to Fazeer Shah;huddetails_complete
+"Everything has transpired exactly as I intended!  I have my Lamp of Marvels!  At last, I am free!
+I confess:  This lamp is much more valuable than you could have known.  Ezrek Kahn stole it from me ages ago, and now that I have them both, I have my freedom, and ultimate power over my oldest rival. 
+As for your Guardian ... defeating Ezrek Kahn has sufficiently weakened the magic they bound her with. You should be able to confront her now.
+I HAVE HONORED MY BARGAIN!";complete
+"Be warned:  Ezrek Khan draws his power from the same source as the Netherim.  His realm borders closely on theirs; they will almost certainly stand against you, should you challenge the djinni.";return
+"Well, well.  You are much more determined ... and capable ... than I had suspected!  Excellent ...
+If you truly wish to free the Guardian, you must humiliate my old rival, Ezrek Khan, by stealing his precious Lamp of Marvels.";intro
+"Fazeer Shah's ""entertainments"" have put your life in serious jeopardy twice now ... and he still isn't satisfied!  Fortunately, he swears he only has this one last task for you, and then he'll honor his bargain, and free the Guardian of Mana from the controls placed upon her by the Ezrohir.";moredetails
+Speak to the Imperial Railmaster, in Zeryphesh, to travel to Grunnheim.;details
+Report in at the Imperial Camp, in Grunnheim;details_complete
+- Speak to the Railmaster in Zeryphesh;huddetails
+- Travel to Grunnheim;huddetails_complete
+Well, the transport is all patched up, and we've taken on fuel and supplies.  I can have you up to Grunnheim in no time!;complete
+The Alchemist is nearly within your reach!  Hasten at once to Grunnheim!;return
+"You have done well.  The Ezrohir forces at Riftkeep are defeated, and their troops are in retreat.  Most importantly, the Guardian of Mana is once again safe.
+Let us return to the matter of the Dark Alchemist.  He has now stolen the energy of three Guardians, and we thought he desired my power as well.  But, for some reason, he has left the desert, and is now en route to Grunnheim.
+That can only mean that he is bound for the Clockwork Core.  With the power he has amassed, he could destroy the barrier between our world and the realm of the Netherim.  They would pour through by the millions.
+Seek the Railmaster, and depart for Grunnheim as soon as you are able.";intro
+"With the Guardian of Mana freed from Ezrohir control, the city of Zeryphesh is safe.  The Ezrohir are fleeing back to their hiding places in the deserts.  The Zeraphi are safe once again.
+But the Alchemist is still on the loose, and now, bolstered with the energy of the Guardians of Water, the Wild, and Mana, he is en route to the dwarven ruins at Grunnheim to put the final step of his mad plan into action.
+If the Alchemist reaches the Clockwork Core, and uses the full power of Ordrak's Heart to destroy the ancient barrier between the world and the foul Nether, he will open a floodgate through which the Netherim will pour by the thousands.  You are the only one who can stop him!";moredetails
+Search the Ossean Wastes for the Guardian of Mana.;details
+- Search for the Guardian of Mana in the Ossean Wastes;huddetails
+"The Mana Queen has come and gone
+Through this gate, she journeyed on.
+Follow her and pay the cost.
+Hasten forth, or she'll be lost.";complete
+The Guardian of Mana has pursued the Alchemist into the Forsaken Vaults, which are guarded by the Sphinx.  Seek the Vaults, and convince the Sphinx to grant you entry.  The Guardian is in great danger ... if not from the Alchemist, then from the Netherim.;return
+"I have been expecting you.  I am the Guardian of Air.  Yes, the Alchemist has already come to the Ossean Wastes, and has allied himself with the vile Ezrohir, presumably to aid their impending attack on Zeryphesh.  
+The Guardian of Mana has pursued the Alchemist into the Forsaken Vaults, which are guarded by the Sphinx.  Seek the Vaults, and convince the Sphinx to grant you entry.  The Guardian is in great danger ... if not from the Alchemist, then from the Netherim.";intro
+"The once-heroic Alchemist is on a mad rampage!  After destroying Torchlight, he invaded the Estherian Steppes, where he attacked two of the elemental Guardians, draining their powers to fuel the evil artifact he reclaimed from the Torchlight mines: Ordrak's Heart.
+Convinced he needs even more power, the Alchemist has apparently headed south, to the Ossean Wastes, where two more Guardians are preparing to defend the desert city of Zeryphesh against an attack by their old foes, the Ezrohir.  Now one of those Guardians has gone missing, and the other, the Guardian of Air, believes that the Guardian of Mana may be heading into a trap.";moredetails
+Go to the Sadwa Mesa in the Salt Barrens and recover the Lamp of Wonders.;details
+Return to Fazeer Shah in the Salt Barrens.;details_complete
+- Recover the Lamp of Wonders from the Sadwa Mesa in the Salt Barrens;huddetails
+- Return to Fazeer Shah in the Salt Barrens;huddetails_complete
+"So!  You retrieved the Lamp of Wonders!  Your pitiful struggles do provide some small entertainment after all.
+You can throw that piece of  junk away.  It's just a lamp with a pretentious name. It doesn't actually do anything, although I suppose you could put some oil in it and use it to provide light ...
+This second task should prove much more amusing.";complete
+"I suppose you're wondering why I need the Lamp of Wonders.  Perhaps you're thinking it has powers that will enable me to help you.  Perhaps you're also thinking that, if it has powers like that, you don't need me ... you just need the lamp?
+Allow me to put your mind at rest:  The Lamp of Wonders has no powers.  I simply want to make you retrieve it, to test your resolve to rescue the Guardian ... which I can't help but notice you haven't done yet.";return
+"The Artificer and the Alchemist might be formidable, but even their combined powers are nothing more than parlor tricks to one such as me.  I can easily undo anything that they have done to your ""Guardian.""  I will of course require something in return.
+My only real enemy in this desert is boredom.  I will make you a bargain:  Perform three tasks for my amusement.  If your struggles provide suitable entertainment, then, and only then, will I free your Guardian.
+Your first task: Journey to the Sadwa Mesa, and recover my Lamp of Wonders from the Tu'tara!";intro
+The djinni, Fazeer Shah, has agreed to help you free the Guardian of Mana ... but only if you perform a few tasks for his amusement first.  Fazeer Shah doesn't seem to understand the gravity of the situation ... or just doesn't care ... but, if this is the only way to rescue the Guardian, there doesn't seem to be much choice.;moredetails
+Every time I stand up, I get maybe ten steps before everything gets all fuzzy and dark.;passive
+The Destroyer really can't help you.  It's going to be several more days before he can get around ... let alone fight!;passive
+The Destroyer was saying that the Alchemist got here even before we did ... which might explain the devastation we saw, on the way up, and in the pass.;passive
+The ratlins and the Sturmbeorn have all but disappeared, though we've noticed quite a few more warbeasts prowling around since you were here last.;passive
+Please ... go to the Watchweald Temple.  Bring back the Grand Regent.  Only he can save us now!;passive
+Remember us, human.  Remember the Guardian you saved.  Remember the Estherians you could not.;passive
+It seems that the illness the Alchemist brought upon us will do what the Sturmbeorn failed to accomplish.;passive
+A lot of affected Estherians have set off for the Watchweald Temple, in hopes of receiving some relief from this terrible fever.;passive
+Not a lot of foot traffic headed this way anymore.;passive
+Let me see your authorization.  Alright ... this looks in order.  Be careful out there.;passive
+You have lifted the curse I brought upon myself, and my torment is finally at an end.  I will abide here a while, I think, before I move on to my final reward.  Perhaps, at the very least, I will tell my story to would-be thieves, to save them from a similar fate ...;passive
+We will be moving along shortly.  Some of our injured need a bit longer to recover, before they are ready to travel.  Remember, if you should find yourself in Zeryphesh, please seek me out!;passive
+It looks like the Alchemist was doing some kind of research in there, but he bugged out, probably right before he went to Torchlight.;passive
+I am deeply troubled by those notes you found in the Icedeep Caverns.  I have notified the Enclave that I will remain here, to guard the caves, and prevent any of the Alchemist's notes and paraphernalia from being lost.;passive
+Lots of the Estherians are heading out of the city through this pass.  We've got orders not to stop them ... but they don't look well, some of 'em.;passive
+I miss my husband so much ... but luckily I still have my little baby-wabies ...;passive
+Did you make it up to the Enclave?  Did you speak to Commander Vale?;passive
+What brought you back here?  Are the Sturmbeorn heading back this way?;passive
+We were supposed to rescue some Estherians from these slavers, but the slavers had reinforcements.  We did find out that their leader, Kidrik, is holed up in a grotto under the lake.;passive
+See those burned-out huts in the stockade?  We did that, to smoke the slavers out.  Just smash the lanterns, and the huts'll go up like kindling.  They'll come out right quick ...;passive
+Meet me back in the Estherian Enclave, and I can enchant your gear!;passive
+Good job you did, getting the Commander out of there!;passive
+"I'm Captain Jakobi, pilot of the best Herkonian Embercraft this side of Red Haven!
+We're just picking up some cargo and supplies, before we head off down to Zeryphesh.  What brings you here?";passive
+You're doing a great job out there.  The Commander's pleased with your results, and the Estherians are calling you a hero.;passive
+All quiet here, more or less.  Hey, good work you did, getting the Commander out of the Wellspring!;passive
+Things are pretty safe here, now.  How are things out on the Temple Steppes?;passive
+I am so sorry.  You did all that work to recover the Scroll of Anom-Irek ... and now the Grand Regent says we will not be needing it!;passive
+Seems like the pass and the steppes are a lot safer, since you came through!  Good work out there!;passive
+You must do all you can to locate the Grand Regent!  He is far too ill to visit the Watchweald Temple.  He might infect the Guardian!;passive
+Ever since the Alchemist's attack, there has been a sickness in the Enclave.  Grand Regent Eldrayn has sent my cousin, Miamin, out into the Path of the Honored Dead to seek a cure.;passive
+"The Guardians are not gods, as humans seem to believe.  They are elementals ... the most powerful in the world.  By their very existence they create the elements; by the power of their will, they control the elements.  Without them, the world is chaos.";passive
+Before the Sturmbeorn arrived, my brother had gone up into the Path of the Honored Dead to perform the Ceremony of Tranquility.  He has not yet returned.  I fear for his safety!;passive
+The Vanquishers came to help us with the Sturmbeorn problem, but when their leader, Commander Vale, learned that it was the Alchemist who had attacked us, she seemed ... sad.  Were they friends once?;passive
+We've tangled with the Sturmbeorn a few times since we got here.  Them or the ratlins jump us every time we try to move supplies up the pass, to the Estherian city.  I hope the Commander comes back with some relief soon.;passive
+You're a strong one to survive this pass, but there are even greater dangers in the Temple Steppes.  Be sure you're ready before you venture any further from the Enclave.;passive
+"I'm Captain Jakobi, pilot of the best Herkonian Embercraft this side of Red Haven!
+We're just picking up some cargo and supplies, before we head off down to Zeryphesh.  What brings you here?";passive
+It's good to know that someone else made it through!  Does this mean Echo Pass is finally clear of the Sturmbeorn?;passive
+The statue stares placidly into its pool.;passive
+"Keep your eyes open out here.  We know the Sturmbeorn are in the pass; we can hear 'em messing around with the Estherian crypts.";passive
+"The pass here is pretty straightforward:  just follow the road, and you'll be fine.
+Of course, you'll still want to keep an eye out for the bear-men.";passive
+You two are lucky to have made it this far, seeing as how badly wounded the Destroyer is.  But I think you're on your own now, from here to the Enclave.  The Destroyer can barely stand ... let alone fight his way through all those Sturmbeorn in the pass.;passive
+The Enclave is this way, up Echo Pass. What with the ratlins and the Sturmbeorn, it can be dangerous.  So if you're not sure you're ready, you should get your bearings here first.;passive
+"The pass is infested with ratlins, and there's some Sturmbeorn raiders, too.   They pretty much control the pass right now;  we can't get any troops through.  Every time we try, we end up with more wounded.";passive
+I'm sorry, but access to the Path of the Honored Dead is closed, by order of the Estherian Grand Regent.;passive
+I'm sorry, but I can't let you through here without authorization from Commander Vale, or the Estherian Grand Regent.;passive
+The Commander went to the Wellspring Temple.  She should be back any time.;passive
+I thank you for rescuing me.  There are other captives, as well, in a cave below the lake.  There is a hatch, just outside that nearby hut, which leads to the slavers' den.;passive
+You have lifted the curse I brought upon myself, and my torment is finally at and end.  I will abide here a while, I think, before I move on to my final reward.  Perhaps, at the very least, I will tell my story to would-be thieves, to save them from a similar fate ...;passive
+It was a brutal fight, getting up here through that bear-infested pass.  We lost a lot of good soldiers, and most of who we have left are injured.;passive
+You sidle up to the horse.  It sidles away.;passive
+I really appreciate you checking on me, but you should probably get on with catching up with the Grand Regent.;passive
+The Destroyer really can't help you.  It's going to be several more days before he can get around ... let alone fight!;passive
+All clear in the pass?;passive
+All's quiet here.  How are things further up the pass?;passive
+Hey, if you're heading back to the Enclave, can you check with the Commander?  See if she needs us to pull back to the Enclave?;passive
+Listen:  If I you find me dead ... please, bury me somewhere with a view ...;passive
+I would very much like to see the Frosted Hills again, before I die.;passive
+This is not the first time something like this has happened.  Once before, more than a thousand years ago, a plague like this struck the Retreat, in the Frosted Hills.  In the end, all the Estherians there fled, or died ... twisted in horrible ways ...;passive
+I used to live in the Retreat, in the Frosted Hills.  We had to leave, though ... there was a plague.  Heh ... ironic, isn't it, that an illness forced me to leave ... and another illness makes me want to return?;passive
+Not a lot of foot traffic headed this way anymore.;passive
+You're all set.  Keep up the good work!;passive
+"I'm Captain Jakobi, pilot of the best Herkonian Embercraft this side of Red Haven!
+We're just picking up some cargo and supplies, before we head off down to Zeryphesh.  What brings you here?";passive
+You have lifted the curse I brought upon myself, and my torment is finally at and end.  I will abide here a while, I think, before I move on to my final reward.  Perhaps, at the very least, I will tell my story to would-be thieves, to save them from a similar fate ...;passive
+We will be moving along shortly.  Some of our injured need a bit longer to recover, before they are ready to travel.  Remember, if you should find yourself in Zeryphesh, please seek me out!;passive
+It looks like the Alchemist was doing some kind of research in there, but he bugged out, probably right before he went to Torchlight.;passive
+I am deeply troubled by those notes you found in the Icedeep Caverns.  I have notified the Enclave that I will remain here, to guard the caves, and prevent any of the Alchemist's notes and paraphernalia from being lost.;passive
+How bad's the snow up in the Frosted Hills?;passive
+I miss my husband so much ... but luckily I still have my little baby-wabies ...;passive
+I got what I need, thanks.  If I have any more work for you, I'll be sure to let you know.;passive
+Did you make it up to the Enclave?  Did you speak to Commander Vale?;passive
+Good job you did, getting the Commander out of there!;passive
+We should be able to get the Estherians back home.  Thanks for getting them out of there.;passive
+Nice work you did in there.;passive
+A lot more of the Estherians are getting sick.  That's not a good sign.;passive
+All quiet here, more or less.  Hey, good work you did, getting the Commander out of the Wellspring!;passive
+Things are pretty safe here, now.  How are things out on the Temple Steppes?;passive
+I am so sorry.  You did all that work to recover the Scroll of Anom-Irek ... and now the Grand Regent says we will not be needing it!;passive
+Seems like the pass and the steppes are a lot safer, since you came through!  Good work out there!;passive
+You must do all you can to stop the Grand Regent!  He is far too ill to visit the Watchweald Temple.  He might infect the Guardian!;passive
+Sorry, but I don't think I'm going to be any use to you.  The medic here says that I've got broken ribs ... probably from when the Alchemist swatted me all the way out of Torchlight.;passive
+Would you please tell him you're doing just fine?  He keeps trying to head up the pass to go help you ... and I'm the one who has to pick him up and put him back together, every time.;passive
+What brought you back here?  Are the Sturmbeorn heading back this way?;passive
+If the Alchemist already has Ordrak's Heart, what's he doing attacking Guardians?  I don't see what it gets him.;passive
+The ratlins and the Sturmbeorn have all but disappeared, though we've noticed quite a few more warbeasts prowling around since you were here last.;passive
+My sister has returned from the Path of the Honored Dead with the Scroll of Anom-Irek.  We must try to hold on until the Grand Regent can return and effect the cure to this sickness.;passive
+Grand Regent Eldrayn is the oldest and wisest of the Estherians: a paragon of virtue and compassion, as well as our most accomplished elementalist.  So long as he protects us, the Estherians will endure.;passive
+I spoke with Grand Regent Eldrayn before he left for the Watchweald Temple.  He seemed ... tired.;passive
+I have always been led to believe that the Guardians could correct any imbalance, cure any ill.  Why have they not come to our aid?  Could the Alchemist have struck at the temples also?;passive
+You're already cleared for the pass.  Good luck out there.;passive
+Let me see your authorization.  Alright ... this looks in order.  Be careful out there.;passive
+"I'm Captain Jakobi, pilot of the best Herkonian Embercraft this side of Red Haven!
+We're just picking up some cargo and supplies, before we head off down to Zeryphesh.  What brings you here?";passive
+The Commander's quite impressed with you!  She said you've got the makings of a real hero!;passive
+You have lifted the curse I brought upon myself, and my torment is finally at an end.  I will abide here a while, I think, before I move on to my final reward.  Perhaps, at the very least, I will tell my story to would-be thieves, to save them from a similar fate ...;passive
+We were supposed to rescue some Estherians from these slavers, but the slavers had reinforcements.  We did find out that their leader, Kidrik, is holed up in a grotto under the lake.;passive
+See those burned-out huts in the stockade?  We did that, to smoke the slavers out.  Just smash the lanterns, and the huts'll go up like kindling.  They'll come out right quick ...;passive
+You've got to hurry, if you're trying to catch up with the Grand Regent.;passive
+I am deeply troubled by those notes you found in the Icedeep Caverns.  I have notified the Enclave that I will remain here, to guard the caves, and prevent any of the Alchemist's notes and paraphernalia from being lost.;passive
+I miss my husband so much ... but luckily I still have my little baby-wabies ...;passive
+I got what I need, thanks.  If I have any more work for you, I'll be sure to let you know.;passive
+You actually met a Guardian!  Which one was it?;passive
+Meet me back in the Estherian Enclave, and I can enchant your gear!;passive
+It's pretty clear the Alchemist was here, but bugged out, probably right before he went to Torchlight.  The place is still full of monsters, though, so watch your back in there.;passive
+You saved the Commander's life out there, you know.  That makes you a hero, in my book.;passive
+All quiet here, more or less.  Hey, good work you did, getting the Commander out of the Wellspring!;passive
+Things are pretty safe here, now.  How are things out on the Temple Steppes?;passive
+I am so sorry.  You did all that work to recover the Scroll of Anom-Irek ... and now the Grand Regent says we will not be needing it!;passive
+Seems like the pass and the steppes are a lot safer, since you came through!  Good work out there!;passive
+Word's getting back that you're doing really well out there.  I knew you could do it!;passive
+The Destroyer really can't help you.  It's going to be several more days before he can get around ... let alone fight!;passive
+All clear in the pass?;passive
+All's quiet here.  How are things further up the pass?;passive
+Hey, if you're heading back to the Enclave, can you check with the Commander?  See if she needs us to pull back to the Enclave?;passive
+It grieves me that the Grand Regent is ... that he is dead.  But now that the Guardian of the Wild is free of Netherim influence, I can feel my own fever abating.;passive
+The Estherians owe you a tremendous debt of gratitude.  Thanks to you, we will continue to endure.;passive
+It seems that even the Grand Regent was not strong enough to fight off the Netherim corruption.  As I recall, he was one of those who had survived the plague at the Retreat.  Perhaps some small seed of the Nether-Beasts had taken root in his spirit, and left him vulnerable once again ...;passive
+I should have known it was a Netherim plague!  The strange thoughts I had, the desire to leave the city ... it was exactly as it was, a thousand years ago, when the Netherim wormed their way into the Retreat.;passive
+Word is that you met not one, but two Guardians!  What was that like?;passive
+You're all set.  Keep up the good work!;passive
+Everything's just about loaded, and my chief engineer is building up the boiler pressure.  You about ready to head out?;passive
+"You're headed to the Ossean Wastes now?  Watch yourself down there; they say there's a war brewing, betweent the Zeraphi and the Ezrohir.";passive
+You have lifted the curse I brought upon myself, and my torment is finally at and end.  I will abide here a while, I think, before I move on to my final reward.  Perhaps, at the very least, I will tell my story to would-be thieves, to save them from a similar fate ...;passive
+We will be moving along shortly.  Some of our injured need a bit longer to recover, before they are ready to travel.  Remember, if you should find yourself in Zeryphesh, please seek me out!;passive
+It looks like the Alchemist was doing some kind of research in there, but he bugged out, probably right before he went to Torchlight.;passive
+I am deeply troubled by those notes you found in the Icedeep Caverns.  I have notified the Enclave that I will remain here, to guard the caves, and prevent any of the Alchemist's notes and paraphernalia from being lost.;passive
+Where you headed to next?;passive
+I miss my husband so much ... but luckily I still have my little baby-wabies ...;passive
+Did you make it up to the Enclave?  Did you speak to Commander Vale?;passive
+We should be able to get the Estherians back home.  Thanks for getting them out of there.;passive
+Nice work you did in there.;passive
+Seems like your work here is pretty much done.  Maybe a little bit of mop-up here and there.  Do you know where you're headed next?;passive
+I am confident that, should it come to war, the Guardians will be more than able to defend the city.;passive
+I've heard that the Ezrohir are massing by the Forsaken Gate.  I wonder how they got past the Sphinx?;passive
+The Guardian of Air will be able to provide us some support, but only inside the city walls.  If it should fall while flying outside, we won't be able to reach it for a rescue.;passive
+Zeryphesh is my home.  If it's destroyed by the Alchemist and the Ezrohir, I will die with it.;passive
+I'm actually rather surprised the Ezrohir have been able to move about the Ossean Wastes at all, with the Manticore making its lair out there, in the Stygian Aerie.;passive
+Now that you have defeated the Ezrohir sorcerer in the tower, Zeryphesh is a great deal safer.  We still have to prepare ourselves for the coming siege ... but you've made that task a lot easier!;passive
+The Guardian of Air has ordered the gate to the Empty Quarter sealed.  If the Guardian gives you leave, then I can allow you to pass.;passive
+If you haven't yet spoken to the Guardian of Air, I must caution you:  The Ossean Wastes are not safe during this siege.  If you get into trouble, we cannot send a rescue party.;passive
+It seems I have not yet earned my eternal rest.  Your part in my story is done, though, and, if my gratitude means anything to you, you have it.;passive
+Just because this mana rift didn't pan out, that doesn't mean there's not another one on my surveys that might work much, much better!  It's just going to take a while to determine which mana rift is the best bet.;passive
+Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from the Undercurrents and return to help defend Zeryphesh.;passive
+You've given us a fighting chance, hero.  Thank you.;passive
+Do you think there's a connection between that business with the Guardians in Estheria and the Ezrohir suddenly deciding to attack us again?;passive
+Weren't you headed to Zeryphesh?;passive
+Seems like the Estherians are recovering nicely, thanks to you!;passive
+Well, it seems there is an explanation for the Grand Regent's reticence to make use of the Scroll of Anom-Irek.  Who would have imagined that he would be vulnerable to possession by even the most powerful of Netherim?;passive
+Seems like the pass and the steppes are a lot safer, since you came through!  Good work out there!;passive
+"The ... Grand Regent was ... possessed?  By a Nether-Beast?
+So ... the ""illness"" we thought he was spreading was some form of Netherim corruption?
+I am so very, very confused right now.";passive
+"If you see my sister, Miamin, in the pass, tell her to hurry.  The sickness is spreading; we need that cure!";passive
+Grand Regent Eldrayn is the oldest and wisest of the Estherians: a paragon of virtue and compassion, as well as our most accomplished elementalist.  So long as he protects us, the Estherians will endure.;passive
+Before the Sturmbeorn arrived, my brother had gone up into the Path of the Honored Dead to perform the Ceremony of Tranquility.  He has not yet returned.  I fear for his safety!;passive
+The Vanquishers came to help us with the Sturmbeorn problem, but when their leader, Commander Vale, learned that it was the Alchemist who had attacked us, she seemed ... sad.  Were they friends once?;passive
+The steppes are riddled with yak-trails and old funerary paths that even the Estherians have forgotten about.  It's no wonder the Sturmbeorn were able to get an army in here without anyone noticing ...;passive
+You're a strong one to survive this pass, but there are even greater dangers in the Temple Steppes.  Be sure you're ready before you venture any further from the Enclave.;passive
+"I'm Captain Jakobi, pilot of the best Herkonian Embercraft this side of Red Haven!
+We're just picking up some cargo and supplies, before we head off down to Zeryphesh.  What brings you here?";passive
+Are you going back down the pass, now?;passive
+The statue stares placidly into its pool.;passive
+"Keep your eyes open out here.  We know the Sturmbeorn are in the pass; we can hear 'em messing around with the Estherian crypts.";passive
+"The pass here is pretty straightforward:  just follow the road, and you'll be fine.
+Of course, you'll still want to keep an eye out for the bear-men.";passive
+Sorry, but if I can push the Destroyer back down every time he tries to stand up, then he's in no shape to take on the Alchemist!;passive
+Now that you've been up Echo Pass, you should be able to handle just about anything!;passive
+The ratlins and the Sturmbeorn have all but disappeared, though we've noticed quite a few more warbeasts prowling around since you were here last.;passive
+Let me see your authorization.  Okay, you're cleared.  Good luck out there.;passive
+I'm sorry, but I can't let you through here without authorization from Commander Vale, or the Estherian Grand Regent.;passive
+We ... we got here too late?  How did the Alchemist get here ahead of us?  Just ... just let me rest a little longer, and I'll try to help you out.;passive
+You have lifted the curse I brought upon myself, and my torment is finally at and end.  I will abide here a while, I think, before I move on to my final reward.  Perhaps, at the very least, I will tell my story to would-be thieves, to save them from a similar fate ...;passive
+The Commander went to the Wellspring Temple.  She should be back any time.;passive
+I am deeply troubled by those notes you found in the Icedeep Caverns.  I have notified the Enclave that I will remain here, to guard the caves, and prevent any of the Alchemist's notes and paraphernalia from being lost.;passive
+I got what I need, thanks.  If I have any more work for you, I'll be sure to let you know.;passive
+There's too many slavers in there, and we've lost too many men!  We're not getting in there without a miracle.;passive
+Meet me back in the Estherian Enclave, and I can enchant your gear!;passive
+See those burned-out huts in the stockade?  We did that, to smoke the slavers out.  Just smash the lanterns, and the huts'll go up like kindling.  They'll come out right quick ...;passive
+I am so sorry.  You did all that work to recover the Scroll of Anom-Irek ... and now the Grand Regent says we will not be needing it!;passive
+Speak to the Destroyer. He's standing by a Vanquisher Medic, near the tavern building.;details
+- Speak to the Destroyer;huddetails
+"The Destroyer, one of the famous ""Heroes of Torchlight,"" asked you to accompany him back to the scene of his greatest triumph:  the small mining town where he, the Vanquisher, and the Alchemist defeated the dragon Ordrak.  When you got there, though, a pitched battle was going on, between soldiers of the Vanquisher Corps, led by Syl the Seer ... and the Alchemist!
+The armor-clad Alchemist had retrieved Ordrak's Heart and was laying waste to Torchlight.  When Syl fell in battle, the Destroyer realized that he couldn't stop the Alchemist ... and, instead turned his efforts toward warning the next nearest settlement.  Unfortunately, between the winding trail and the Destroyer's injuries, it took you days to get even this far ... and the Destroyer can't go on ...";moredetails
+"From the symptoms I observed, the Grand Regent has definitely contracted the illness.  He insisted on pushing on, though; the Guardian's welfare is more important.  But, if this sickness is instead some form of magical corruption, then the Grand Regent is taking it directly to the Guardian!";return
+Collect the Passkey Ember from the Slavers' Stockade, and the Latchkey Ember from the Emberscratch Mines.  Use them to open the Watchweald Portal, in the abandoned Estherian Refuge.;details
+Use the gems to open the Watchweald Portal, in the Estherian Refuge, in the Frosted Hills.;details_complete
+"I was planning to enter the Watchweald through the other portal in the old Estherian Refuge.  Unfortunately the keys have been stolen.  Goblin miners took one, and we believe that some slavers who recently moved into the area have the other.  It takes both keys to activate the Watchweald Portal ... and it is beyond my abilities to retrieve them.
+Recover the Passkey Ember from the slavers, and the Latchkey Ember from the goblins. You can use them to open the Portal in the Refuge, and intercept the Regent before he infects the Guardian!";intro
+"- Acquire [ACQUIRE1] at Slavers' Stockade in Frosted Hills
+- Acquire [ACQUIRE2] at Emberscratch Mine in Frosted Hills";huddetails
+- Use the Ember Keys to activate the Watchweald Portal in the Estherian Refuge, in the Frosted Hills;huddetails_complete
+"En route to the Watchweald Temple, you met Grand Regent Eldrayn's assistant, Elder Valin.  Valin told you that he had become lost en route to the Watchweald ... and that the Grand Regent was beginning to exhibit symptoms of the sickness!
+With the temple doors sealed, though, the only way in is through an inactive portal in the abandoned Estherian Refuge.  Elder Valin told you that, to reactivate the portal, you would need to retrieve the Passkey Ember from a slavers' camp, and the Latchkey Ember from the goblin mines.";moredetails
+Everything okay?  I thought you were going out to the Watchweald Temple, to look for the Grand Regent.;return
+Go through Crows' Pass to the Frosted Hills, and find a way to intercept Grand Regent Eldrayn before he reaches the Watchweald Temple.;details
+"This plague seems to specifically target beings of an inherently magical nature, such as the Estherians ... and the Guardians.  So far it's not affecting humans, so I've sent for a transport to bring us some medical supplies, and I'll be coordinating the medical relief here.
+Meanwhile, you need to get out to the Watchweald Temple.  Take Crows' Pass to the Frosted Hills.  Try to catch up to the Grand Regent before he enters the temple.";intro
+- Seek the Grand Regent in the Frosted Hills;huddetails
+Greetings, traveler.  Can you assist me?  I was traveling with the Grand Regent, to the Watchweald Temple, when we became separated.  I was hoping to rejoin him at the temple ... but the doors have been sealed behind him.  He was very ill, when I last saw him.  I think he might have contracted the same sickness affecting the other Estherians.;complete
+"Back at the Enclave, you learned that a strange, magical sickness has been spreading among the Estherians ever since the Alchemist's attack.  There is also a strong possibility that Grand Regent Eldrayn is carrying the disease, and he is already en route to the Watchweald Temple, to see to the protection of the Guardian of the Wild.
+If the Grand Regent spreads this mystery illness to the Guardian, it could mean the end of all plants and animals, everywhere in the world!";moredetails
+"I must be on my way soon.  If the Alchemist is attacking Guardians, he will be after the Guardian, at the Watchweald Temple ... assuming the Vanquisher failed to stop him at the Wellspring.
+The Guardians are immensely powerful beings.  They control the elements, and thus provide for life.  But they are not inviolate; a sufficiently powerful attacker could overcome them.  If the Alchemist was able to do so, then the threat he poses is greater than anything the world has faced since the Netherim invasion a millennium ago.";return
+Go through the Path of the Honored Dead to the Temple Steppes.  Enter the Wellspring Temple and ensure that the Guardian of Water is safe.;details
+"Commander Vale believes that the Alchemist might attack the Wellspring Temple, in an attempt to reach the Guardian of Water ... for what nefarious purpose I am afraid to speculate.  There has been no word from either Vale, or the Guardian.
+Scout the Wellspring Temple, and determine if the Guardian of Water is in any danger.";intro
+- Discover the Wellspring Temple in the Temple Steppes and find Commander Vale.;huddetails
+- Talk to Vale the Vanquisher;huddetails_complete
+"I don't know who you are ... but I'm glad you came along!  We arrived just as the Alchemist was subduing the Guardian, but he caught us by surprise.  We couldn't stop him.
+Grell and his raiders arrived shortly after the Alchemist left.  They've been trying to get in here and loot this place for years; the Alchemist's attack finally gave them the opening they needed.";complete
+"It appears you were too late!  The Alchemist has already reached the Enclave ... and was rebuffed by the Estherian Grand Regent, Eldrayn.  The Alchemist fled toward the south, through the Path of the Honored Dead, toward the Wellspring Temple.
+Shortly afterward, Commander Vale, another of the Heroes of Torchlight, and a close friend of the Destroyer's, arrived with a platoon of troops.  She quickly set off for the Wellspring Temple, to protect the Guardian of Water, in case the Alchemist struck there next.  There has been no word from her since.";moredetails
+Are you about ready to head out?  I'm sure the Guardian of Water will be fine, now that she has a chance to recover, and doesn't have a small army to contend with.;return
+The Alchemist is powerful, and determined.  These were always his greatest strengths, and they will make him a difficult foe to overcome.  And, if he steals the energy of more Guardians, he will be all but invincible.;return
+Return to the Enclave and confer with Commander Vale.;details
+- Return to the Enclave and talk to the Vanquisher;huddetails
+- Talk to the Vanquisher;huddetails_complete
+Apparently, things have gone from bad to worse while we were at the Wellspring.  Whatever was making the Estherians sick is spreading, and it's moved out into the lands north of here.  That's where the Grand Regent was headed.  If he's already reached the Watchweald, he'll have sealed the gates as a precaution ... which means that the whole temple could be turning into one big plague zone even as we speak.;complete
+"The Alchemist must be stopped before he attacks any more Guardians!  Each time he siphons off our energy, the heart becomes more powerful ... and he becomes more dangerous.
+You and Commander Vale should return to the Estherian Enclave, and plan your next move.";intro
+The Guardian of Water has suggested that you return to the Enclave with Commander Vale, and discuss how best to handle the threat that the Alchemist poses.  Although the Guardian is severely weakened, it was able to open a portal to the Enclave for you.;moredetails
+Report to the Vanquisher at the Estherian Enclave.;details
+- Return to the Estherian Enclave and report to Commander Vale;huddetails
+- Report to Commander Vale the Estherian Enclave;huddetails_complete
+"I don't know if the Alchemist understands that Ordrak's Heart is wreaking such havoc ... or if he just doesn't care!  I hope there's still a chance to stop him, one way or another, before it's too late.
+So the Guardian wants you to head to the Ossean Wastes?  You know what?  I think I can help you with that ...";complete
+"I fear the Alchemist is a pawn of the Netherim.  With Ordrak's Heart and the power of the Guardians, a portal to the Nether Realm could be thrown wide,  and the world would be plunged into an age of never-ending torment.
+Return to the Enclave immediately.  Commander Vale can help you secure passage to the Ossean Wastes, where two of my fellow Guardians can be found.  Stop the Alchemist before he can drain them as well!";intro
+"The Netherim, the Alchemist, and this plague are all connected.  Everywhere the Alchemist goes, Ordrak's Heart taints the nature of magic itself.  It creates a kind of infection ... not too dissimilar from Ember Blight.  These tiny infections grow, and, eventually, develop into a conduit for Netherim.  The victim becomes a host to the Netherim: a ""Nether-Thrall.""
+This is what happened to the Estherians.  And, for some reason, the effect was stronger with the Grand Regent.  Perhaps he was exposed more directly when he battled the Alchemist.  In any case, the thing that possessed the Regent, the thing that attempted to possess me, is more powerful than the others:  It is a Nether-Beast ... one of the Netherim Kings who led the invasion of our world an age ago.  I am sure it will return, seeking vengeance.";return
+"The mystery plague that was converting Estherians into Nether-Thralls had a much more devastating effect on Grand Regent Eldrayn.  The once-noble Estherian statesman had been completely possessed by one of the dreaded Netherim ... and the thing would have possessed the Guardian of the Wild, if you hadn't stopped it!
+Meanwhile, the Alchemist has been attacking Guardians in order to siphon off their elemental energies and empower Ordrak's Heart ... with his ultimate goal apparently to destroy the fabled Clockwork Core and throw wide the gates to the nightmare realm of the Netherim!";moredetails
+"The Alchemist will be headed this way.  And if he passes through here, we'll be waiting for him!
+Someone needs to warn the Estherians.  Head up the pass to their Enclave.  Find my old friend, Commander Vale, and let her know what happened.";return
+"I thank you for your warning, but it has arrived too late.  This ""Alchemist"" has already come and gone, and it was all I could do to prevent him from entering the Enclave.  As it was, many Estherians were injured, and, since the confrontation, several more have become ill.  We are not sure what is causing it.
+After his assault failed here, the Alchemist carried on southward, toward the Temple Steppes.  Commander Vale and her Vanquishers arrived a short while later, and pursued him, hoping to prevent further damage.";complete
+Go through Echo Pass to the Enclave and warn the Estherians about the Alchemist.;details
+- Reach the Estherian Enclave and speak to the Grand Regent;huddetails
+"I think this is as far as I can go.  You should carry on to the Estherian Enclave, but you're on your own.
+Warn them that the Alchemist destroyed Torchlight, and is headed their way.  He may be there already...";intro
+Having trekked with the wounded Destroyer to Echo Pass to warn the Estherians of the Alchemist's approach, you are now on your own.  The Destroyer was too badly wounded in his battle with the Alchemist to go on ... and, you suspect, he wanted to mourn the death of his old friend and mentor, Syl.;moredetails
+Use the Watchweald Portal to enter the Watchweald Temple. Stop the Grand Regent before he harms the Guardian of the Wild.;details
+- Enter the Watchweald Temple via the Watchweald Portal and stop the Grand Regent;huddetails
+- Speak to Guardian of the Wild in the Watchweald Temple;huddetails_complete
+Thank you, mortal.  I was too weakened by the Alchemist to fend off the Nether-Beast, when it revealed itself.  Had you not appeared when you did, it would have possessed me as completely as it had the Regent.;complete
+"As soon as you entered the Watchweald Temple, it was obvious that something was very wrong.  The entire building is overrun with mutated Estherians, and there are signs that a mighty battle has taken place ... and might still be going on.
+Somewhere amid all of this chaos is Grand Regent Eldrayn.  And if he is trying to protect the Guardian of the Wild, he may have already infected the Guardian with the mysterious illness that has affected so many Estherians ... the same malady that appears to have turned them into ravening Nether-Thralls!";moredetails
+"I should've known something was wrong with the Alchemist.  After we defeated Ordrak, our Ember Blight was cured ... but the Alchemist just couldn't give up his experiments.  The Destroyer and I ... we just pretended we didn't see the effect it was having on him.
+We made a terrible mistake.  I just hope it's not too late to correct it!";return
+Speak to the Guardian of Water, in the Wellspring Temple.;details
+- Speak to the Guardian of Water;huddetails
+"You have my gratitude, mortal.  Now listen closely, for a great evil is at work here.
+The Alchemist's search for a cure to his Ember Blight has driven him to the brink of madness.  He siphoned off my energy to magnify the power of Ordrak's Heart, after he depleted it destroying Torchlight.
+With the power of the Guardians, Ordrak's Heart could destroy all Ember everywhere.  Perhaps he believes that might cure his affliction.";complete
+"You arrived at the Wellspring Temple to find it overrun with the bloodthirsty Sturmbeorn, and the Guardian of Water and the Vanquisher both captured by the fearsome General Grell.  After a fierce battle, you defeated Grell, and introduced yourself to the Vanquisher ... only to learn that the Alchemist was responsible for the attack on the Guardian, as well.
+The Vanquisher, Commander Vale, advised you to speak to the Guardian of Water, to learn why the Alchemist had not only destroyed Torchlight, but why he had attacked the Guardian!";moredetails
+Search the Minehead for the entrance to the Broken Mines.;details
+Enter the Broken Mines and locate the Alchemist.;details_complete
+- Enter the Broken Mines;huddetails
+- Locate the Alchemist;huddetails_complete
+"You must overtake the Alchemist before he reaches the Clockwork Core. With the power of Ordrak's Heart, he could destroy the barrier between the worlds, which would mean the end of everything.
+You must defeat the Alchemist and seize the Heart. He intends to use it for destruction, but, infused with the energy stolen from the Guardians, it now has the power to restore the Core, and repair the damage to the barrier.";intro
+"Only a few hours ago, the Alchemist stormed through the Imperial Camp, amid the dwarven ruins at Grunnheim, where he stormed into the dwarven mines, and sealed the Great Door behind him.
+While you searched for a means to open the door again, the Alchemist has been running loose inside the mines, drawing nearer and nearer to his ultimate goal at the Clockwork Core.
+If the Alchemist reaches the Core, he will use Ordrak's Heart to destroy i ... and the world will end.";moredetails
+"The Alchemist will try to use Ordrak's Heart to destroy the Clockwork Core. If he succeeds, reality itself will be torn open, and the Netherim will flood through. The world will end.
+But the Netherim have not told the Alchemist everything. Ordrak was once a Guardian, of sorts, and his heart is more powerful than they imagine. Certainly, the Netherim have corrupted it, but, if it were put to a good use... such as rejuvenating the Clockwork Core... then the world would be safe from their kind once again, and perhaps for all time.";return
+Defeat the Netherlord.;details
+Install Ordrak's Heart in the Clockwork Core.;details_complete
+- Defeat the Netherlord;huddetails
+- Install Ordrak's Heart;huddetails_complete
+"The Alchemist lies defeated, and you have Ordrak's Heart! Your quest is nearly at an end.
+Somewhere, though, further inside the Clockwork Core, the foul Netherim are still straining and clawing at the walls of reality, trying to tear their way through into the world.
+And you are all that stands between them and the end of the world.";moredetails
+All the world owes you a debt that they can barely comprehend, let alone ever repay.;complete
+Defeat the Alchemist and retrieve Ordrak's Heart.;details
+Defeat the Alchemist and retrieve Ordrak's Heart.;details_complete
+- Defeat the Alchemist and retrieve Ordrak's Heart;huddetails
+- Defeat the Alchemist and retrieve Ordrak's Heart;huddetails_complete
+"The Alchemist is inside the Broken Mine, and on his way to destroy the Clockwork Core and unleash the Netherim upon the world. But his plan hinges on using Ordrak's Heart as a weapon; if you can wrest it from his grasp, you can stop him, and the Netherim, and save the world!";moredetails
+We've been trying to get through the Great Door for weeks. We determined that the door was missing its power source, and were beginning to mount an expedition to the Scrapworks to find a replacement. The Alchemist attacked before we could act.;return
+Trying to reach the Scrapworks?  That's what we were doing - until a cave-in made it impossible to get through the entrance.;complete
+Travel through the Rotted Path and the Blightbogs to the Middenmine, and seek the entrance to the Scrapworks. Search the Scrapworks for a Power Source, and bring it back to Professor Stoker in the Imperial Camp.;details
+- Search the Scrapworks for a Power Source;huddetails
+"I wish you had gotten here sooner! The Alchemist came through here about an hour ago. He laid waste to the camp and then went through the Great Door, there - sealed it shut behind him.
+We believe that door leads to the Clockwork Core. We've been unable to open it ourselves, but we know how in theory. See that dwarven automaton? It's designed to open the door, but it's missing its Power Source. There should be one in the Scrapworks, but it was too dangerous for us to enter. Perhaps you will have more luck.";intro
+"You have arrived at the Imperial Camp in the midst of the ruins at Grunnheim to find that the Alchemist is only an hour or so ahead of you. After destroying the camp, the Alchemist went through a nearby door, believed by Professor Stoker, the camp's chief archeologist, to lead to the Clockwork Core.
+If the Alchemist reaches the Clockwork Core with Ordrak's Heart, he can unleash the Netherim upon our world. You must find a way to open the Great Door. The Professor believes that the automaton by the door is equipped to open it, but only if you can find a replacement for its dead power source.";moredetails
+"I've been having a look at the automaton again, and I think the overall charge doesn't need to be too great... just enough to impel its servomotors to open and close the door. It's not like we need it to do any fighting, after all!
+That's a good thing. The old machines in the dwarven Emberworks might still be functioning, but only just... and, although we might be able to work out how to make them work, we don't exactly know how to get the most out of them. That's why the Empire sent this expedition, after all!";return
+That's it!  That's the ticket! Just let me install this, and let's hope it works!;complete
+Travel through Rivenskull Gorge to the Sundered Battlefield. Search the Emberworks for a way to recharge the Power Source, then return to Professor Stoker at the Imperial Camp.;details
+"- Journey to the Sundered Battlefield via Rivenskull Gorge; Locate the Emberworks and recharge the Power Source";huddetails
+- Return the Power Source to Professor Stoker at the Imperial Camp;huddetails_complete
+The Alchemist is slipping further out of reach! On Professor Stoker's advice, you retrieved a Power Source for the old dwarven automaton, but its charge was exhausted. So, while the Alchemist draws ever closer to the Clockwork Core, you're forced with searching an ancient dwarven battlefield for a way to recharge the Power Source.;moredetails
+This is the only entrance to these mines that we've found, so the Alchemist is almost certainly in there.  That probably means he's near his goal, whatever that is ... and that means he'll do everything he can to keep you from stopping him.  He'll be even more desperate, more dangerous.;return
+My powers remain diminished, but I had to come, to give you a warning.  The barrier between our world and the Nether is most fragile at the Clockwork Core.  Hordes of them are beginning to burst through, and, if the Alchemist destroys the Core, the tide of Netherim will be unstoppable.;complete
+With the Great Door now opened, you prepare to enter the Broken Mines in pursuit of the Alchemist.;details
+- Place Power Source in Robo-Porter in the Imperial Camp;huddetails
+- Enter the Broken Mines;huddetails_complete
+"We're nearly there, my friend!  Stand back while I activate the Automaton!
+I don't know what we'll encounter in there.  We know that the Alchemist went that way, and he won't have made it easy for anyone to follow him.";intro
+"You have recharged the Power Source!  Once you install it, the automaton should come to life and ... if all goes well ... it will open the Great Door, and you can continue your pursuit of the Alchemist.
+Meanwhile, the Alchemist has been inside the old dwarven mines for hours.  If he hasn't reached the Clockwork Core by now, he must be dangerously close.
+Time is running out.";moredetails
+We've been trying to get through the Great Door for weeks. We determined that the door was missing its power source, and were beginning to mount an expedition to the Scrapworks to find a replacement. The Alchemist attacked before we could act.;return
+"Well done! This Power Source will fit perfectly into the automaton's boiler!
+Hmm... That's odd. Nothing's happening. Oh, no... I was afraid of this! The Power Source is completely drained! This is going to be more difficult than I'd anticipated.";complete
+Travel through the Rotted Path and the Blightbogs to the Middenmine, and seek the entrance to the Scrapworks. Search the Scrapworks for a Power Source, and bring it back to Professor Stoker in the Imperial Camp.;details
+- Search the Scrapworks for a Power Source;huddetails
+- Bring the Power Source to Professor Stoker in the Imperial Camp;huddetails_complete
+"You have arrived at the Imperial Camp in the midst of the ruins at Grunnheim to find that the Alchemist is only an hour or so ahead of you. After destroying the camp, the Alchemist went through a nearby door, believed by Professor Stoker, the camp's chief archeologist, to lead to the Clockwork Core.
+If the Alchemist reaches the Clockwork Core with Ordrak's Heart, he can unleash the Netherim upon our world. You must find a way to open the Great Door. The Professor believes that the automaton by the door is equipped to open it, but only if you can find a replacement for its dead power source.";moredetails
+You arrive in Grunnheim to find the Imperial Camp has recently been attacked. Seek out Professor Stoker to discover the fate of the camp and learn about the Clockwork Core.;details
+Seek out Professor Stoker.;huddetails
+"I've been having a look at the automaton again, and I think the overall charge doesn't need to be too great... just enough to impel its servomotors to open and close the door. It's not like we need it to do any fighting, after all!
+That's a good thing. The old machines in the dwarven Emberworks might still be functioning, but only just... and, although we might be able to work out how to make them work, we don't exactly know how to get the most out of them. That's why the Empire sent this expedition, after all!";return
+Who are you? What do YOU want?;complete
+Travel through Rivenskull Gorge to the Sundered Battlefield. Search the Emberworks for a way to recharge the Power Source, then return to Professor Stoker at the Imperial Camp.;details
+"- Journey to the Sundered Battlefield via Rivenskull Gorge; Enter the Emberworks and recharge the Power Source";huddetails
+"This is only a minor setback. We knew about these Power Sources from our explorations of the Emberworks, on the far side of the Sundered Battlefield. We found machines there that the ancient dwarves once used to craft them. If you can reach the Emberworks, it should be child's play to recharge it.
+You'll have to make your way through Rivenskull Pass to reach the battlefield. Once you've charged the Power Source, come back here, and we'll install it in the Automaton.";intro
+The Alchemist is slipping further out of reach! On Professor Stoker's advice, you retrieved a Power Source for the old dwarven automaton, but its charge was exhausted. So, while the Alchemist draws ever closer to the Clockwork Core, you're forced with searching an ancient dwarven battlefield for a way to recharge the Power Source.;moredetails
+You've defeated the Alchemist? Wonderful!;passive
+There's a lot to do even with the Alchemist dead. But at least we're safe now, thanks to you.;passive
+Professor Stoker says you got into Scrapworks. Are they actually full of wolves? And trolls? And worse?;passive
+Victory is ours!;passive
+Thank you, friend, for putting the Alchemist to rest.;passive
+We've got the Estherian Steppes handled. Go get some well-deserved rest.;passive
+You've done so much for all of us. Thank you.;passive
+I've set it up that you can visit the Mapworks from any waygate portal once you step through this portal. Oh, the adventures that await!;passive
+Find anything out there that could help us, if the Alchemist comes back?;passive
+It just doesn't make any sense.;passive
+Professor Stoker says you're going to try to get into the Scrapworks.  Did he mention that the Blightbogs are full of wolves?  And trolls?  And worse?;passive
+Unless it's an emergency, this gate has to stay closed.  If any of the ... things on the other side get in here, they'll finish what the Alchemist started.;passive
+I appreciate you coming all the way back here, but shouldn't you be going after the Alchemist?;passive
+What in the name of the Guardians are you doing back here?  We've got the Estherian Steppes handled.;passive
+Do not worry about us.  Zeryphesh is safe, now that you have rescued the Guardian of Mana from the Ezrohir.  Find the Alchemist.  Stopping him is the key to saving the world.;passive
+I think I've found an access point to the Mapworks.  Come back later and hopefully I'll have figured out how to safely operate it!;passive
+Enter the Icedeep Caverns, in Crows' Pass, and locate the Alchemist's other three Journals.;details
+These notes seem incomplete.  There are a lot of blanks here that need to be filled in.  Have you had a chance to see if there were any more?;return
+"""After months of research and experiments, I am forced to conclude that my Ember Blight is incurable ... and I am not alone.  Hundreds die from it every year.  Thousands more must be isolated from Ember, lest even the least exposure trigger a psychotic episode.  The only real solution, it seems, is to remove the source of the infection ... to destroy all Ember, everywhere.  Until now, this has been an unrealistic proposal.  But, with the defeat of Ordrak, I believe a universal cure to Ember Blight is finally within reach ...""";return
+"""Ordrak's Heart is itself corrupted, and might actually be more dangerous to me than Ember.  I have designed and crafted a tool, in the form of a stave, to control and wield the Heart.  But it is not enough; the foul energies released by the Heart are capable of creating physical and mental deformities, even with only casual exposure.  Accordingly, I must construct a suit of Ember-resistant armor, to shield me from the worst of the effects.""";return
+"""There must be a way to increase the Heart's power ... perhaps by drawing it from the elemental Guardians?  Their power is incomprehensibly vast, and any one of them could 'super-charge' Ordrak's Heart to more than equal the task.  But would draining away that energy kill the Guardian?  Would its associated element then run amok ... or vanish altogether?  I must spread the 'donation' across multiple Guardians.  The Guardians are unlikely to willingly part with that energy; I must take what I need, and pray that there is time for apologies later.""";return
+"Your arrival is well-timed.  I believe I have located the Alchemist's lair, here in the Icedeep Caverns.  I found a Journal just inside the entrance; it speaks of entering the mine at Torchlight and retrieving Ordrak's Heart.  I intended to look for more, further inside the Caverns, but the creatures dwelling there now are too much for me.
+Finding the rest of the Alchemist's Journals would probably be very helpful in ascertaining how to stop him.  The one I saw was volume four, so there are probably three more in the Icedeep Caverns.";intro
+- Acquire [DEFEATCOMPLETECOUNT]/[DEFEATCOUNT] Journals in the Icedeep Caverns;huddetails
+- Return to Jadok in the Frosted Hills;huddetails_complete
+"These notes are enlightening, to say the least.  Clearly, the Alchemist is suffering from Ember Blight-induced dementia.  Each subsequent note is more delusional than the last.
+But ... hm.  He did wear a suit of armor, and he did wield Ordrak's Heart, and he did attack the Guardian of Water.  What if there is some nugget of truth in his madness?";complete
+Pass through the Treasury Portal and return the Glyph of Balthazar to its proper place in Wellspring Basin.;details
+"I was a criminal, in my time ... a vain and ambitious thief.  I broke into tombs and stole from the dead, just to further my reputation.  But I was too vain.  I stole the Glyph of Balthazar.  The Guardian of Water tried to warn me to return the Glyph, but still I was too vain.
+I thought I could control its powers, and, to an extent, I could.  But, when I tried to use it to walk across the river ... it drew power from river, and rebelled against me.  Soon my lungs were filling with water, even on dry land.  Now my spirit drowns for eternity.";return
+"I am merely spirit, but I mean you no harm.  In life, I was an ambitious thief, and I thought I was invincible.  My greatest achievement was when I stole the Glyph of Balthazar from the Wellspring Treasury.  I thought I could master its power over water, but I was very, very wrong.
+Now I am trapped here in eternal torment, unable to rectify my mistake.  Will you return the Glyph of Balthazar to the Wellspring Basin, and set my spirit free at last?";intro
+- Enter the Wellspring Treasury via the portal in the Temple Steppes;huddetails
+- Return the Glyph of Balthazar to the Wellspring Basin;huddetails_complete
+You have lifted the curse I brought upon myself, and my torment is finally at an end.  I will abide here a while, I think, before I move on to my final reward.  Perhaps, at the very least, I will tell my story to would-be thieves, to save them from a similar fate ...;complete
+"You ... you came to rescue us?  Thank the guardians!
+I've managed to keep Snowbell and Sunbeam safe up here, but I injured my leg.  I can't make my way out of this cave while carrying them.  If you'll take them to Bellethe, I'll follow you out at my own pace.  My thanks to you for your help!";intro
+Please ... I know this is strange, but Snowball and Sunbeam are really quite gentle creatures, unlike the beasts that live here in the Icedeep Caverns.  They can't survive on their own down here.  The other spiders will kill them to get at me.  Please, take them back to my wife, and as soon as I catch my breath, I'll make my way out, as well.;return
+Oh, thank you, my friend!  I had feared I would never see my family again!;complete
+"""It was in the ice.  Who knows how long?  But it wasn't dead.  And now it's hiding, here somewhere ... in one of us.  We found it in Bennings, but then Fuchs disappeared.  It's still here, and it's looking for a way out.  If it gets out into the world, it can infect everyone, everywhere.  Three years, at most.  Guardians forgive us for what we've set  loose upon the world.""";return
+Enter the Undercurrents in the Empty Quarter and destroy the four Manatoxin Pumps.;details
+Return to Dilawar in the Empty Quarter for your reward.;details_complete
+"You did it?  You destroyed the Ezrohir machines?  
+You've succeed beyond my most fervent hopes!  Thanks to you, Zeryphesh is that much safer!  I thank you ... and I reward you, with this.";complete
+"The Undercurrents supply Zeryphesh with water, from wells deep under the sands.  Although Zeraphi do not drink, as such, we still have need of water, and this Manatoxin is specifically designed to take advantage of that.  It is a fiendish concoction, which will kill our spirits but leave our bodies intact.
+The creatures infesting in the Undercurrents are dangerous, and will not be easily overcome.  I won't lie to you:  Destroying those machines won't be simple ... but it's vital, and you're the only one who can do it.";return
+The Ezrohir were clearly confident that the beasts infesting the Undercurrents would be dangerous enough to keep us out.  Be careful in there.;return
+The Ezrohir have installed some infernal devices in the Undercurrents, defiling the supply of water entering Zeryphesh. You must destroy those machines, or Zeryphesh cannot stand against the Ezrohir!;return
+"My friend, I need your help!  My squad and I had observed a group of Ezrohir moving in and out of the Undercurrents. They have installed machines to pump a virulent poison into the city's water supply.  Their ""Manatoxin"" is specifically designed to disrupt Zeraphi physiology. Unfortunately, the noxious atmosphere seems to have attracted a horde of poisonous beasts, and I only just escaped with my life.  If you can enter the Undercurrents and destroy those machines for me, I will reward you.  What do you say?";intro
+- Enter the Undercurrents in the Empty Quarter and destroy the four Manatoxin Pumps;huddetails
+- Return to Dilawar in the Empty Quarter;huddetails_complete
+Search the Wellspring Temple for the Bronze Head, and keep it safe from the Sturmbeorn.;details
+"I am the great bard Trill ... heard of me?
+That's ... really ... astonishing talent.  Word ... among the masses ... I have not yet found ... your heroic deeds.";complete
+"We are relatively safe here, but the brutish Sturmbeorn will surely destroy everything that isn't made of gold!  The temple is home to thousands of years of historical artifacts and documents, and it grieves me immeasurably to think of all of those treasures lost!
+We were able to gather up some of the artifacts, as we fled, but the Bronze Head of Grunnheim was left behind!  Please, find it!  Some of its records are the only accounts we have of major historic events!";return
+"Thank the Guardians someone has come to our rescue!  The Sturmbeorn broke their way in here some time ago, and have been ransacking the temple!  Commander Vale and her Vanquisher Corps arrived some time ago to help ... but we haven't heard from her since she left for the Inner Sanctum!
+In our flight from the temple, we had to leave behind a priceless treasure: The Bronze Head of Grunnheim!  Can you locate it, and ensure that it is safe from the Sturmbeorn?";intro
+- Locate the Bronze Head in the Wellspring Temple;huddetails
+- Secure the Bronze Head from the Sturmbeorn;huddetails_complete
+"My thanks to you, human.  After the temple fell, and these slavers set upon us refugees, I feared that our fates were sealed.
+But I am not the only prisoner.  The slavers' leader has them caged, in the cavern below the lake here.  A trapdoor outside one of the nearby huts leads to the cavern.
+Please, in the name of the Guardians ... you must free them!";complete
+Obtain the Armor Schematics from the Beast Warrens, in the Temple Steppes.;details
+Return to the Vanquisher Scout in the Enclave for your reward.;details_complete
+Well done! I'm sure Commander Vale would have no objection to me giving you a reward for your service to the Empire. Take this: It's all I've got, but know that you have my gratitude, as well!;complete
+"The Sturmbeorn have rounded up a bunch of warbeasts to use as shock troops, and now they're bolting plates of armor onto 'em.  They're dangerous at the best of times, but with that armor, they're even harder to kill.  That's why we need to find out how the Sturmbeorn designed the armor; there has to be a weak spot somewhere.";return
+"If you're going out to the Temple Steppes, I could use your help.  The Sturmbeorn have set up a makeshift smithy there, and they have two blacksmiths making suits of armor for wild warbeasts they've captured.
+Those Sturmbeorn seem to be working from schematics, but they keep them under lock and key.  Do you think you might be able to get in there and grab the Armor Schematics?";intro
+- Obtain Armor Schematics in The Temple Steppes from Sturmbeorn blacksmiths;huddetails
+- Return Armor Schematics to Vanquisher Scout;huddetails_complete
+Use the Flammable Lanterns to burn down the huts in the Slavers' Camp in the Frosted Hills.;details
+Return to Josimon in the Slavers' Camp in the Frosted Hills.;details_complete
+"That was well done, although I wish it had not been necessary.  Still, without permanent housing, they will find it harder to survive here ... and ply their abominable trade.
+But, wait ... I do not see their leader, among the dead!  Nor do I see any of the Estherians they had taken captive!";complete
+"We had thought at first that these slavers would simply pass through the area, but the slavers have been steadily fortifying this camp for weeks now, which tells me that they have no intention of leaving any time soon.
+It would appear that, with the Sturmbeorn invasion, business is too good.  The Estherians are easy targets right now, and will be, until we recover from all of this chaos.  The slavers will only make that recovery more difficult, unless they are persuaded to leave.";return
+"Thank you for rescuing me.  I had recovered the Passkey Ember from these slavers, but they captured me as I was trying to return to the Enclave.
+I know that you are trying to reach the Watchweald Temple, but I could use your help with one small matter before you go.  These slavers have been harrying the Estherians for several weeks now.  You defeated many, but there are many more watching us from the safety of those huts.  Burn them out!  If they are allowed to remain, the Frosted Hills will never be safe.";intro
+- Ignite the Flammable Lanterns in the Slavers' Camp;huddetails
+- Return to Josimon in the Slavers' Camp;huddetails_complete
+Journey to the [place], in the [zone], and defeat [champion].;details
+Return to the [quest npc] for your reward.;details_complete
+Quest completion text;complete
+Return to Quest NPC text;return
+Quest introduction text;intro
+- Step One;huddetails
+- Step Two;huddetails_complete
+Locate the Whispering Cave in the Frosted Hills and retrieve the Golden Gear.;details
+Bring the Golden Gear back to Ambassador Taldimut in the Frosted Hills;details_complete
+This is it!  The Golden Gear!  I thank you on behalf of all the Zeraphi people.  This might just have tipped the battle in our favor!  I can only offer you this as payment, but if you are ever in Zeryphesh, come find me and I will grant you a proper reward!;complete
+I have continued studying the crests, and I am more convinced than ever that the Golden Gear is hidden in the the Whispering Cave.  If you can retrieve it, I can bring it back to Zeryphesh, to aid in the city's defense against the Ezrohir siege.;return
+"The Estherians apparently secured the Golden Gear in the Whispering Cave, so that we would not be able to find it, let alone recapture it.  They encoded those three crests with the location of the cave, so that they would be able to recover the horn, themselves ... but then lost the crests.
+Please, for the sake of the Zeraphi people:  Go to the Whispering Cave and retrieve the Golden Gear, and bring it back to me.";intro
+- Retrieve the Golden Gear from the Whispering Cave;huddetails
+- Bring the Golden Gear back to Ambassador Taldimut;huddetails_complete
+"Oh, thank you so much!  Here I was, afraid I'd never enchant anything ever again!
+I'm was on my way to the Estherian Enclave when these brigands ambushed me. Once I gather my wits, I'll head over there.  Come by and see me, if you get a chance!";complete
+Obtain the thing from the place, in the zone.;details
+Return to the quest NPC in the place for your reward.;details_complete
+Complete;complete
+Return;return
+Introduction;intro
+- Obtain thing in zone from [champion];huddetails
+- Return thing to quest NPC;huddetails_complete
+Defeat Kidrik the Mauler in the Slavers' Den and rescue the Captured Estherians;details
+Return to Elder Josimon in the Slavers' Camp, in the Frosted Hills.;details_complete
+You have done the Estherians a great service today.  I know that you are on your way to even greater acts of heroism, so, please, do not let me keep you.  Simply accept this, and my thanks.;complete
+Have you found the hostages yet?  Kidrik the Mauler will almost certainly be keeping them in cages, down in the Slavers' Den.;return
+"The slavers' leader, Kidrik the Mauler, must have slipped away during the attack, and concealed himself in their underground slave den!  And, if the Estherian captives are there, as well, Kidrik must be holding them hostage!
+You must free them, or all that you have done to stop the slavers will have been for naught!";intro
+- Defeat Kidrik the Mauler and rescue the Captured Estherians;huddetails
+- Return to Elder Josimon;huddetails_complete
+"You must be the human the other Estherians are speaking of.  I am glad to have met you.  I have been sent on a quest by Grand Regent Eldrayn to recover the Scroll of Anom-Irek, stored in a vault in the Corrupted Crypt, here.  Unfortunately, the Sturmbeorn have already entered the crypt, and I have been unable to get past them.
+Can I ask you to attempt to retrieve the scroll?  I will wait here in the Path of the Honored Dead for your return.  Should you succeed, I will see what I can do to provide you with some equipment more fitting a hero of your stature.";intro
+"I find myself impressed with your ability, human. I must confess: When I sent you on this quest, I feared you might not return. But it stirs my heart to see that my fears were unfounded.
+While you were gone, I located an item that might be of some use to you. Please take it, with my blessing ... and the thanks of the Estherians.";complete
+"Centuries ago, the sage Anom-Irek devised a method of identifying and even curing Estherians who had become corrupted by the evil spirits known as Netherim. We have not been troubled by their ilk ever since.
+The attack by the Alchemist, however, and the subsequent sickness, reminded me of descriptions of Netherim possession ... so I came here to seek Anom-Irek's cure.  My hope was to steal into the crypt and return before the Sturmbeorn arrived, but, as you can see, I was too late.";return
+Retrieve the Scroll of Anom-Irek from the Corrupted Crypt in the Path of the Honored Dead.;details
+Return the Scroll of Anom-Irek to Miamin in the Path of the Honored Dead.;details_complete
+- Retrieve the Scroll of Anom-Irek from the Corrupted Crypt, in the Path of the Honored Dead;huddetails
+- Return to Miamin in the Path of the Honored Dead;huddetails_complete
+I do not know that I will make it out of this cave … but, please:  Save everyone else that you can!;complete
+Convince the Estherian Spirits to let you into the Bone Gallery, and retrieve the Rosamortis.;details
+Bring the Rosamortis to Selrenki, in Skull Hollow in the Temple Steppes.;details_complete
+You found it?  Fantastic!  Here, let me just pay you for your trouble, and I'll be on my way ...;complete
+"The Rosamortis is apparently a handy little thingamajig that can save the life of someone who's been mortally wounded.  Obviously, this sort of thing would be very valuable to someone whose homeland were being invaded by, for example, bear-people ... But, as much as the Rosamortis is worth, it doesn't do me any good if I can't get inside the Sepulcher of Sorrows to retrieve it!
+The Vanquishers' commander told me about this thing, like I could just stroll out here and pick it up.  But she didn't tell me the gate was locked with chains only a ghost can open!  And, of course, while I wasted precious time trying to find another way in, the Sturmbeorn showed up and cut off my way out.";return
+"I got a proposition for you ... a little ""I scratch my back, you scratch yours"" kind of thing.  See this crypt over here?  It's called the Bone Gallery, and there's a little thing in there called the Rosamortis ... which, while pretty valuable, is also guarded by the biggest undead monstrosity I've ever seen!
+You'll have to convince the Estherian spirits to unlock the Ghost Chains and give you access, then get the Rosamortis away from that monster ... but I promise to make it worth your while!";intro
+- Rouse the Estherian Spirits, and enter the Bone Gallery in the Temple Steppes.  Retrieve the Rosamortis;huddetails
+- Bring the Rosamortis back to Selrenki in Skull Hollow, in the Temple Steppes;huddetails_complete
+Enter Tarroch's Rift in the Ossean Wastes and recharge the Spent Ember.;details
+Return to Nerasis in the Ossean Wastes and report your results.;details_complete
+"Well, it sounds as though my process works ... but it doesn't sound like the risk is worth the reward.  Still, if my surveys are accurate, I should be able to find another mana rift somewhere else, and with any luck it won't be as full of otherworldly monsters as that one was!
+Thank you for all you have done on my behalf.  And please, take the Ember you recharged, as payment for your efforts!";complete
+"I'm certain that mana vents can be used to recharge burned-out Ember, which will greatly ease the Empire's energy burden.  But not just any mana vent will do; it has to be one with a direct link to a powerful source of mana.  Tarroch's Rift is the most powerful I've found, bar none.  I'm actually a little concerned that it will destroy the Spent Ember, instead of recharging it.  But we won't know until you get it down there and expose it to the rift.";return
+"Hello there!  I wonder if you have a moment to help me out?  My name is Nerasis; I'm an Ember surveyor for the Empire.  I've been working on a theory that used Ember can be recharged, with exposure to a suitably large source of mana.  My research led me to Tarroch's Rift, where the mana output ratio is ... well, it's very high.
+The problem is that there are quite a few horrible monsters between me and the mana source.  I would be willing to pay you to take this burned-out Spent Ember into Tarroch's Rift and attempt to charge it, then bring it back here so I can see if my theory is correct.";intro
+- Enter Tarroch's Rift in the Ossean Wastes and recharge the Spent Ember;huddetails
+- Return to Nerasis in the Ossean Wastes;huddetails_complete
+Locate the Sturmbeorn Necromancer in the Path of the Honored Dead and obtain his Implements of Enchantment.;details
+Return to the Enchanter in the Estherian Enclave for your reward.;details_complete
+"Ah, you have them!  Excellent!  I trust the bear-mage didn't haggle too fiercely ...? 
+Wait.  Is that blood on these tools?  Oh.  Well, perhaps it's best I don't ask. 
+Now, then:  I believe I promised you a free enchantment, as reward ...?";complete
+"Well, well!  Back so soon?  Oh, you don't have the tools yet ... 
+Well, come back when you do!";return
+"Welcome!  Welcome, my friend.  I have numerous enchantments available ... weapons, armor, trinkets, and the like.  Or, rather, I would, if I hadn't lost my enchantment kit!
+Maybe you can help me.  I've heard there's a Beornen shaman or something out in the Path of the Honored Dead, who has the kind of enchanting tools I need.  If you could locate this bear-mage and acquire those tools, I would happily give you your first enchantment, free of charge!";intro
+- Search Path of the Honored Dead for Sturmbeorn Necromancer;huddetails
+- Bring Implements of Enchantment to Enchanter in Estherian Enclave;huddetails_complete
+You have saved us!  I had given up all hope that someone would come!;complete
+Search the cliffside in the Frosted Hills for the Crest of Pools, the Crest of Rivers, and the Crest of Tides.;details
+Return to Ambassador Taldimut in the Frosted Hills.;details_complete
+Yes, those are the three crests.  Now, allow me a moment to fit them together ... I see ... yes ... yes!  The Estherians hid  the Golden Gear in a small cave, not so far from here!;complete
+"The Sultan of Zeryphesh sent us here to beg the Estherians' leave to recover the Golden Gear ... an ancient artifact, required to unlock the Celestial Armory, in the Ossean Wastes.  The Estherians captured it from us in our war with them, long ago, but Grand Regent Eldrayn was willing to return it to us, so that we might arm ourselves against the Ezrohir assault.
+The exact location of the Golden Gear is long forgotten, but the Estherians created a map from the three crests I spoke of.  If you can find those, I can interpret the map and find the Gear!";return
+"My friend, thank you for coming to our aid.  We are a Zeraphi envoy from Zeryphesh, in the Ossean Wastes, sent to procure the Estherians' aid in our upcoming war with the Ezrohir.  Grand Regent Eldrayn gave us leave to search the Frosted Hills for the Golden Gear, and we had narrowed our search to this area before we were assaulted by these goblins.
+Now we are too injured to continue our search.  Can you aid us?  Search the Frosted Hills for three components: the Crest of Pools, the Crest of Rivers, and the Crest of Tides. Bring them to me, and I will reward you, on behalf of the Zeraphi people.";intro
+- Search the Frosted Hills for the Crest of Pools, the Crest of Rivers, and the Crest of Tides;huddetails
+- Bring the Crests to Ambassador Taldimut in the Frosted Hills;huddetails_complete
+Defeat Captain Willy in Plunder Cove.;details
+"I was a villain, in my time.  I broke into tombs and stole from the dead.  But, one day, I realized how much pain I had caused those still living ... and I swore it would stop.
+My comrades ... my accomplices ... felt differently.  They lured me out onto the river in this boat, knowing it would sink.  They laughed as I sank beneath the waters.  I assumed they would be caught, and punished, but instead they were killed while concealing their loot in Plunder Cove ... and so my death has gone  unavenged for all these years.";return
+"I mean you no harm; I am but a lonely soul, trapped in the afterlife.  Betrayed and drowned by villainous companions, I dwell here, reliving my end, waiting in vain for my death to be avenged.
+But it has been over a hundred years since I took my last breath, and nearly that many since my murderers themselves perished, in their hidden retreat in Plunder Cove.  Seek their leader, Captain Willy, through this portal.  Show him that justice has neither forgotten him ... nor forgiven him!";intro
+- Enter Plunder Cove via the portal in the Temple Steppes;huddetails
+- Defeat Captain Willy;huddetails_complete
+It seems I have not yet earned my eternal rest.  Your part in my story is done, though, and, if my gratitude means anything to you, you have it.;complete
+Defeat the five Spectral Champions in Crows' Pass.;details
+Return to the Forgotten Hero for your reward.;details_complete
+I have found you ... worthy.;complete
+"I have been dead a very long time, and in all those centuries, I have not found one soul worthy of taking up the mantle of hero, as I once did, and seeking adventure.
+Will you be that hero?  I offer you five challenges.  Should you master them all, my most prized possession is yours ...";intro
+- Defeat the Spectral Champions in Crows' Pass;huddetails
+- Return to the Forgotten Hero in Crows' Pass;huddetails_complete
+Journey to the Bone Defile, in the Temple Steppes, and discover what is disturbing the warbeast population.;details
+Return to the Imperial Trapper for your reward.;details_complete
+"A fungus infestation, eh? Nasty business!
+At any rate, you've done an admirable job ... and you've earned every last bit of this reward!";complete
+How's it going with the warbeasts?  Any clue yet what's making them so aggressive?;return
+"I've been charged with culling the warbeasts here, for the Imperial colonization effort.  I can keep their population down, but something is driving them wild, almost like they're rabid or something.
+Can you get into the Warbeast Den, in the Bone Defile, and get rid of whatever's making them so vicious?";intro
+- Investigate the Warbeast Lair;huddetails
+"You found some!  Oh, thank the gods. A few moments' work, and … yes, there it is:  a healing poultice.  Now it will just take a little rest, and I'll be good as new.
+As it turns out, you brought back more leaves than I needed.  So, here:  a Healing Poultice for you, as a reward.  Should you be badly injured, it'll set you right in no time!";complete
+Any luck finding the Merryweather Leaves?  I'm not sure how much longer I can hold on ...;return
+Collect  Merryweather Leaves from a Merryweather Bush, and return to Medrus, in the Temple Steppes.;details
+"Hello!  I thought I heard a human moving around out there.
+Listen, my name's Medrus.  I got ambushed by some Sturmbeorn, and managed to get clear ... but I got pretty badly injured in the process.  I can treat it, but I need some Merryweather Leaves.  They grow around here, but I'm too weak to look for them.
+Think you can find some for me, bring 'em back here? You'll be rewarded, I promise.";intro
+- Gather Merryweather Leaves for Medrus in the Temple Steppes;huddetails
+- Return to Medrus in the Temple Steppes;huddetails_complete
+Locate and break down Barricaded Doors in the Watchweald Temple to rescue Temple Priests.;details
+I should have known something was amiss with the Grand Regent.  He seemed ill, when he arrived, but he insisted on seeing the Guardian of the Wild immediately.  But it seemed as though everyone with whom he came into contact also became ill ... and soon transformed.  A few were not initially infected, and some of those were able to find refuge from the Nether-Thralls ... but, if the infection gets to them, it will not matter if they are safe behind the barricades.;return
+"Thank the Guardians you are here!  A plague is sweeping through the Watchweald Temple, transforming the Temple Priests into Nether-Thralls!  Several uninfected priests are still inside, trapped by the Nether-Thralls.  I can protect them, if I can reach them ... or if they can reach me.
+Look for places where the Temple Priests may have hidden from the Nether-Thralls, and send them back here.  Once they are all safe, we can focus on aiding the Guardian of the Wild.";intro
+- Open Barricaded Doors 0/X to free Temple Priests;huddetails
+- Secure the Bronze Head from the Sturmbeorn;huddetails_complete
+Obtain the [item] from the [place], in the [zone].;details
+Return to the [questNPC] in the |cFFD1FF7A[zone] for your reward.;details_complete
+Quest completion text;complete
+Return to Quest NPC text;return
+Quest introduction text;intro
+- Obtain [item] in [zone];huddetails
+- Return Armor Schematics to Vanquisher Scout;huddetails_complete
+Find Finnas in the Widow's Veil, located in Crow's Pass.;details
+Return to Bellethe in Crow's Pass for your reward.;details_complete
+"Oh, my babies!  My babies!  Are you hurt?  Are you all right?  Thank the Guardians my precious darlings are safe!  Where's Finnas?  Where's my husband?
+Ah, I see. We'll wait here for him until he returns.
+Thank you so much - many don't understand the beauty of these special creatures ... it's obvious that you recognize their gentle natures.  Here, take this as a token of our gratitude!";complete
+My husband Finnas and I were on our way to the Estherian Enclave.  We're homesteaders, with a small farm in the Frosted Hills.  The weather is getting harsh, so we were making one last run for supplies before winter.  We only looked away for a moment, and our little darlings wandered into that nasty cave!;return
+"Please, help me!  Our dear little ones wandered into that cave!  My husband Finnas ventured after them, but it is crawling with nasty creatures, and he hasn't returned! 
+Oh, I'm beside myself with worry!  Please, find Finnas and our precious babies!  You have to help us!";intro
+- Locate Bellethe's husband Finnas in the Widow's Veil;huddetails
+- Return to Bellethe in Crows Pass;huddetails_complete
+Thank you again! We won't forget your kindness.;passive
+We are indebted to you forever!;passive
+You have rendered us a great service - we won't forget it!;passive
+We are forever in your debt!;passive
+Thank you again for saving us!;passive
+Listen!  Can you hear that?  Like ... voices.  Voices from the other side of the Great Door ...;passive
+If you're going in there, after the Alchemist, you have to know:  We have to bar the door behind you.  We can't let him back out, if he gets past you.;passive
+Did you need something else from the swamps, before you go after the Alchemist?;passive
+Aren't you going after the Alchemist yet?  Did you have some unfinished business out in the Battlefield?;passive
+"The energies I sensed flowing out from the Nether-Rift have slackened, so I gather you were successful.  Well done!
+But I'm starting to sense similar energy, emanating from beyond the Great Door, by our base camp.  It seems likely that there are other rifts opening somewhere underground, perhaps very close by ... or very, very numerous.";passive
+Have you seen any more of those demon-things?;passive
+"We are in mourning today - Sophia was found dead.  I can't bring myself to describe the state her body was found in - as ruined as the flesh of the other poor souls discovered last week.  
+If Foreman Siegfried won't organize a hunting party to find the perpetrator, we'll have to do it ourselves.  We are afraid to leave our cabins when night falls...  
+- Cameron";passive
+"Two entire families have gone missing - the Rourkes and the Sammay clan.  There were strong and capable men among them, and their homes showed signs of a vicious struggle.  The total count of dead and missing has risen to sixteen.
+The wolves in the area are showing a peculiar aggression, snarling and slinking outside the stockade walls - they seem to smell the fear here.
+- Cameron";passive
+"They are Werewolves - Sarah spotted one vaulting the stockade as easily as though it were a garden gate.  There are over thirty souls lost now, and we have sent for help.  We can only pray that aid returns in time.  The howls are rising now, even before sunset.  
+Tomorrow, I may take as many folk as will join me and attempt to make an escape. Guardians be with us. 
+- Cameron";passive
+"Cameron is dead - I found this journal amongst his belongings.  There are only a handful of us left now, barricaded in the cellar.  We must leave this place, for we cannot outlast them.  
+When Cameron made to leave, Foreman Siegfried...transformed... into one of those beasts, right in front of us!  He tore them to pieces in his rage.  His bloodthirst slaked, he left the camp, but we are sure that he will return.  
+We may not see another dawn.  
+- Sarah";passive
+"This is my last journal entry. There are only three of us now, and we have a few hours of sunlight before dusk.  The sounds of the wolves are everywhere.  We will try for the gates, but we do not have much hope.  
+If anyone finds this, it is likely that you are as doomed as we.  Leave at once, if you can.  Guardians protect us. 
+- Sarah, Tat and Birram";passive
+I knew that boiler was dodgy!  I can fix it, but it'll take time ...;passive
+I am confident that, should it come to war, the Guardians will be more than able to defend the city.;passive
+I've heard that the Ezrohir are massing by the Forsaken Gate.  I wonder how they got past the Sphinx?;passive
+The Guardian of Air will be able to provide us some support, but only inside the city walls.  If it should fall while flying outside, we won't be able to reach it for a rescue.;passive
+Zeryphesh is my home.  If it's destroyed by the Alchemist and the Ezrohir, I will die with it.;passive
+I'm actually rather surprised the Ezrohir have been able to move about the Ossean Wastes at all, with the Manticore making its lair out there, in the Stygian Aerie.;passive
+Now that you have defeated the Ezrohir sorcerer in the tower, Zeryphesh is a great deal safer.  We still have to prepare ourselves for the coming siege ... but you've made that task a lot easier!;passive
+The Guardian of Air has ordered the gate to the Empty Quarter sealed.  If the Guardian gives you leave, then I can allow you to pass.;passive
+If you haven't yet spoken to the Guardian of Air, I must caution you:  The Ossean Wastes are not safe during this siege.  If you get into trouble, we cannot send a rescue party.;passive
+It seems I have not yet earned my eternal rest.  Your part in my story is done, though, and, if my gratitude means anything to you, you have it.;passive
+Just because this mana rift didn't pan out, that doesn't mean there's not another one on my surveys that might work much, much better!  It's just going to take a while to determine which mana rift is the best bet.;passive
+Thank you again, my friend.  When we've recovered from our injuries, we'll retrieve our companions from the Undercurrents and return to help defend Zeryphesh.;passive
+You've given us a fighting chance, hero.  Thank you.;passive
+Do you think there's a connection between that business with the Guardians in Estheria and the Ezrohir suddenly deciding to attack us again?;passive
+I'd heard you were headed down to Zeryphesh, to look for the Alchemist.  What are you doing back here?;passive
+Weren't you going to Zeryphesh?  Is the Alchemist not there?;passive
+I am deeply troubled by those notes you found in the Icedeep Caverns.  I have notified the Enclave that I will remain here, to guard the caves, and prevent any of the Alchemist's notes and paraphernalia from being lost.;passive
+I contacted the Commander, and she's sending a team to secure the caverns until we can do a more thorough sweep of the place.  If we find anything that might help with the Alchemist, we'll send word.;passive
+.....;passive
+.....;passive
+We'll bounce back from this.  We just need to hold out until relief arrives from the coast.;passive
+We need to secure the gates.  It'll be dark soon, and the things that live out there mostly come at night ... mostly.;passive
+Did you need to get back out into the Blightbogs for something?  No worries.  Be careful out there.;passive
+The Professor says you're cleared for access to the Sundered Battlefield.  If you don't make it back, is there someone we should notify?;passive
+"The energies I sensed flowing out from the Nether-Rift have slackened, so I gather you were successful.  Well done!
+But I'm starting to sense similar energy, emanating from beyond the Great Door, by our base camp.  It seems likely that there are other rifts opening somewhere underground, perhaps very close by ... or very, very numerous.";passive
+Have you seen any more of those demon-things?;passive
+Take care! I hope we can return the favor some day.;passive
+Be careful! We worry for your safety.;passive
+Find anything out there that could help us, if the Alchemist comes back?;passive
+It just doesn't make any sense.;passive
+Professor Stoker says you're going to try to get into the Scrapworks.  Did he mention that the Blightbogs are full of wolves?  And trolls?  And worse?;passive
+Unless it's an emergency, this gate has to stay closed.  If any of the ... things on the other side get in here, they'll finish what the Alchemist started.;passive
+I appreciate you coming all the way back here, but shouldn't you be going after the Alchemist?;passive
+What in the name of the Guardians are you doing back here?  We've got the Estherian Steppes handled.;passive
+Do not worry about us.  Zeryphesh is safe, now that you have rescued the Guardian of Mana from the Ezrohir.  Find the Alchemist.  Stopping him is the key to saving the world.;passive
+Have you seen any more of those demon-things?;passive
+"So...you come seeking the wealth of Grom? My spoils are vast, and have no peer in this realm.
+There is no path to success for you, lest you survive my arena and prove your worth.
+Be forewarned - many have tested their mettle on this bloodstained floor, but none have yet succeeded. Their souls are now mine, and they do as they are bid.
+Will you attempt the challenge? I will await your decision below.";intro
+"None have yet triumphed within the walls of my arena.
+Perhaps you will be the first?
+Perhaps...";return
+Defeat Grom in his arena.;huddetails
+You discovered Grom the Murderer's arena. He is surely in possession of the Mask of the Murderer. To win it, you must survive the arena's challenges, and defeat Grom himself in battle.;details
+Defeat the Netherim in the Blightbogs.;details
+Speak to the Injured Vanquisher in the Blightbogs.;details_complete
+"That ... that was horrific.  They caught us by surprise.  They just appeared out of nowhere, squirming out of thin air, like they'd torn holes in reality.  They killed the rest of my patrol, one by one ... but then, when you came along, and you couldn't see them, I started to doubt my own sanity!
+Thanks for trusting me.";complete
+No time for small talk!  We've got to kill these things, fast!;return
+"Thank the Guardians you're here!  These ... demons just came out of nowhere!  I've been able to hold them off so far, but, with you here, we'll soon triumph over them!
+Why are you looking at me like that?  Can't you see them? They're all around us!  Please ... you've got to believe me!";intro
+- Defeat the Netherim in the Blightbogs;huddetails
+- Speak to the Injured Vanquisher in the Blightbogs;huddetails_complete
+The entrance to the Scrapworks is blocked by a cave-in. A troop of Vanquishers is searching an Abandoned Sawmilln in hopes of finding some dynamite to clear the rubble - they have not returned. Investigate the Abandoned Sawmill and find the dynamite and the missing troop.;details
+Return with the dynamite to the Vanquisher troop leader in the Blight Bogs , and tell him the fate of his men.  Clear the cave-in withAdynamite, and retrieve the Power Source for Professor Stoker.;details_complete
+"The entire troop is dead? I'm the only one left? I can't believe it...
+You'll have to forge ahead on your own - I need to return to camp and report to Vale.
+Be careful out here.";complete
+If you want that Power Source, we're going to need something with some kick.  I think some dynamite at the Abandoned Sawmill. Hopefully, my men have already secured it.;return
+"So, the Professor sent you after the Power Source?   We were on the same mission, but the only way to the Scrapworks is through that pile of rock.
+I know the Abandoned Sawmill used to have plenty of explosives from when the place was still in operation - a little bit of dynamite would probably get the job done here. 
+I sent my troop after it, but haven't heard a thing.  If you can head up there and get that dynamite, we could all pass through and get the Professor what he needs.";intro
+- Find the dynamite in the Abandoned Sawmill located in the Blightbogs.;huddetails
+- Use the dynamite to open the entrance to the Scrapworks in the Blightbogs.;huddetails_complete
+Follow the trail of Trillbot Parts in the Blightbogs.  Look for Trillbot's Azimuthoscope in the [RANDOM DUNGEON].;details
+Install the Azimuthoscope in Trillbot 4000.;details_complete
+"That Boombot was using my Azimuthoscope as a weapon!  How infuriatingly common!  These military clockworks have no respect for a true artist.
+But I digress.  Shall I use my Azimuthoscope to guide you to another treasure cache?";complete
+My Azimuthoscope will enable me to determine distances and directions more efficiently.  If you find it and reinstall it, I will be much better able to guide you to those treasure caches I mentioned.;return
+"I believe you have found one of my missing components!  There appears to be a trail of them, leading toward that [RANDOM DUNGEON].
+If you follow the trail of my Parts, it might lead you to my Azimuthoscope:  the component I need to direct you to another treasure trove!";intro
+- Follow the trail of Trillbot Parts to the [RANDOM DUNGEON];huddetails
+- Retrieve Trillbot's Azimuthoscope;huddetails_complete
+Enter the Muckery in Dank Hollow and defeat the Myconids to gather Ember Truffles.;details
+Return to the Imperial Botanist in Dank Hollow for your reward.;details_complete
+"Oh, these are excellent specimens.  You really went far beyond my expectations, here.  And, for your trouble, have this:  It's a Super Mana Potion I cooked up while I was waiting for you to return.
+Thanks again!";complete
+"Let me tell you a little about Ember Truffles.  Lots of plants and even some animals absorb Ember essence, if they're exposed to high enough concentrations of it.  Those plants and animals can be harvested, and the Ember distilled out of them, to make it absorbable by humans.  This work is mainly done by Imperial Alchemists … which is probably what happened to the guy you're looking for.
+But sometimes, in the wild, plants and animals absorb Ember and it … changes them.  They begin to move by themselves.  Some of them even develop a rudimentary intelligence.  Most of the time, that's not too horrific … but, when the plant or animal is big or dangerous enough, well, they can get pretty vicious.  You've probably even faced one or two creatures that have absorbed a little too much Ember.";return
+"So, you're going after the Alchemist?  I might be able to help you.  I'm a botanist, serving the Empire by gathering various Ember-infused plants.  And I've found a virtual treasure trove of Ember Truffles, down in the Muckery … but some of them have already attained sentience, and that's making it difficult for me to gather them.
+If you can bring me, say, a dozen Ember Truffles, I'll keep ten for the Empire, and I'll use the other two to make a Super Mana Potion for you.  Do we have a deal?";intro
+"- Enter the Muckery in Dank Hollow; defeat Myconids to gather Ember Truffles";huddetails
+- Return to Imperial Botanist in Dank Hollow;huddetails_complete
+Search the Blightbogs for the Rotting Crypt. Discover the fate of Jessa's father.;details
+Search the Blightbogs for the Rotting Crypt.  Discover the fate of Jessa's father, and return proof to Jessa.;details_complete
+"It is too late for me, stranger - as you must surely see. Jessa must not enter this place - do not allow it!
+I did indeed discover the Wraithring, but it is not unguarded. The Wraith Lord himself stole my own life with its power, and my remains now lie below us.";complete
+"Please, you must discover the fate of my father! Remember, he always wears a unique locket.
+I must know if he still lives!";return
+"Please, traveler! Wait a moment! I am Jessa - a traveler from Estheria. My father and I came to this place to recover an ancient artifact - the  Wraithring - which is said to have power over death itself. We sought to bring it to the Estherian Temples for study.
+My father entered the catacombs while I tended our camp - but he has not returned, and there are dark things stirring below.
+Please - I only ask that you discover his fate - perhaps he is wounded and only needs aid to escape! 
+If the worst comes to pass ... he wears a locket around his neck, and you will know him by it.";intro
+- Discover the fate of Jessa's Father in the Rotting Crypt found in the Blightbogs.;huddetails
+- Discover the fate of Jessa's Father in the Rotting Crypt found in the Blightbogs.;huddetails_complete
+- Defeat Cacklespit.;huddetails
+Defeat Cacklespit.;details
+"I will provide you with a last piece of advice, though it is against my better judgement.
+Cacklespit draws her power from her own creations - she will be difficult, if not impossible, to harm while her champions are animate.";passive
+- Defeat Vyrax at the top of the tower.;huddetails
+Defeat Vyrax at the top of the tower.;details
+Defeat the Wraith Lord and recover the Locket from the Rotting Crypt located in the Blightbogs.;details
+Return the Locket to Jessa in the Blightbogs.;details_complete
+"Alas - my poor father... I cannot believe that he is gone. I must return to Estheria - I can stay here no longer. 
+Thank you, traveler. The pain I feel is great, but at least I know what has become of him, and have his Locket to remember him by. 
+Farewell...";complete
+"I perished in the Wraith Lord's grasp. To find the Locket you must enter his chambers - and the way may only be opened by the Sanguine Gems. 
+If you can retrieve them from the crypt, and deposit them on these altars, then the way will be opened to you.";return
+"I am bound to this place, and may not pass beyond the threshold. 
+If you seek my remains, you must find the Sanguine Gems - they may be found in the depths beyond. Place them upon these altars, and the path to the Wraith Lord will be revealed.
+If you can best him, you will discover my remains there - and the Locket Jessa seeks.";intro
+- Find the Locket in the Rotting Crypt located in the Blightbogs.;huddetails
+- Return the Locket to Jessa in the Blightbogs.;huddetails_complete
+"Oh, my poor father - I cannot believe that he is gone! Dear father...
+Please try to retrieve the Locket - I cannot bear to think that it is lost in this foul place.";passive
+"Oh, please - perhaps you can help us!  On the advice of our village's healer, we have traveled here seeking a cure. My cousins are afflicted with the Black Blindness, an ailment peculiar to our race. 
+The only known treatment is produced from the flesh of the Blue Boletus - a species of Mycon that grows only in the Fungal Caves near here. I find that they are, ah, BIGGER than I had anticipated, however.  
+Perhaps YOU could retrieve some Blue Boletus flesh for us? We would be forever in your debt!";intro
+"Bolts and gears! You've found it! The flesh of the Blue Boletus!  Oh, thank you ever so much!  
+We should be able to brew a cure for the illness soon!  My cousins are saved!  Please, take this for your efforts, friend.";complete
+"Black Blindness is an insidious disease - it dims the vision and makes speech impossible, and if not treated within a few weeks, can become permanent.  My poor cousins!
+Please, hurry to retrieve the Blue Boletus flesh!  You are the only hope we have!";return
+Find Blue Boletus flesh in the Fungal Caves;huddetails
+Return to Sprocket in the Imperial Camp;huddetails_complete
+You are in search of Blue Boletus flesh to cure the Black Blindness that afflicts Sprocket's cousins.;details
+You have harvested  Blue Boletus flesh from Boletus Rex. Return it to Sprocket in the Imperial Camp.;details_complete
+"Another customer for one of old Cacklespit's brews, eh? I can provide a special concoction, free of charge...if you aren't afraid to get your hands a little dirty.
+As any true cook will tell you, the finest ingredients are of the utmost importance if you want to create something truly special. I will require three items to brew the special mixture I have in mind...
+The Mask of a Murderer, Thorns as Hard as Iron, and the Black Heart of a Coward.
+All three are to be found here in the bogs - you only have to find them!";intro
+"Oh, yes - you've found everything I need!
+This brew will indeed make you a legend - with these fine ingredients to feed my cauldron, I, Cacklespit can command the dead to rise from their slumber and do my bidding!  
+You will be remembered for all time as the fool who brought Cacklespit ultimate power, and torment to all of the world! With an undead army at my disposal, none can stand against me!
+'Til we meet again, dear friend!";complete
+"But, you don't appear to have what I require!
+Remember - you must bring me the Mask of a Murderer, Thorns as Hard as Iron, and the Black Heart of a Coward.
+Once I brew them properly, your name will be known for generations to come!";return
+"- Retrieve Cacklespit's ingredients-
+  The Mask of a Murderer
+  Thorns as Hard as Iron
+  The Black Heart of a Coward";huddetails
+- Return to Cacklespit in the Blightbogs;huddetails_complete
+"You summoned Cacklespit - a witch who has promised to brew you a special potion. She requires three ingredients -
+The Mask of a Murderer, Thorns as Hard as Iron, and the Black Heart of a Coward.
+All three are to be found in the Blightbogs";details
+You have collected all three of Cacklespit's ingredients. Return them to her in the Blightbogs to receive your reward;details_complete
+"Since you helped us in our time of need, we have been searching for a way to return the favor.
+It seems you've met with some unexpected trouble from Cacklespit the witch. I've done a little research, and if you'd like to find her, I think I can help! 
+From the lore I've been able to piece together, there is a secret way to her hidden realm. The spirit, Fade, can open the way - but he may ask for something in return. You'll have to journey to the Sundered Battlefield in the north. Search for the shrines that mark Fade's resting place. I hope this helps you on your way!";intro
+I'll keep researching in hopes of finding more information to help you. Remember, you'll need to speak with Fade to gain entrance to Cacklespit's realm.;return
+Find Fade in the Sundered Battlefield;huddetails
+Find Fade in the Sundered Battlefield. You require his assistance to reach Cacklespit's Realm.;details
+I hope the information we've provided helps you in your search!;passive
+"You want through THIS door? Ha! Well, it's not as simple as that. Everything has a price - you must know that by now. 
+If you can solve a problem for us, we will solve a problem for you. Thiss, the great Spectral Dragon, has kept something of ours for many long years. We would like it back - and you will get it for us, oh yes.
+There is a Crown, a...family heirloom that he stole from us. He will not give it up easily, of course. But this door is im-PENETRABLE - so you've got a much better chance with Thiss than you do waiting around here.
+You can find Thiss in the Forgotten Halls... good luck! You're going to need it!";intro
+Do you have the Crown? No? Then what are you doing here? Thiss is in the Forgotten Halls. Hurry up about it.;return
+- Retrieve the Crown from the Forgotten Halls;huddetails
+- Return to the Emberworks Door.;huddetails_complete
+Enter the Forgotten Halls and confront Thiss the Spectral Dragon. Reclaim the Crown for the mysterious individual behind the Emberworks Door.;details
+Return the Crown to the mysterious individual behind the Emberworks Door.;details_complete
+I can't believe it. The Crown! At last, it is ours again! A-hahahaha! Yes, place it in the slot there-;complete
+Find the elemental crystals and their altars.;huddetails
+You found a strange crystal in the area. Its seems as if it has some kind of importance. Possibly you can find a use for it. Maybe there are more?;details
+"I am Fade - why have you summoned me?
+Ah, Cacklespit's hidden realm. Yes, I know the way - but I do not provide service without compensation.
+I have very particular...appetites. The remains of the living are infused with a lingering residue of deeds past, which sustains me. Bring me the skulls of four warriors of renown, and I will take you where you wish to go. This battlefield is littered with the bones of great heroes. Your search should not be difficult.";intro
+"Ah, yes. These will do nicely. The scrim of bloody deeds and life lost on these relics is most delicious.
+The bargain is complete. Come, we will depart immediately.";complete
+Do not return until you have found the skulls of four warriors of renown. Only then will I fulfill my part of our bargain.;return
+[ACQUIRECOMPLETECOUNT]/[ACQUIRECOUNT] - Retrieve the skulls of four warriors for Fade.;huddetails
+- Return the four skulls to Fade in the Battlefield.;huddetails_complete
+Fade the spectral ferryman has agreed to lead you to the realm of Cacklespit the witch, in exchange for the skulls of four warriors of renown. Seek out the four skulls and return them to Fade.;details
+Return the four skulls to Fade in the Battlefield.;details_complete
+"Hello again! I think I may be able to repay the favor you've done for us.
+I've been doing some research, and have uncovered some interesting information about Vyrax, the ancient dragon who still dwells in the tower in Rivenskull Gorge. He was bound there by his brother, Thiss - whose spectral form lies beneath us in these Forgotten Halls.
+The interesting bit is this - Vyrax has amidst his hoard a Heartfire Stone, which confers to its wielder the power of dragonfire. It is a rare and powerful artifact that would surely aid you. If you can find the key below, you may be able to enter Vyrax's Tower and claim the Heartfire Stone for yourself!";intro
+"If you wish to find the Heartfire Stone, you will need to first claim the key to Vyrax's Tower, in the depths of the Forgotten Halls. 
+Good luck!";return
+- Find the Key to Vyrax's Tower in the Forgotten Halls.;huddetails
+- Enter Vyrax's Tower in Rivenskull Gorge.;huddetails_complete
+To find the Heartfire Stone, you will need to first claim the Key to Vyrax's Tower, in the depths of the Forgotten Halls. Use the Key to gain entrance to Vyrax's Tower in Rivenskull Gorge.;details
+Use the Key to gain entrance to Vyrax's Tower in Rivenskull Gorge.;details_complete
+"Seek the ""Nether-Rift"" at the bottom of the Gravedeep pit mine, in the Sundered Battlefield, and find a way to close it.";details
+"That ... that was horrific.  They caught us by surprise.  They just appeared out of nowhere, squirming out of thin air, like they'd torn holes in reality.  They killed the rest of my patrol, one by one ... but then, when you came along, and you couldn't see them, I started to doubt my own sanity!
+Thanks for trusting me.";complete
+"Did you see the ""Nether-Rift"" I told you about?  How large has it gotten?";return
+"Listen:  If you're headed out to the Sundered Battlefield, there's something you should know.  We were surveying out there, and discovered some kind of ... hole, in thin air, in the pit mine we've been calling Gravedeep.  The hole is very small, right now, but we could see things inside ... powerful things, but horrible.  Malign.
+If you're going out there, see if you can find the hole.  If we're lucky, it disappeared.  But, if not, you should do your best to find a way to close it, before the things we saw get through!";intro
+"- Locate the ""Nether-Rift"" in the Gravedeep, in the Sundered Battlefield";huddetails
+"- Close the ""Nether-Rift""";huddetails_complete
+Somebody help me!;intro
+Thanks for your help.  Here ... something for your trouble.;complete
+Defeat the monsters attacking the traveler's wagon.;details
